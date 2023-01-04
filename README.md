@@ -1,11 +1,11 @@
 # Website
 
-I used [Docusaurus 2], a modern static website generator, to build my portfoilo Website. 
+I used [Docusaurus 2], a static website generator, to build my portfoilo Website. 
 
 ### Installation
 
 ```
-I used VSU as my IDE to do a website tranformation, write markdown files, etc.  
+I used VSU as my IDE to do a website tranformation, write markdown files, add react components, etc.  
 ```
 
 ### Local Development
