@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Technical Writer',
-  tagline: 'Tech, Energy, and Finance',
+  tagline: 'Tech, Energy, and inance',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -36,15 +36,13 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -94,7 +92,7 @@ const config = {
             items: [
               {
                 label: 'Instagram',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                href: 'https://www.instagram.com/damurphy_/',
               },
               {
                 label: 'Hackernoon',
