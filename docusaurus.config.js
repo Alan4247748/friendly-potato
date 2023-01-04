@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Technical Writer',
-  tagline: 'Tech, Energy, and inance',
+  tagline: 'Tech, Energy, and Finance',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -79,7 +79,7 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Case Studies',
             items: [
               {
                 label: 'Tutorial',
@@ -105,7 +105,7 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'Published articles',
             items: [
               {
                 label: 'Blog',

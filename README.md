@@ -17,7 +17,7 @@ to test during dev sprints.
 ### Deployment
 
 ```
-I'm using GitHub as my cloud and Git as my local memory card and to practice 
+I'm using GitHub as my cloud and Git as my local memory card to practice 
 some continuous integration techniques. For deployment, I will be testing
 Netlify (I know) and Vercel (I don't) to serve and deploy the final website.
 ```
