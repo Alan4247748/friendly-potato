@@ -11,12 +11,8 @@ I used VSU as my IDE to do a website tranformation, write markdown files, add re
 ### Local Development
 
 ```
-I used a NPM run build to generate static files & used Local server 3000 to test during dev sprints. 
-```
-
-### Build
-```
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+I used a NPM run build to generate static files & used Local server 3000
+to test during dev sprints. 
 ```
 ### Deployment
 
