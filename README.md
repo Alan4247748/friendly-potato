@@ -1,11 +1,11 @@
 # Website
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+I used [Docusaurus 2], a modern static website generator, to build my portfoilo Website. 
 
 ### Installation
 
 ```
-$ yarn
+I used VSU as my IDE to write markdown files, and do a website tranformation 
 ```
 
 ### Local Development
@@ -38,4 +38,4 @@ Not using SSH:
 $ GIT_USER=<Your GitHub username> yarn deploy
 ```
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+I'm using GitHub pages for hosting, and to learn a continuous integration best practices, as a convenient way to build the website and push to the `gh-pages` branch.
