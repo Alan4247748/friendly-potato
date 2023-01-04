@@ -20,4 +20,6 @@ This command generates static content into the `build` directory and can be serv
 
 ### Deployment
 
-I'm using GitHub as my cloud/local memory card and to learn a continuous integration best practices. I then autheticate from to netlify to serve and deploy the final website.
+I'm using GitHub as my cloud and Git as my local memory card and to practice some continuous integration techniques. 
+
+For deployment, I will be testing both Netlify (I know) and Vercel (I don't) to serve and deploy the final website.
