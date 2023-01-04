@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Technical Writer',
-  tagline: 'Clarify the complex',
+  tagline: 'Tech, Energy, and Finance',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -16,8 +16,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'Alan4247748', // Usually your GitHub org/user name.
+  projectName: 'friendly-potato', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -60,7 +60,7 @@ const config = {
         title: 'My Site',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/newlogo.svg',
         },
         items: [
           {
@@ -90,14 +90,14 @@ const config = {
             ],
           },
           {
-            title: 'Community',
+            title: 'Social',
             items: [
               {
-                label: 'Stack Overflow',
+                label: 'Instagram',
                 href: 'https://stackoverflow.com/questions/tagged/docusaurus',
               },
               {
-                label: 'Discord',
+                label: 'Hackernoon',
                 href: 'https://discordapp.com/invite/docusaurus',
               },
               {
@@ -115,12 +115,12 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/Alan4247748',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Alan Murphy, content and design.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Alan Murphy, Dev, Content and Design.`,
       },
       prism: {
         theme: lightCodeTheme,

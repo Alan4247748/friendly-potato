@@ -5,37 +5,19 @@ I used [Docusaurus 2], a modern static website generator, to build my portfoilo 
 ### Installation
 
 ```
-I used VSU as my IDE to write markdown files, and do a website tranformation 
+I used VSU as my IDE to do a website tranformation, write markdown files, etc.  
 ```
 
 ### Local Development
 
 ```
-$ yarn start
+I used a NPM run build to generate static files & used Local server 3000 to test during dev sprints. 
 ```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
 
 ### Build
-
-```
-$ yarn build
-```
 
 This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
 ### Deployment
 
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-I'm using GitHub pages for hosting, and to learn a continuous integration best practices, as a convenient way to build the website and push to the `gh-pages` branch.
+I'm using GitHub as my cloud/local memory card and to learn a continuous integration best practices. I then autheticate from to netlify to serve and deploy the final website.

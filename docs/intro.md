@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # Intro
 
+Hello world — below you will 
+
 **The function of this page**.
 
 ## Getting Started
