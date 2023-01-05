@@ -29,17 +29,21 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
-/* First attempt at installing a custom font using a ttf file and putting inside the src directory */
+/* 2nd attempt at installing a custom font using a ttf file and putting inside the src directory */
 @font-face {
-  font-family: "kong text";
-  src: url("./fonts/kong-text-Regular-webfont.woff2") format("ttf"),
-    url("./fonts/kong-text-Regular-webfont.woff") format("ttf");
-  font-weight: bold;
-  font-display: swap;
+  font-family: 'Kongtext', monospace;
+  src: url(fonts/kong-text.woff2) format('woff2'),
+       url(fonts/kong-text.woff) format('woff'),
+       url(fonts/kong-text.ttf) format('truetype');
+  font-display: optional;
 }
-* {
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  font-family: "Open Sans";
+
+@font-face {
+  font-family: 'Kongtext', monospace;
+  src: url(fonts/roboto-mono-v12-latin-700italic.woff2) format('woff2'),
+       url(fonts/roboto-mono-v12-latin-700italic.woff) format('woff'),
+       url(fonts/roboto-mono-v12-latin-700italic.ttf) format('truetype');
   font-weight: 400;
+  font-style: normal;
+  font-display: optional;
 }
