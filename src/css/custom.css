@@ -44,6 +44,6 @@
        url(http://www.gnome.org/fonts/.woff) format('woff'),
        url(http://www.gnome.org/fonts/.ttf) format('truetype');
   font-weight: 400;
-  font-style: normal;
+  font-style: regular;
   font-display: optional;
 }
