@@ -1,7 +1,7 @@
 import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
-import './fonts/Goldman/kongtext.ttf';
+import './fonts/kongtext.ttf';
 
 
 const FeatureList = [
