@@ -28,3 +28,18 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/* First attempt at installing a custom font using a ttf file and putting inside the src directory */
+@font-face {
+  font-family: "kong text";
+  src: url("./fonts/kong-text-Regular-webfont.woff2") format("ttf"),
+    url("./fonts/kong-text-Regular-webfont.woff") format("ttf");
+  font-weight: bold;
+  font-display: swap;
+}
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: "Open Sans";
+  font-weight: 400;
+}
