@@ -2,36 +2,30 @@
 sidebar_position: 1
 ---
 
-# Intro
+# Case Study 
 
-Hello world — below you will 
+The Diplomatic sales team at Volvo needed help generating new leads. We rolled out a series of websites using modular design components.  
 
-**The function of this page**.
+# My Role 
 
-## Getting Started
+  ***I designed landing pages in Adobe XD, implementing building an art direction from Volvo's commissioned image bank. I coordinated with language, design, web dev agencies, and the Volvo team to complete this project.***
 
-### What you'll need
+ - 40% Design 
+ - 60% Copywriting
+
+## XC90 Recharge
+
+**Going Electric**
+
+The XC90 Recharge electric vehicle is part of Volvo's new all-electric fleet. With the XC90 Recharge, you go through life in a powerful but eco-friendly way. With feature interior and exterior materials that speak to comfort. The unique design of the XC90 allows passengers to experience the vehicle more as a space rather than a mode of transportation. To accompany the global launch in 2021. 
+
+
+# Website link
 
 ```python
- - this will include some shit 
+ https://diplomatic.volvocars.be/
 ````
 
-## Generate a new site
+# Results
 
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-# comment 
-
-[hide] 
-
-[EOF]
+The sales team saw a significant bump in leads generated. 
