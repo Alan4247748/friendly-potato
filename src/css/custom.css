@@ -5,6 +5,18 @@
  */
 
 /* You can override the default Infima variables here. */
+
+/* 3rd attempt at installing a custom font using a ttf file and putting inside the src directory */
+
+@font-face {
+  font-family: 'Kongtext';
+  src: url('KongtextRegular.woff2') format('woff2'),
+      url('KongtextRegular.woff') format('woff'),
+      url('Kongtext.tiff') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
 :root {
   --ifm-color-primary: #2e8555;
   --ifm-color-primary-dark: #29784c;
@@ -27,16 +39,4 @@
   --ifm-color-primary-lighter: #32d8b4;
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
-}
-
-/* 3rd attempt at installing a custom font using a ttf file and putting inside the src directory */
-
-@font-face {
-  font-family: 'Kongtext';
-  src: url('KongtextRegular.woff2') format('woff2'),
-      url('KongtextRegular.woff') format('woff'),
-      url('KongtextRegular.tiff') format('truetype');
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
 }
