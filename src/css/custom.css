@@ -5,22 +5,6 @@
  */
 
 /* You can override the default Infima variables here. */
-
-/* 3rd attempt at installing a custom font using a ttf file and putting inside the src directory */
-
-@font-face {
-  font-family: 'Kongtext';
-  src: url('KongtextRegular.woff2') format('woff2'),
-      url('KongtextRegular.woff') format('woff'),
-      url('Kongtext.tiff') format('truetype');
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
-
-.font-face-kt {
-  font-family: "Kongtext";
- }
  
 :root {
   --ifm-color-primary: #2e8555;

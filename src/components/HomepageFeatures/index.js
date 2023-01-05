@@ -3,7 +3,6 @@ import clsx from 'clsx';
 import styles from './styles.module.css';
 import './fonts/kongtext.ttf';
 
-
 const FeatureList = [
   {
     title: 'Context',
