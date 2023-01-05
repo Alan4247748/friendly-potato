@@ -29,14 +29,7 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
-/* 2nd attempt at installing a custom font using a ttf file and putting inside the src directory */
-@font-face {
-  font-family: 'Kongtext', monospace;
-  src: url(http://www.gnome.org/fonts/.woff2) format('woff2'),
-       url(http://www.gnome.org/fonts/.woff) format('woff'),
-       url(http://www.gnome.org/fonts/.ttf) format('truetype');
-  font-display: optional;
-}
+/* 3rd attempt at installing a custom font using a ttf file and putting inside the src directory */
 
 @font-face {
   font-family: 'Kongtext';
