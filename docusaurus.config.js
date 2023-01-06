@@ -58,14 +58,14 @@ const config = {
         title: 'My Site',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/newlogo.svg',
         },
-        items: [
+        items: [ç
           {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Case Studies',
+            label: 'Projects',
           },
           {to: '/blog', label: 'Blog', position: 'right'},
           {
