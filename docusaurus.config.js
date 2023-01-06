@@ -34,18 +34,15 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
 
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
+          // Change to CSS.NES
         },
       }),
     ],
@@ -58,9 +55,9 @@ const config = {
         title: 'My Site',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/newlogo.svg',
+          src: 'img/logo.svg',
         },
-        items: [ç
+        items: [
           {
             type: 'doc',
             docId: 'intro',
@@ -68,21 +65,16 @@ const config = {
             label: 'Projects',
           },
           {to: '/blog', label: 'Blog', position: 'right'},
-          {
-            href: 'https://github.com/Alan4247748',
-            label: 'GitHub',
-            position: 'right',
-          },
         ],
       },
       footer: {
         style: 'dark',
         links: [
           {
-            title: 'Case Studies',
+            title: 'Admin',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Legal',
                 to: '/docs/intro',
               },
             ],
@@ -95,8 +87,8 @@ const config = {
                 href: 'https://www.instagram.com/damurphy_/',
               },
               {
-                label: 'Hackernoon',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Github',
+                href: 'https://github.com/Alan4247748',
               },
               {
                 label: 'Linkedin',
