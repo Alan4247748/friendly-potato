@@ -104,13 +104,13 @@ const config = {
                 to: '/blog',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/Alan4247748',
+                label: 'Medium',
+                href: 'https://medium.com/Alan4247748',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Alan Murphy, Dev, Content, and Design.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Alan Murphy, Development, Content, and Design.`,
       },
       prism: {
         theme: lightCodeTheme,

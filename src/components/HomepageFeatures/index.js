@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-      I speak to your technical experts and map out the story.
+      I need to build up context to understand your goals and audience.
 
       </>
     ), 
