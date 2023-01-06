@@ -1,6 +1,6 @@
 # Website
 
-I used [Docusaurus 2], a static website generator, to build my portfoilo Website. 
+I used [Docusaurus 2], a static website generator, to build my portfolio Website. 
 
 ### Tools & Process
 

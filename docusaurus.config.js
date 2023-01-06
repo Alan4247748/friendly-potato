@@ -118,7 +118,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Alan Murphy, Dev, Content and Design.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Alan Murphy, Dev, Content, and Design.`,
       },
       prism: {
         theme: lightCodeTheme,
