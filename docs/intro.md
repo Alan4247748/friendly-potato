@@ -6,7 +6,7 @@ sidebar_position: 1
 
 The Diplomatic sales team at Volvo needed help generating new leads. We rolled out a series of websites using modular design components.  
 
-![image info] (./img/Artboard 1.svg)
+![image info] ./img/Volvo.svg
 
 # My Role 
 
