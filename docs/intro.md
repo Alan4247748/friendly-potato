@@ -1,13 +1,11 @@
 ---
 sidebar_position: 1
 ---
+# Volvo — Case Study
 
 ![Volvo Tagline](../static/img/Volvo.png)
 
-# Volvo — Case Study
-
 The Diplomatic sales team at Volvo needed help generating new leads. We rolled out a series of websites using modular design components. 
-
 
 ![Volvo Prop](../static/img/Volvo1.png)
 
