@@ -6,7 +6,7 @@ sidebar_position: 1
 
 The Diplomatic sales team at Volvo needed help generating new leads. We rolled out a series of websites using modular design components.  
 
-![image info] ./img/Volvo.svg
+![image info] (./img/Volvo.svg)
 
 # My Role 
 
@@ -30,8 +30,8 @@ The XC90 Recharge electric vehicle is part of Volvo's new all-electric fleet. Wi
 
 # Results
 
-The sales team saw a significant bump in leads when combined with google ad campaigns within Beligium and Luxenbourg. 
+- The sales team saw a significant bump in leads when combined with google ad campaigns within Beligium and Luxenbourg. 
 
-Sales Reps now had personalised websites for their sales tool kits. 
+- Sales Reps now had personalised websites for their sales tool kits. 
 
 
