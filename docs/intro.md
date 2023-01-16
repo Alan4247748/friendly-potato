@@ -2,12 +2,14 @@
 sidebar_position: 1
 ---
 
+![Volvo Tagline](../static/img/Volvo.png)
+
 # Volvo — Case Study
 
 The Diplomatic sales team at Volvo needed help generating new leads. We rolled out a series of websites using modular design components.  
 
-![Image info](./img/Volvo.png)
 
+![Volvo Prop](../static/img/Volvo1.png)
 
 # My Role 
 
@@ -22,7 +24,7 @@ The Diplomatic sales team at Volvo needed help generating new leads. We rolled o
 
 The XC90 Recharge electric vehicle is part of Volvo's new all-electric fleet. With the XC90 Recharge, you go through life in a powerful but eco-friendly way. With feature interior and exterior materials that speak to comfort. The unique design of the XC90 allows passengers to experience the vehicle more as a space rather than a mode of transportation. To accompany the global launch in 2021. 
 
-
+![Authentic luxury](../static/img/Volvo2.png)
 # Website Example
 
 ```python
@@ -35,4 +37,4 @@ The XC90 Recharge electric vehicle is part of Volvo's new all-electric fleet. Wi
 
 - Sales Reps now had personalised websites for their sales tool kits. 
 
-
+![Volvo Campiagn](../static/img/Volvo3.png)
