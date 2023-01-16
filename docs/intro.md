@@ -6,7 +6,7 @@ sidebar_position: 1
 
 # Volvo — Case Study
 
-The Diplomatic sales team at Volvo needed help generating new leads. We rolled out a series of websites using modular design components.  
+The Diplomatic sales team at Volvo needed help generating new leads. We rolled out a series of websites using modular design components. 
 
 
 ![Volvo Prop](../static/img/Volvo1.png)
@@ -33,7 +33,7 @@ The XC90 Recharge electric vehicle is part of Volvo's new all-electric fleet. Wi
 
 # Results
 
-- The sales team saw a significant bump in leads when combined with google ad campaigns within Beligium and Luxenbourg. 
+- The sales team saw a significant bump in leads when combined with google ad campaigns within Belgium and Luxembourg. 
 
 - Sales Reps now had personalised websites for their sales tool kits. 
 
