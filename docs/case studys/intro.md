@@ -31,8 +31,8 @@ The XC90 Recharge electric vehicle is part of Volvo's new all-electric fleet. Wi
 
 # Results
 
-- The sales team saw a significant bump in leads when combined with google ad campaigns within Belgium and Luxembourg. 
-
-- Sales Reps now had personalised websites for their sales tool kits. 
+- Thanks to our efforts, Volvo is now able to target and attract high-value diplomatic customers. 
+- Sales Reps have personalised websites in their sales tool kits. 
+- Combined with google ads campaigns the result was a powerful lead generation system. 
 
 ![Volvo Campiagn](../static/img/Volvo3.png)
