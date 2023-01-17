@@ -3,11 +3,11 @@ sidebar_position: 1
 ---
 # VOLVO — Case Study
 
-![Volvo Tagline](../../static/img/Volvo.png)
+![Volvo Tagline](../static/img/Volvo.png)
 
 The Diplomatic sales team at Volvo needed help generating new leads. We rolled out a series of websites using modular design components. 
 
-![Volvo Prop](../../static/img/Volvo1.png)
+![Volvo Prop](../static/img/Volvo1.png)
 # My Role 
 
   ***I designed landing pages in Adobe XD, created an art direction from Volvo's commissioned image bank while coordinating with language, design, and web dev agencies, and the Volvo team.***
@@ -23,7 +23,7 @@ The XC90 Recharge electric vehicle is part of Volvo's new all-electric fleet. Wi
 
 The unique design of the XC90 allows passengers to experience the vehicle more as a space rather than a mode of transportation. To accompany the global launch in 2021. 
 
-![Authentic luxury](../../static/img/Volvo2.png)
+![Authentic luxury](../static/img/Volvo2.png)
 
 # Website Example
 
@@ -37,4 +37,4 @@ The unique design of the XC90 allows passengers to experience the vehicle more a
 - Sales Reps have personalised websites in their sales tool kits. 
 - Combined with google ads campaigns the result was a powerful lead generation system. 
 
-![Volvo Campaign](../../static/img/Volvo3.png)
+![Volvo Campaign](../static/img/Volvo3.png)
