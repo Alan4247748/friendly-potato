@@ -10,7 +10,7 @@ The Diplomatic sales team at Volvo needed help generating new leads. We rolled o
 ![Volvo Prop](../static/img/Volvo1.png)
 # My Role 
 
-  ***I designed landing pages in Adobe XD, created an art direction from Volvo's commissioned image bank while coordinating with language, design, and web dev agencies, and the Volvo team.***
+  ***I designed landing pages in Adobe XD, created an art direction from Volvo's commissioned images while coordinating with language, design, and web dev agencies, and the Volvo team.***
 
  - 60% Copywriting
  - 40% Design
