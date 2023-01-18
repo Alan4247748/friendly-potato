@@ -1,4 +1,4 @@
-# Headings
+# MARKDOWN STYLE GUIDE .MD & .MDX
 
 # Heading 1
 
@@ -149,6 +149,7 @@ Monospace Text wrapped in "pre" tags:
 3. List Item 3
     1. List Item 3.1
     2. List Item 3.2
+    3. List Item 3.3
         1. List Item 3.2.1
         2. List Item 3.2 2
     3. List Item 3.3
