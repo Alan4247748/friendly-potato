@@ -159,11 +159,11 @@ Monospace Text wrapped in "pre" tags:
 * List Item 1
 * List Item 2
 * List Item 3
-    * List Item 3.1
-    * List Item 3.2
-        * List Item 3.2.1
-        * List Item 3.2 2
-    * List Item 3.3
+  * List Item 3.1
+  * List Item 3.2
+  * List Item 3.2.1
+  * List Item 3.2 2
+* List Item 3.3
 * List Item 4
 
 ## Definition List
