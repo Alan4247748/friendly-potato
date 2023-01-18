@@ -1,4 +1,8 @@
-# MARKDOWN STYLE GUIDE .MD & .MDX
+# MARKDOWN STYLE GUIDE
+ 
+ `File Extensions`
+ 
+ <pre>.MD & .MDX</pre>
 
 # Heading 1
 
