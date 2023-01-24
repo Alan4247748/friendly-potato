@@ -19,13 +19,12 @@
 
 /* Always open sidebar */
 .navbar-burger {
-  display: none !important;
+  display: flex !important;
 }
 
 .navbar-menu {
   display: block !important;
 }
-
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
@@ -37,4 +36,5 @@
   --ifm-color-primary-lighter: #b2d8f1;
   --ifm-color-primary-lightest: #e1f0fa;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+
 }
