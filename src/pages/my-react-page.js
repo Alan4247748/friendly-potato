@@ -1,16 +1,16 @@
 
 import React from 'react';
-import Layout from '@theme/Layout';
+import Layout from '@theme/Layout'; 
 
 export default function MyReactPage() {
   return (
     <Layout>
-      <h1>My React page</h1>
-      <p>This is a React page</p>
+      <h1>My First React Component</h1>
+      <p>Well I have a lot to learn, but this is kind of coming together nicely!</p>
 <div class="card-demo">
   <div class="card">
     <div class="card__header">
-      <h3>Lorem Ipsum</h3>
+      <h3>Services</h3>
     </div>
     <div class="card__body">
       <p>
