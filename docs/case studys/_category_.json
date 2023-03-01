@@ -1,6 +1,6 @@
 {
-  "label": "case studys",
-  "position": 4,
+  "label": "Case Studys",
+  "position": 1,
   "link": {
     "type": "generated-index",
     "description": "My first attempt at generating indexs."
