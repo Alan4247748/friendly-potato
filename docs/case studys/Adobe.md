@@ -1,7 +1,10 @@
 ---
 sidebar_position: 1
 layout: post 
-Title: # ADOBE — Case Study
+id: adobe-case-study
+tags:
+  - Demo
+  - Getting started
 ---
 # ADOBE — Case Study
 
