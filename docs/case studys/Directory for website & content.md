@@ -1,7 +1,7 @@
-# Logic Tree Website Design 
+# Logic Tree Design
 
 ``` Javascript  
-example_site/
+My_site/
 ├── templates/
 │   ├── index.html.jinja
 │   ├── css/
