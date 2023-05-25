@@ -103,10 +103,6 @@ const config = {
                 label: 'Blog',
                 to: '/blog',
               },
-              {
-                label: 'Medium',
-                href: 'https://medium.com/Alan4247748',
-              },
             ],
           },
         ],
