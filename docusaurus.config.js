@@ -65,6 +65,9 @@ const config = {
             label: 'Projects',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/contact', label: 'Contact', position: 'left'},
+          {to: '/about', label: 'About', position: 'left'},
+
         ],
       },
       footer: {
