@@ -62,10 +62,10 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Projects',
+            label: 'Projects'
           },
+
           {to: '/blog', label: 'Blog', position: 'left'},
-          {to: '/contact', label: 'Contact', position: 'left'}
 
         ],
       },
