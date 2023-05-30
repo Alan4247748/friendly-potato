@@ -63,10 +63,9 @@ const config = {
             docId: 'intro',
             position: 'left',
             label: 'Projects',
-          },
+          },""
           {to: '/blog', label: 'Blog', position: 'left'},
-          {to: '/contact', label: 'Contact', position: 'left'},
-          {to: 'about', label: 'About', position: 'left'},
+          {to: '/contact', label: 'Contact', position: 'left'}
 
         ],
       },
@@ -96,7 +95,7 @@ const config = {
             ],
           },
           {
-            title: 'Published articles',
+            title: 'Feeds',
             items: [
               {
                 label: 'Blog',
