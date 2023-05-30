@@ -52,7 +52,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: '',
+        title: 'Home',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -66,7 +66,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {to: '/contact', label: 'Contact', position: 'left'},
-          {to: '/about', label: 'About', position: 'left'},
+          {to: 'about', label: 'About', position: 'left'},
 
         ],
       },
@@ -85,10 +85,6 @@ const config = {
           {
             title: 'Social',
             items: [
-              {
-                label: 'Instagram',
-                href: 'https://www.instagram.com/damurphy_/',
-              },
               {
                 label: 'Github',
                 href: 'https://github.com/Alan4247748',
