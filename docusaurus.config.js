@@ -42,7 +42,7 @@ const config = {
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
-          // Change to CSS.NES
+
         },
       }),
     ],
@@ -66,6 +66,8 @@ const config = {
           },
 
           {to: '/blog', label: 'Blog', position: 'left'},
+          { to: '/about', label: 'About', position: 'right',},
+          {  to: '/contact', label: 'Contact', position: 'right'},
 
         ],
       },
