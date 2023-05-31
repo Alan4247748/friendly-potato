@@ -11,3 +11,7 @@ A build is triggered in Netlify. Basic CI/CD.
 ``` Python
 This site will be my portfolio and blog.
 ```
+
+### Odd Things 
+
+I don't like how I have to use so much React, when I just really want to write .md files everywhere. 
