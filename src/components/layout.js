@@ -1,21 +1,17 @@
 import React from 'react';
 import { useThemeConfig } from '@docusaurus/theme-common';
-import { Navbar, Footer, Layout } from '@theme';
-import 'aboutStyles.css';
+import { Navbar, Footer } from '@theme';
 
-const About = () => {
+const DefaultLayout = ({ children }) => {
   const { navbar: navbarConfig, footer: footerConfig } = useThemeConfig();
 
   return (
-    <Layout>
+    <div>
       <Navbar items={navbarConfig.items} logo={navbarConfig.logo} />
-      <Layout.Main>
-        <h1>About Page</h1>
-        {/* Other content */}
-      </Layout.Main>
+      <main>{children}</main>
       <Footer links={footerConfig.links} />
-    </Layout>
+    </div>
   );
 };
 
-export default About;
+export default DefaultLayout;

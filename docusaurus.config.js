@@ -34,95 +34,82 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          
         },
         blog: {
           showReadingTime: true,
-
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
-
         },
       }),
     ],
   ],
 
-  themeConfig:
-    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    ({
-      navbar: {
-        title: 'Home',
-        logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
-        },
-        items: [
-          {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Projects'
-          },
-
-          {to: '/blog', label: 'Blog', position: 'left'},
-          { to: '/about', label: 'About', position: 'right',},
-          {  to: '/contact', label: 'Contact', position: 'right'},
-
-        ],
-      },
-      footer: {
-        style: 'dark',
-        links: [
-          {
-            title: 'Admin',
-            items: [
-              {
-                label: 'Legal',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
-            title: 'Social',
-            items: [
-              {
-                label: 'Github',
-                href: 'https://github.com/Alan4247748',
-              },
-              {
-                label: 'Linkedin',
-                href: 'https://www.linkedin.com/in/alan-murphy-/',
-              },
-            ],
-          },
-          {
-            title: 'Feeds',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-            ],
-          },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} Alan Murphy, Development, Content, and Design.`,
-      },
-      prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
-      },
-    }),
-};
-
-module.exports = config;
-
-module.exports = {
-  // ...
   themeConfig: {
-    // ...
+    navbar: {
+      title: 'Home',
+      logo: {
+        alt: 'My Site Logo',
+        src: 'img/logo.svg',
+      },
+      items: [
+        {
+          type: 'doc',
+          docId: 'intro',
+          position: 'left',
+          label: 'Projects',
+        },
+        { to: '/blog', label: 'Blog', position: 'left' },
+        { to: '/about', label: 'About', position: 'right' },
+        { to: '/contact', label: 'Contact', position: 'right' },
+      ],
+    },
+    footer: {
+      style: 'dark',
+      links: [
+        {
+          title: 'Admin',
+          items: [
+            {
+              label: 'Legal',
+              to: '/docs/intro',
+            },
+          ],
+        },
+        {
+          title: 'Social',
+          items: [
+            {
+              label: 'Github',
+              href: 'https://github.com/Alan4247748',
+            },
+            {
+              label: 'Linkedin',
+              href: 'https://www.linkedin.com/in/alan-murphy-/',
+            },
+          ],
+        },
+        {
+          title: 'Feeds',
+          items: [
+            {
+              label: 'Blog',
+              to: '/blog',
+            },
+          ],
+        },
+      ],
+      copyright: `Copyright © ${new Date().getFullYear()} Alan Murphy, Development, Content, and Design.`,
+    },
+    prism: {
+      theme: lightCodeTheme,
+      darkTheme: darkCodeTheme,
+    },
     layout: {
       default: require.resolve('./src/layouts/DefaultLayout.js'),
     },
   },
 };
+
+module.exports = config; 
+
