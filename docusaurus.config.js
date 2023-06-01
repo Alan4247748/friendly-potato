@@ -116,3 +116,13 @@ const config = {
 };
 
 module.exports = config;
+
+module.exports = {
+  // ...
+  themeConfig: {
+    // ...
+    layout: {
+      default: require.resolve('./src/layouts/DefaultLayout.js'),
+    },
+  },
+};
