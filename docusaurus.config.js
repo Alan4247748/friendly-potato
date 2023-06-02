@@ -31,7 +31,8 @@ const config = {
     [
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
-      ({
+      // @ts-ignore
+      {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
         },
@@ -41,10 +42,27 @@ const config = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
-      }),
+        pages: {
+          path: 'src/pages',
+          routeBasePath: '/',
+          include: ['**/*.{js,jsx,ts,tsx,md,mdx}'],
+          exclude: [
+            '**/_*.{js,jsx,ts,tsx,md,mdx}',
+            '**/_*/**',
+            '**/*.test.{js,jsx,ts,tsx}',
+            '**/__tests__/**',
+          ],
+          mdxPageComponent: '@theme/MDXPage',
+          remarkPlugins: [],
+          rehypePlugins: [],
+          beforeDefaultRemarkPlugins: [],
+          beforeDefaultRehypePlugins: [],
+        },
+      },
     ],
   ],
-
+  
+    
   themeConfig: {
     navbar: {
       title: 'Home',
@@ -73,6 +91,7 @@ const config = {
             {
               label: 'Legal',
               to: '/docs/intro',
+              
             },
           ],
         },
