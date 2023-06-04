@@ -42,30 +42,13 @@ const config = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
-        pages: {
-          path: 'src/pages',
-          routeBasePath: '/',
-          include: ['**/*.{js,jsx,ts,tsx,md,mdx}'],
-          exclude: [
-            '**/_*.{js,jsx,ts,tsx,md,mdx}',
-            '**/_*/**',
-            '**/*.test.{js,jsx,ts,tsx}',
-            '**/__tests__/**',
-          ],
-          mdxPageComponent: '@theme/MDXPage',
-          remarkPlugins: [],
-          rehypePlugins: [],
-          beforeDefaultRemarkPlugins: [],
-          beforeDefaultRehypePlugins: [],
-        },
       },
     ],
   ],
-  
-    
+
   themeConfig: {
     navbar: {
-      title: 'Home',
+      title: '',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -78,8 +61,8 @@ const config = {
           label: 'Projects',
         },
         { to: '/blog', label: 'Blog', position: 'left' },
-        { to: '/about', label: 'About', position: 'right' },
-        { to: '/contact', label: 'Contact', position: 'right' },
+        { to: '/about', label: 'About', position: 'left' },
+        { to: '/contact', label: 'Contact', position: 'left' },
       ],
     },
     footer: {
@@ -91,7 +74,10 @@ const config = {
             {
               label: 'Legal',
               to: '/docs/intro',
-              
+            },
+            {
+              label: 'Sitemap',
+              to: '/sitemap.xml',
             },
           ],
         },
@@ -123,6 +109,12 @@ const config = {
     prism: {
       theme: lightCodeTheme,
       darkTheme: darkCodeTheme,
+      defaultLanguage: 'javascript',
+    },
+    colorMode: {
+      defaultMode: 'dark',
+      disableSwitch: true,
+      respectPrefersColorScheme: false,
     },
     layout: {
       default: require.resolve('./src/layouts/DefaultLayout.js'),
@@ -130,5 +122,4 @@ const config = {
   },
 };
 
-module.exports = config; 
-
+module.exports = config;
