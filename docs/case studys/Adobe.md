@@ -1,6 +1,6 @@
 ---
-sidebar_position: 2
 Title: Adobe
+sidebar_position: 2
 sidebar_label: Adobe Case Study
 ---
 # ADOBE
