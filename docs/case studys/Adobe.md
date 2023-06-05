@@ -1,12 +1,9 @@
 ---
-sidebar_position: 1
-layout: post 
-id: adobe-case-study
-tags:
-  - Demo
-  - Getting started
+sidebar_position: 2
+Title: Adobe
+sidebar_label: Adobe Case Study
 ---
-# ADOBE — Case Study
+# ADOBE
 
 # The Question
  

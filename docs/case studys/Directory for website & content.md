@@ -1,3 +1,10 @@
+---
+title: Web Design
+sidebar_label: Logic Tree
+sidebar_position: 3
+---
+
+
 # Logic Tree Design
 
 ``` Javascript  

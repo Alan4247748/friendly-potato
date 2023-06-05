@@ -1,3 +1,9 @@
+---
+title: Markdown
+sidebar_label: .Md Style Guide
+sidebar_position: 4
+---
+
 # MARKDOWN STYLE GUIDE
  
  `File Extensions`
