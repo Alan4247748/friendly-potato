@@ -9,7 +9,8 @@ sidebar_position: 1
 The Diplomatic sales team at Volvo needed help generating new leads.
 We rolled out a series of websites using modular design components. 
 
-![Volvo Prop](/static/img/Volvo3.png)
+![Volvo Prop](/img/Volvo3.png)
+
 
 # My Role 
 
@@ -20,7 +21,7 @@ We rolled out a series of websites using modular design components.
 
 # XC90 Recharge
 
-![Volvo Value](/static/img/Volvo.png)
+![Volvo Value](/img/Volvo.png)
 
 
 **Going Electric**
@@ -29,7 +30,7 @@ The XC90 Recharge electric vehicle is part of Volvo's new all-electric fleet. Wi
 
 The unique design of the XC90 allows passengers to experience the vehicle more as a space rather than a mode of transportation. To accompany the global launch in 2021. 
 
-![Authentic Luxury](/static/img/Volvo1.png)
+![Authentic Luxury](/img/Volvo1.png)
 
 # Website Example
 
@@ -44,4 +45,4 @@ The unique design of the XC90 allows passengers to experience the vehicle more a
 - Combined with google ads campaigns the result was a powerful lead generation system. 
 
 
-![Volvo Campaign](/static/img/Volvo2.png)
+![Volvo Campaign](/img/Volvo2.png)
