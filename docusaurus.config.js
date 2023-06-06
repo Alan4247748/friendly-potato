@@ -63,12 +63,12 @@ const config = {
         {
           type: 'doc',
           docId: 'intro',
-          position: 'left',
+          position: 'right',
           label: 'Projects',
         },
-        { to: '/blog', label: 'Blog', position: 'left' },
-        { to: '/about', label: 'About', position: 'left' },
-        { to: '/contact', label: 'Contact', position: 'left' },
+        { to: '/blog', label: 'Blog', position: 'right' },
+        { to: '/about', label: 'About', position: 'right' },
+        { to: '/contact', label: 'Contact', position: 'right' },
       ],
     },
     footer: {
