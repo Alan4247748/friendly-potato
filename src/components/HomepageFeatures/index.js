@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-      I need to build up context to understand your goals and audience.
+      Build up context to understand your goals and audience.
 
       </>
     ), 
@@ -18,17 +18,17 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        I speak with your technical experts and map out the story's narrative.
+        Interview your experts to understand the technical nuance.
         
       </>
     ),
   },
   {
-    title: 'Writing & Editing',
+    title: 'Editing',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        I use 2-3 rounds of <code>editing</code> to get the story ready for publishing. 
+        2-3 rounds of <code>editing</code> to get the story ready for publishing. 
 
         </>
     
