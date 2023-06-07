@@ -1,9 +1,10 @@
 import React from 'react';
 import Form from '../components/Form';
-import DefaultLayout from '../components/layout';
+import DefaultLayout from '../layouts/DefaultLayout';
 import '../css/custom.css';
 
 const Contact = () => {
+
   return (
     <DefaultLayout>
       <div>
@@ -16,7 +17,7 @@ const Contact = () => {
               <button className="button button--secondary button--lg">Get Started</button>
             </div>
           </div>
-        </div>
+        </div> 
         <h1>Keen for your message</h1>
       </div>
     </DefaultLayout>
