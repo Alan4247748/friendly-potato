@@ -1,26 +1,28 @@
 import React from 'react';
-import NavbarConfig from './NavbarConfig';
 
 const Navbar = () => {
-  const navbarConfig = NavbarConfig();
+  const navbarConfig = {
+    title: 'Home',
+    logo: {
+      alt: 'My Site Logo',
+      src: 'img/logo.svg',
+    },
+    items: [
+      {
+        type: 'doc',
+        docId: 'intro',
+        position: 'left',
+        label: 'Projects',
+      },
+      { to: '/blog', label: 'Blog', position: 'left' },
+      { to: '/about', label: 'About', position: 'right' },
+      { to: '/contact', label: 'Contact', position: 'right' },
+    ],
+  };
 
   return (
     <nav>
-      <div>
-        <h1>{navbarConfig.title}</h1>
-        {/* Render the logo if available */}
-        {navbarConfig.logo && (
-          <img src={navbarConfig.logo.src} alt={navbarConfig.logo.alt} />
-        )}
-        {/* Render the navbar items */}
-        <ul>
-          {navbarConfig.items.map((item, index) => (
-            <li key={index} className={item.position}>
-              <a href={item.to}>{item.label}</a>
-            </li>
-          ))}
-        </ul>
-      </div>
+      {/* Your Navbar code here */}
     </nav>
   );
 };

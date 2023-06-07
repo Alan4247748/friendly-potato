@@ -1,17 +1,17 @@
 import React from 'react';
-import { useThemeConfig } from '@docusaurus/theme-common';
-import { Navbar, Footer } from '@theme';
+import '../css/custom.css';
+import Navbar from './Navbar'; // Import the Navbar component
+import Footer from './Footer'; // Import the Footer component
 
 const DefaultLayout = ({ children }) => {
-  const { navbar: navbarConfig, footer: footerConfig } = useThemeConfig();
-
   return (
     <div>
-      <Navbar items={navbarConfig.items} logo={navbarConfig.logo} />
+      <Navbar /> {/* Render the Navbar component */}
       <main>{children}</main>
-      <Footer links={footerConfig.links} />
+      <Footer /> {/* Render the Footer component */}
     </div>
   );
 };
 
 export default DefaultLayout;
+
