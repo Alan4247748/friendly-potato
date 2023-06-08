@@ -1,17 +1,19 @@
 ---
-Title: Adobe
+title: Adobe
+sidebar_label: Adobe
+description: Adobe Digital Campaign
 sidebar_position: 2
-sidebar_label: Adobe Case Study
 ---
-# ADOBE
 
-# The Question
- 
+# The Problem
+
 The Adobe EMEA studio needed assistance with content creation. 
+Adobe commissions a lot of industry research. 
+And needs that turned into European focused articles. 
 
 # My Role 
 
-  ***Let's be honest, few people sit down to read 40 page reports. When it comes to posting for the web ideas need to be concise. In this project I read several market research reports and distilled them into 1500-word blog posts.***
+  ***Let's be honest, no-one wants to read a 40 page report. When it comes to posting for the web ideas need to be concise. In this project I read several market research reports and distilled them into 1500-word blog posts.***
 
  - 60% Research
  - 40% Copywriting
