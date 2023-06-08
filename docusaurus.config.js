@@ -110,7 +110,7 @@ const config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Alan Murphy, Development, Content, and Design.`,
+      copyright: `Copyright © 2022-${new Date().getFullYear()} Alan Murphy, Development, Content, and Design.`,
     },
     prism: {
       theme: lightCodeTheme,
