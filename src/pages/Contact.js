@@ -1,6 +1,6 @@
 import React from 'react';
-import Form from '../components/FormFeatures/';
 import DefaultLayout from '../layouts/DefaultLayout';
+import Form from '../components/Form Features/index.js';
 import '../css/custom.css';
 import TwoColumns from '../components/Two columns';
 
