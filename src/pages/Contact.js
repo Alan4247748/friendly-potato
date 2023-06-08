@@ -18,7 +18,6 @@ const Contact = () => {
             </div>
           </div>
         </div> 
-        <h1>Keen for your message</h1>
       </div>
       <div>
         <TwoColumns />
