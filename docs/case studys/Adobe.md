@@ -10,7 +10,7 @@ sidebar_position: 2
 The Adobe EMEA studio needed assistance with re-purposing content. 
 Adobe commissions many research reports and needs help creating European-focused articles. 
 
-![Adobe Research Report](/img/Adobe.png)
+![Alt Text](/img/adobe.png)
 
 # My Role 
 
@@ -20,7 +20,7 @@ Adobe commissions many research reports and needs help creating European-focused
  - 30% Writing
  - 40% Editing
 
-![Adobe Research Report](/img/Adobe1.png)
+ ![Alt Text](/img/adobe1.png)
 
 # Looking closer at Retail Personalisation
 
@@ -38,10 +38,10 @@ By analyzing data, we determined responsive customer segments, frequently purcha
 Data served as the most important inventory, allowing us to provide evidence-based recommendations and actionable insights for European-focused articles that resonated with retailers in the region.
 ````
 
-![Adobe Research Report](/img/Adobe2.png)
+![Alt Text](/img/adobe2.png)
 
 # Results
 
 The results of our efforts were significant. European retailers gained valuable insights into the impact of retail personalization and the strategies they could employ to improve customer experiences. The articles we produced provided practical guidance on implementing personalization techniques, resulting in enhanced customer engagement, increased sales, and improved brand loyalty.
 
-"Data is the lifeblood of personalization" - Michael Klein, Global Director, Industry Strategy and Marketing, Adobe
+> "Data is the lifeblood of personalization" - Michael Klein, Global Director, Industry Strategy and Marketing, Adobe
