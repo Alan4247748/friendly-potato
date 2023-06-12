@@ -13,7 +13,7 @@ This campaign was run in 8 different countries with 7 other languages. It consis
 
 The EU Commission faced the challenge of effectively communicating important information about COVID-19 to a diverse audience across multiple countries. They needed a comprehensive campaign to raise awareness, educate the public, and promote safety measures during the pandemic.
 
-![EU Commission Logo](/img/EU.png)
+![EU Commission Logo](/img/eu.png)
 
 # My Role
 
@@ -25,7 +25,7 @@ The campaign spanned 8 different countries and involved the creation of banner a
 
 Through collaboration with a diverse team, we ensured that the campaign resonated with the cultural nuances and sensitivities of the target audiences. We focused on delivering concise and impactful messages that would capture attention and encourage positive behavior change during the pandemic.
 
-![EU Commission Logo](/img/EU1.png)
+![Campaign assets](/img/eu1.png)
 
 # The Results
 
@@ -33,5 +33,4 @@ The campaign achieved significant results in raising awareness and promoting COV
 
 Specific outcomes of the campaign included increased public understanding of COVID-19 prevention measures, improved adherence to safety guidelines, and heightened vaccination awareness. The campaign also fostered a sense of unity and collective responsibility, encouraging individuals to protect themselves and their communities.
 
-
-![EU Commission Logo](/img/EU2.png)
+![Campaign Assests](/img/eu2.png)
