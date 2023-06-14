@@ -5,12 +5,12 @@ description: Volvo Websites
 sidebar_position: 1
 ---
 
+![Volvo Prop](/img/Volvo3.png)
+
 # The Problem
  
 The Diplomatic sales team at Volvo wanted to generate more leads.
 We rolled out a series of websites using modular design components. 
-
-![Volvo Prop](/img/Volvo3.png)
 
 
 # My Role 

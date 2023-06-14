@@ -5,11 +5,12 @@ description: Website and Brand Messaging
 sidebar_position: 5
 ---
 
+![Brand Messaging](/img/afam3.png)
+
 # The Problem
 
 The AFAM Group wanted a strong online presence to effectively interact with their mortorcycle community. A website for products and services with a commitment to quality, adaptability, and customer satisfaction.
 
-![Brand Messaging](/img/afam3.png)
 
 # My Role
 

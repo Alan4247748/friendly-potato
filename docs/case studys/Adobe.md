@@ -5,6 +5,8 @@ description: Re-purposing content
 sidebar_position: 2
 ---
 
+![Adobe EMEA Studio](/img/adobe3.png)
+
 # The Problem
 
 The Adobe EMEA studio needed help re-purposing content. 
