@@ -2,10 +2,16 @@
 slug: Aerospike
 title: Monitor Aerospike cluster performance with DataDog
 authors: zipi
-tags: [hello, docusaurus]
+tags: [Aerospike, DataDog]
 ---
 
 [Aerospike](https://aerospike.com/) is a distributed and scalable NoSQL datastore providing low-latency access to data. Aerospike uses a Hybrid Memory Storage (HMS) architecture design that stores frequently accessed data in Flash memory and less frequently accessed data in solid-state drives (SSDs). 
+
+![Aerospike custom graphic](/img/Aerospike.png)
+
+
+<!--truncate-->
+
 
 The HMS design optimizes read and write performance allowing you to handle [namespaces] with different storage engines. This results in minimal hardware requirements lowering costs and improving data performance.
 
