@@ -2,7 +2,7 @@
 title: AG Insurance
 sidebar_label: AG Insurance
 description: Communication materials
-sidebar_position: 3
+sidebar_position: 4
 ---
 
 
@@ -11,6 +11,8 @@ sidebar_position: 3
 # The Problem
 
 AG Insurance challenge was their sustainability report and raising awareness about their initiatives among stakeholders and the public. The 49-page document highlights, the efforts of one of the largest institutional investors in Beligum.
+
+![AG Sustainability Report](/img/Ag2.png)
 
 # My Role
 
@@ -39,6 +41,3 @@ The video, produced in multiple languages, including Dutch and French, aimed to 
 # Results
 
 Overall, these communication materials played a vital role in positioning AG Insurance as a responsible and sustainable organization, strengthening its reputation and building trust among stakeholders.
-
-![AG Sustainability Report](/img/Ag2.png)
-

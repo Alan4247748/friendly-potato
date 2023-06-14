@@ -5,13 +5,14 @@ description: Volvo Websites
 sidebar_position: 1
 ---
 
-![Volvo Prop](/img/Volvo3.png)
+![Volvo Campaign](/img/Volvo2.png)
 
 # The Problem
  
 The Diplomatic sales team at Volvo wanted to generate more leads.
 We rolled out a series of websites using modular design components. 
 
+![Volvo Prop](/img/Volvo3.png)
 
 # My Role 
 
@@ -46,6 +47,3 @@ Its 😎 — [Link](https://diplomatic.volvocars.be/)
 - The diplomatic sales team increased digital lead generation. 
 - Sales Reps have personalised websites in their sales tool kits. 
 - Combined with google ads campaigns the result was a powerful lead generation system. 
-
-
-![Volvo Campaign](/img/Volvo2.png)

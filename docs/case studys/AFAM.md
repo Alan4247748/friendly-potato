@@ -2,7 +2,7 @@
 title: AFAM Group 
 sidebar_label: AFAM Group
 description: Website and Brand Messaging 
-sidebar_position: 5
+sidebar_position: 3
 ---
 
 ![Brand Messaging](/img/afam3.png)
