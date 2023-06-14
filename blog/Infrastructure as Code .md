@@ -12,7 +12,7 @@ showing which bricks to use and where. 🏗
 Follow the instructions, place the bricks,
 and make the castle. 🏰
 
-![infrastructure as code](/img/iac.png)
+![infrastructure as code](/img/Iac.png)
 
 <!--truncate-->
 
