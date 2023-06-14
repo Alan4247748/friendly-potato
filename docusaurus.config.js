@@ -67,7 +67,7 @@ const config = {
           label: 'Case Studies',
         },
 
-        { to: '/blog', label: 'Blog', position: 'right' },
+        { to: '/blog', label: 'Essays', position: 'right' },
         { to: '/about', label: 'About', position: 'right' },
         { to: '/contact', label: 'Contact', position: 'right' },
       ],

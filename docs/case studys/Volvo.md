@@ -1,7 +1,7 @@
 ---
 title: Volvo
 sidebar_label: Volvo
-description: Volvo Digital Campaign
+description: Volvo Websites
 sidebar_position: 1
 ---
 
@@ -35,9 +35,11 @@ The unique design of the XC90 allows passengers to experience the vehicle more a
 
 # Website Example
 
-```python
- https://diplomatic.volvocars.be/
-````
+:::tip Website Below
+
+Its 😎 — [Link](https://diplomatic.volvocars.be/)
+
+:::
 
 # Results
 
