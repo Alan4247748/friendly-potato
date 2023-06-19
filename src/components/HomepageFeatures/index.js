@@ -4,7 +4,7 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Context',
+    title: 'Step 1',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
@@ -14,7 +14,7 @@ const FeatureList = [
     ), 
 },
 {
-    title: 'Interviews',
+    title: 'Step 2',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
@@ -24,7 +24,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Editing',
+    title: 'Step 3',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
