@@ -36,7 +36,8 @@ The unique design of the XC90 allows passengers to experience the vehicle more a
 
 # Website Example
 
-:::tip Website Below
+
+:::danger Website Below
 
 Its 😎 — [Link](https://diplomatic.volvocars.be/)
 

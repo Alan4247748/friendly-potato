@@ -1,148 +1,34 @@
 ---
 Title: Markdown Features
 Id: intro
-sidebar_label: place holder
+sidebar_label: Embedded Systems
 ---
-# Markdown Features
 
-Docusaurus supports **[Markdown](https://daringfireball.net/projects/markdown/syntax)** and a few **additional features**.
+# Technical Writer Portfolio
 
-## Front Matter
 
-Markdown documents have metadata at the top called [Front Matter](https://jekyllrb.com/docs/front-matter/):
+Welcome to my technical writer portfolio! Here you will find a collection of my work as a technical writer. I specialize in creating documentation for software, APIs, user guides, and more.
 
-```text title="my-doc.md"
-// highlight-start
----
-id: my-doc-id
-title: My document title
-description: My document description
-slug: /my-custom-url
----
-// highlight-end
+    ## About Me
 
-## Markdown heading
+    I am a dedicated and detail-oriented technical writer with several years of experience in the field. My passion lies in translating complex technical concepts into user-friendly and easy-to-understand documentation. I have worked with various industries, including software development, IT services, and telecommunications.
+  
+    ## Portfolio Highlights
 
-Markdown text with [links](./hello.md)
-```
+    ### Project 1: API Documentation
 
-## Links
+    - **Client:** XYZ Software Company
+    - **Description:** Created comprehensive API documentation for the company's flagship product, covering endpoints, request/response examples, authentication, and usage guidelines.
+    - **Skills:** API documentation, OpenAPI, Swagger
 
-Regular Markdown links are supported, using url paths or relative file paths.
+    ### Project 2: User Guide for Mobile App
 
-```md
-Let's see how to [Create a page].
-```
+    - **Client:** ABC Mobile Solutions
+    - **Description:** Developed a user guide for a mobile app, providing step-by-step instructions, screenshots, and troubleshooting tips.
+    - **Skills:** User documentation, mobile app, user experience (UX)
 
-```md
-Let's see how to [Create a page].
-```
+    ### Project 3: Technical Blog Articles
 
-**Result:** Let's see how to [Create a page].
-
-## Images
-
-Regular Markdown images are supported.
-
-You can use absolute paths to reference images in the static directory (`static/img/docusaurus.png`):
-
-```md
-![Docusaurus logo](/img/docusaurus.png)
-```
-
-![Docusaurus logo](/img/docusaurus.png)
-
-You can reference images relative to the current file as well, as shown in [the extra guides].
-
-## Code Blocks
-
-Markdown code blocks are supported with Syntax highlighting.
-
-    ```jsx title="src/components/HelloDocusaurus.js"
-    function HelloDocusaurus() {
-        return (
-            <h1>Hello, Docusaurus!</h1>
-        )
-    }
-    ```
-
-```jsx title="src/components/HelloDocusaurus.js"
-function HelloDocusaurus() {
-  return <h1>Hello, Docusaurus!</h1>;
-}
-```
-
-## Admonitions
-
-Docusaurus has a special syntax to create admonitions and callouts:
-
-    :::tip My tip
-
-    Use this awesome feature option
-
-    :::
-
-    :::danger Take care
-
-    This action is dangerous
-
-    :::
-
-:::tip My tip
-
-Use this awesome feature option
-
-:::
-
-:::danger Take care
-
-This action is dangerous
-
-:::
-
-## MDX and React Components
-
-[MDX](https://mdxjs.com/) can make your documentation more **interactive** and allows using any **React components inside Markdown**:
-
-```jsx
-export const Highlight = ({children, color}) => (
-  <span
-    style={{
-      backgroundColor: color,
-      borderRadius: '20px',
-      color: '#fff',
-      padding: '10px',
-      cursor: 'pointer',
-    }}
-    onClick={() => {
-      alert(`You clicked the color ${color} with label ${children}`)
-    }}>
-    {children}
-  </span>
-);
-
-This is <Highlight color="#25c2a0">Docusaurus green</Highlight> !
-
-This is <Highlight color="#1877F2">Facebook blue</Highlight> !
-``` Javascript
-
-export const Highlight = ({children, color}) => (
-  <span
-    style={{
-      backgroundColor: color,
-      borderRadius: '20px',
-      color: '#fff',
-      padding: '10px',
-      cursor: 'pointer',
-    }}
-    onClick={() => {
-      alert(`You clicked the color ${color} with label ${children}`);
-    }}>
-    {children}
-  </span>
-);
-```
-
-This is <Highlight color="#25c2a0">Docusaurus green</Highlight> !
-
-This is <Highlight color="#1877F2">Facebook blue</Highlight> !
+    - **Client:** Tech News Publication
+    - **Description:** Authored a series of blog articles on various technical topics, including software development best practices, cloud computing, and cybersecurity.
+    - **Skills:** Technical writing, blogging, research

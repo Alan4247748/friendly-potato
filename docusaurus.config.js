@@ -62,7 +62,7 @@ const config = {
       items: [
         {
           type: 'doc',
-          docId: 'cat',
+          docId: 'intro',
           position: 'right',
           label: 'Case Studies',
         },
