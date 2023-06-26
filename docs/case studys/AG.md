@@ -22,6 +22,7 @@ I wrote, edited, and gathered data from a variety of sources to create the susta
 
 This comprehensive 67-page document highlighted the company's sustainability achievements, goals, and strategies.
 
+
 :::tip Sustainability Report
 
 Its 😎 — [Link](https://ag.be/over-ag/content/dam/transversal/aboutus/documents/en/AG%20Insurance_Sustainability%20Report_2021_EN.pdf).
