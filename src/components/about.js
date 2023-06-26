@@ -21,7 +21,7 @@ const About = () => {
             <blockquote>
               <p>
                 <strong>
-                  My clients include IT consultancies, large corporates, advertising agencies, and government institutions.
+                  My clients have been IT consultancies, large corporates, advertising agencies, and government institutions.
                 </strong>
               </p>
             </blockquote>

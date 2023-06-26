@@ -1,5 +1,6 @@
 ---
 title: Adobe
+id: cat
 sidebar_label: Adobe
 description: Re-purposing content
 sidebar_position: 2

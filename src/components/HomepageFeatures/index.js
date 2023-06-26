@@ -17,7 +17,7 @@ const FeatureList = [
     imgSrc: '/img/drink.png',
     description: (
       <>
-        Interview your experts to grasp the technical nuance.
+        Interview your experts for technical nuance.
       </>
     ),
   },
@@ -26,7 +26,7 @@ const FeatureList = [
     imgSrc: '/img/finish.png',
     description: (
       <>
-        2-3 rounds of <code>editing</code> to get the story ready for publishing.
+        2-3 rounds of <code>editing</code> to develop the stories for publication.
       </>
     ),
   },
