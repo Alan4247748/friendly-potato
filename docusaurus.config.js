@@ -105,7 +105,7 @@ const config = {
           title: 'Feeds',
           items: [
             {
-              label: 'Blog',
+              label: 'Essays',
               to: '/blog',
             },
           ],

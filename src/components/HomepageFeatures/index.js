@@ -5,38 +5,34 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Step 1',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/research.png').default,
     description: (
       <>
-      Build up context to understand your goals and audience.
-
+        Build up context to understand your goals and audience.
       </>
     ), 
-},
-{
+  },
+  {
     title: 'Step 2',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/drink.png').default,
     description: (
       <>
-        Interview your experts to understand the technical nuance.
-        
+        Interview your experts to grasp the technical nuance.
       </>
     ),
   },
   {
     title: 'Step 3',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/finish.png').default,
     description: (
       <>
-        2-3 rounds of <code>editing</code> to get the story ready for publishing. 
-
-        </>
-    
-        ), 
+        2-3 rounds of <code>editing</code> to get the story ready for publishing.
+      </>
+    ), 
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({ Svg, title, description }) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
@@ -55,6 +51,9 @@ export default function HomepageFeatures() {
     <section className={styles.features}>
       <div className="container">
         <div className="row">
+          <div className="col col--12">
+            <h1>Process</h1>
+          </div>
           {FeatureList.map((props, idx) => (
             <Feature key={idx} {...props} />
           ))}
