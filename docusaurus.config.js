@@ -8,11 +8,18 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Technical Writer',
   tagline: 'Tech, Energy, and Finance',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://damurphy.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
+  scripts: [
+    {
+      defer: true,
+      src: "https://plausible.io/js/script.js",
+      "data-domain": "damurphy.com",
+    },
+  ],
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
