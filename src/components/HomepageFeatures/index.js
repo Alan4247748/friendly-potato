@@ -5,16 +5,16 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Step 1',
-    Svg: require('@site/static/img/research.png').default,
+    imgSrc: '/img/research.png',
     description: (
       <>
         Build up context to understand your goals and audience.
       </>
-    ), 
+    ),
   },
   {
     title: 'Step 2',
-    Svg: require('@site/static/img/drink.png').default,
+    imgSrc: '/img/drink.png',
     description: (
       <>
         Interview your experts to grasp the technical nuance.
@@ -23,20 +23,20 @@ const FeatureList = [
   },
   {
     title: 'Step 3',
-    Svg: require('@site/static/img/finish.png').default,
+    imgSrc: '/img/finish.png',
     description: (
       <>
         2-3 rounds of <code>editing</code> to get the story ready for publishing.
       </>
-    ), 
+    ),
   },
 ];
 
-function Feature({ Svg, title, description }) {
+function Feature({ imgSrc, title, description }) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        <img src={imgSrc} alt={title} className={styles.featureImg} />
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
