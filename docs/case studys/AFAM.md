@@ -21,9 +21,9 @@ As the copywriter on this project, I wrote about the nuances of acid, gel, and l
 
 # The Website
 
-I carefully crafted the copy to reflect their brand values, emphasizing their attention to design, development, and production of quality products. The messaging focused on the needs of their customers, their technical requirements, and how the AFAM Group's technology could meet those needs. Additionally, we highlighted the AFAM Group's range of brands, such as AFAM, NITRO, SHIDO, ISON, and MIW, showcasing their individual strengths while also emphasizing their mission of providing the perfect fit for riders.
+I carefully crafted the copy to reflect their brand values, emphasizing their attention to design, development, and production of quality products. The messaging focused on the needs of their customers, their technical requirements, and how the AFAM Group's technology could meet those needs. Additionally, we highlighted the AFAM Group's range of brands, such as AFAM, NITRO, SHIDO, ISON, and MIW, showcasing their individual strengths and mission to provide the perfect fit for riders.
 
-:::tip Website Below
+:::danger Website Below
 
 Its 😎 —
 [Link](https://afam-group.com/)
