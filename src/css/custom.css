@@ -88,6 +88,13 @@ button:hover {
   --ifm-color-primary-light: #a3d1ef;
   --ifm-color-primary-lighter: #b2d8f1;
   --ifm-color-primary-lightest: #e1f0fa;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  --docusaurus-highlighted-code-line-bg: rgba(17, 17, 17, 0.3);
 
+}
+
+/* Footer styling */
+.footer {
+  background-color: rgba(17, 17, 17, 0.3);
+  color: white;
+  padding: 20px;
 }

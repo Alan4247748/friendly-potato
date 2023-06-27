@@ -13,26 +13,29 @@ const Form = () => {
   };
 
   return (
-    <form className="form" onSubmit={handleSubmit}>
-      <input
-        type="text"
-        placeholder="Name"
-        value={name}
-        onChange={(e) => setName(e.target.value)}
-      />
-      <input
-        type="email"
-        placeholder="Email"
-        value={email}
-        onChange={(e) => setEmail(e.target.value)}
-      />
-      <textarea
-        placeholder="Message"
-        value={message}
-        onChange={(e) => setMessage(e.target.value)}
-      ></textarea>
-      <button type="submit">Send</button>
-    </form>
+    <div>
+      <h1>Contact Me</h1>
+      <form className="form" onSubmit={handleSubmit} name="contact" netlify>
+        <input
+          type="text"
+          placeholder="Name"
+          value={name}
+          onChange={(e) => setName(e.target.value)}
+        />
+        <input
+          type="email"
+          placeholder="Email"
+          value={email}
+          onChange={(e) => setEmail(e.target.value)}
+        />
+        <textarea
+          placeholder="Message"
+          value={message}
+          onChange={(e) => setMessage(e.target.value)}
+        ></textarea>
+        <button type="submit">Click Me</button>
+      </form>
+    </div>
   );
 };
 
