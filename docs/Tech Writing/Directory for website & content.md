@@ -5,16 +5,22 @@ sidebar_position: 7
 ---
 
 
-# Logic Tree Design
+# Logic Tree 
 
-``` Javascript  
+``` Javascript 
 My_site/
 ├── templates/
-│   ├── index.html.jinja
-│   ├── css/
-│   │   └──style.css
-│   ├── js/
-│   │   └──scripts.js
+│   ├── docusaurus.config.js
+│   ├── static/
+│   │   └──img1.png
+│   │   └──img2.png
+│   ├── src/
+│   │   └──components
+        └──form features
+        └──index.js
+        └──styles.module.css
+│   │
+│   │
 │   ├── fonts/
 │   │   ├── open-sans.svg
 │   │   ├── open-sans.ttf

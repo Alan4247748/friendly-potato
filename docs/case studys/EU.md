@@ -1,7 +1,7 @@
 ---
 title: EU Commission 
 sidebar_label: EU Commission 
-description: Covid Propaganda
+description: Covid Campaign
 sidebar_position: 5
 ---
 

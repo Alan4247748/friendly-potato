@@ -87,7 +87,7 @@ const config = {
           items: [
             {
               label: 'Legal',
-              to: '/docs/intro',
+              to: '/Legal',
             },
             {
               label: 'Sitemap',

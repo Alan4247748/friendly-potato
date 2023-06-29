@@ -34,9 +34,6 @@ The unique design of the XC90 allows passengers to experience the vehicle more a
 
 ![Authentic Luxury](/img/Volvo1.png)
 
-# Website Example
-
-
 :::danger Website Below
 
 Its 😎 — [Link](https://diplomatic.volvocars.be/)
