@@ -2,9 +2,9 @@
 title: About
 ---
 
-# Technical Writer
+# Intro
 
-Hello, I'm a Technical Writer specializing in creating documentation for software and technology products. I have a passion for turning complex concepts into clear and concise documentation that helps users understand and use the product effectively.
+I code in English - its - interpreted, general-purpose, and expressive. Like LISP, English is extend-able and programmable, and allows the use of MACROs.  Syntactic sugar galore, and the breaking changes are far and few between. The ecosystem, documentation, is matched by none. 
 
 ## Skills
 

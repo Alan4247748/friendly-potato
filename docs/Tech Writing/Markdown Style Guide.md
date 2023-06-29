@@ -1,7 +1,7 @@
 ---
 title: Markdown
-sidebar_label: .Md Style Guide
-sidebar_position: 6
+sidebar_label: Style Guide
+sidebar_position: 3
 ---
 
 # MARKDOWN STYLE GUIDE
@@ -10,21 +10,14 @@ sidebar_position: 6
  
  <pre>.MD & .MDX</pre>
 
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
+# heading 1
+## heading 2
+### heading 3
+#### heading 4
+##### heading 5
+###### heading 6
 
 * * *
-
-# Headings with Text
 
 # Heading 1
 
