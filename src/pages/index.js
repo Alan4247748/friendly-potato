@@ -30,7 +30,7 @@ export default function Home() {
   return (
     <Layout
       title={siteConfig.title}
-      description="A place for babbaling, Embedded Systems, LISP, I/O, Energy, and languages."
+      description= "A place for babbaling, Embedded Systems, LISP, I/O, Energy, and languages."
     >
       <HomepageHeader />
       <main>
