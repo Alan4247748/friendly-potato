@@ -128,8 +128,8 @@ const config = {
     },
     colorMode: {
       defaultMode: 'dark',
-      disableSwitch: true,
-      respectPrefersColorScheme: false,
+      disableSwitch: false,
+      respectPrefersColorScheme: true,
     },
     layout: {
       default: require.resolve('./src/layouts/DefaultLayout.js'),

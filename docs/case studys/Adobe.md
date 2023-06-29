@@ -2,7 +2,7 @@
 title: Adobe
 sidebar_label: Adobe
 description: Re-purposing content
-sidebar_position: 2
+sidebar_position: 4
 ---
 
 ![Adobe EMEA Studio](/img/adobe3.png)

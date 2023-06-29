@@ -1,6 +1,6 @@
 ---
 slug: Aerospike
-title: Monitor Aerospike cluster performance with DataDog
+title: Aerospike Cluster Performance
 authors: zipi
 tags: [Aerospike, DataDog]
 ---
