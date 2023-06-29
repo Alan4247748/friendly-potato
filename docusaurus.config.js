@@ -63,10 +63,6 @@ const config = {
   themeConfig: {
     navbar: {
       title: 'Home',
-      logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
-      },
       items: [
         {
           type: 'doc',

@@ -1,6 +1,6 @@
 ---
 title: Logic Tree
-sidebar_label: Website Design
+sidebar_label: Documentation Website 
 sidebar_position: 2
 ---
 
