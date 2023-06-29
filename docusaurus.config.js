@@ -6,8 +6,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Technical Writer',
-  tagline: 'Tech, Energy, and Finance',
+
+  title: 'Donoho Murphy',
+  tagline: 'Tech and Energy Writer',
   url: 'https://damurphy.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',

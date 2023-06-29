@@ -8,31 +8,41 @@ sidebar_position: 7
 # Logic Tree 
 
 ``` Javascript 
-My_site/
-├── templates/
+Website_Directory/
+
+├── Root/
 │   ├── docusaurus.config.js
 │   ├── static/
 │   │   └──img1.png
 │   │   └──img2.png
 │   ├── src/
-│   │   └──components
-        └──form features
-        └──index.js
-        └──styles.module.css
-│   │
-│   │
+│   │   └──components/ 
+│   │      └──form features
+│   │      └──index.js
+│   │      └──styles.module.css
+│   │   └──pages/
+│   │      └──About.md
+│   │      └──Contact.js
+│   │ 
 │   ├── fonts/
-│   │   ├── open-sans.svg
-│   │   ├── open-sans.ttf
-│   │   └── open-sans.woff
-│   └── posts/
-│       ├── index.html.jinja
-│       └── _entry.html.jinja
-└── content/
-    ├── posts/
-    │   ├── hello-world.md
-    │   ├── foo.md
-    │   └── bar.md
+│   │   ├──open-sans.svg
+│   │   ├──open-sans.ttf
+│   │   └──open-sans.woff
+│   └── Docs/
+│   │   ├──Case studys/
+│   │   └──Tech Writing/
+│   │   └──Intro.md
+│   │ 
+└── Blog/
+│   ├── authos.yml/
+│   │   ├── index.md
+│   │   ├── infrastructure-as-code.md
+│   │   └── Monitor-Aerospike-.md
+│   │ 
+│   │ 
+└── Build/
+    └── css/
     └── images/
-        └── example.png
+    └── js/
+
 ``` 

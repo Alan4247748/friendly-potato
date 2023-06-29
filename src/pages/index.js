@@ -26,11 +26,12 @@ function HomepageHeader() {
 }
 
 export default function Home() {
-  const {siteConfig} = useDocusaurusContext();
+  const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`Technical writing ${siteConfig.title}`}
-      description="<A place for babbaling, Embedded Systems, LISP, Technology, Energy, and languages.">
+      title={siteConfig.title}
+      description="A place for babbaling, Embedded Systems, LISP, I/O, Energy, and languages."
+    >
       <HomepageHeader />
       <main>
         <HomepageFeatures />

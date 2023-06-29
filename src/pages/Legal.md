@@ -2,7 +2,7 @@
 title: Legal
 ---
 
-LEGAL ENTITY 
+# LEGAL ENTITY 
 
 Onion Shorts OÜ
 Sakala tn 7-2
@@ -11,11 +11,11 @@ Company no: 16685483
 VAT no: EE102600489
 
 
-LICENSES
+# LICENSES
 
 All graphical assets in this website can only be used with the written consent of Alan Murphy. If you'd like to use a specific asset, please check the license below.
 
-PHOTOGRAPHY BY: 
+# PHOTOGRAPHY BY: 
 
 :::tip 
 
@@ -23,13 +23,15 @@ Its 😎 — [Alexander Main](https://www.alexandermain.com/).
 
 :::
 
-ICONS
+# ICONS BY:
+
 Created by Alan Murphy.
 
-TYPOGRAPHY
+# TYPOGRAPHY BY: 
+
 The typefaces Wremena and Rosseta are available to use freely under the Typefaces and Fontesk license.
 
-ILLUSTRATIONS BY:
+# ILLUSTRATIONS BY:
 
 :::tip 
 
@@ -37,9 +39,11 @@ Its 😎 — [Absurd Design](https://absurd.design/).
 
 :::
 
-TECHNICAL DRAWINGS BY:
+# TECHNICAL DRAWINGS BY:
 
-Created by Alan Murphy.
+Alan Murphy.
+
+# EU LEGAL JARGON: 
 
 GDPR Datenschutzerklärung
 ‍
