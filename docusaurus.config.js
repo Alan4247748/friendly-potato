@@ -6,7 +6,6 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-
   title: 'Donoho Murphy',
   tagline: 'Tech and Energy Writer',
   url: 'https://damurphy.com',
@@ -50,12 +49,12 @@ const config = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
-          sitemap: {
-            changefreq: 'weekly',
-            priority: 0.5,
-            ignorePatterns: ['/tags/**'],
-            filename: 'sitemap.xml',
-          },
+        sitemap: {
+          changefreq: 'weekly',
+          priority: 0.5,
+          ignorePatterns: ['/tags/**'],
+          filename: 'sitemap.xml',
+        },
       },
     ],
   ],
@@ -70,7 +69,6 @@ const config = {
           position: 'right',
           label: 'Case Studies',
         },
-
         { to: '/blog', label: 'Essays', position: 'right' },
         { to: '/about', label: 'About', position: 'right' },
         { to: '/contact', label: 'Contact', position: 'right' },
@@ -129,6 +127,34 @@ const config = {
     },
     layout: {
       default: require.resolve('./src/layouts/DefaultLayout.js'),
+    },
+    head: {
+      scripts: [
+        {
+          src:
+            'https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.js',
+          type: 'text/javascript',
+        },
+        {
+          innerHTML: `
+            algoliasearchNetlify({
+              appId: 'W0YTE0WD6U',
+              apiKey: '9fb87f9af922bedcbd4dbd1da8765b73',
+              siteId: '0b05f840-3fec-46cf-87bd-faf269a44eca',
+              branch: 'main',
+              selector: 'div#search',
+            });
+          `,
+          type: 'text/javascript',
+        },
+      ],
+      links: [
+        {
+          rel: 'stylesheet',
+          href:
+            'https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.css',
+        },
+      ],
     },
   },
 };
