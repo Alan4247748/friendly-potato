@@ -1,9 +1,8 @@
 ---
 title: Logic Tree
-sidebar_label: Documentation Website 
+sidebar_label: Docusaurus Framework 
 sidebar_position: 2
 ---
-
 
 High level, I used [Docusaurus 2], for the boiler plate.
 From my local - I push direct to this GitHub repo.

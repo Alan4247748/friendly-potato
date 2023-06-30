@@ -4,7 +4,7 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
-/** @type {import('@docusaurus/types').Config} */
+/** @type {import('@docusaurus/types').DocusaurusConfig} */
 const config = {
   title: 'Donoho Murphy',
   tagline: 'Tech and Energy Writer',
@@ -36,9 +36,7 @@ const config = {
 
   presets: [
     [
-      'classic',
-      /** @type {import('@docusaurus/preset-classic').Options} */
-      // @ts-ignore
+      '@docusaurus/preset-classic',
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
@@ -52,8 +50,6 @@ const config = {
         sitemap: {
           changefreq: 'weekly',
           priority: 0.5,
-          ignorePatterns: ['/tags/**'],
-          filename: 'sitemap.xml',
         },
       },
     ],
@@ -73,7 +69,7 @@ const config = {
         { to: '/about', label: 'About', position: 'right' },
         { to: '/contact', label: 'Contact', position: 'right' },
       ],
-    },  
+    },
     footer: {
       style: 'dark',
       links: [
@@ -113,7 +109,10 @@ const config = {
           ],
         },
       ],
-      copyright: `Copyright © 2022-${new Date().getFullYear()} Alan Murphy, Development, Content, and Design.`,
+      copyright:
+        'Copyright © 2022-' +
+        new Date().getFullYear() +
+        ' Alan Murphy, Development, Content, and Design.',
     },
     prism: {
       theme: lightCodeTheme,
@@ -128,34 +127,18 @@ const config = {
     layout: {
       default: require.resolve('./src/layouts/DefaultLayout.js'),
     },
-    head: {
-      scripts: [
-        {
-          src:
-            'https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.js',
-          type: 'text/javascript',
-        },
-        {
-          innerHTML: `
-            algoliasearchNetlify({
-              appId: 'W0YTE0WD6U',
-              apiKey: '16b7c61c11cdde575c7252ca7bec5505',
-              siteId: '0b05f840-3fec-46cf-87bd-faf269a44eca',
-              branch: 'main',
-              selector: 'div#search',
-              indexName: 'netlify_0b05f840-3fec-46cf-87bd-faf269a44eca_main_all',
-            });
-          `,
-          type: 'text/javascript',
-        },
-      ],
-      links: [
-        {
-          rel: 'stylesheet',
-          href:
-            'https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.css',
-        },
-      ],
+    algolia: {
+      appId: 'W0YTE0WD6U',
+      apiKey: '16b7c61c11cdde575c7252ca7bec5505',
+      indexName: 'netlify_0b05f840-3fec-46cf-87bd-faf269a44eca_main_all',
+      contextualSearch: true,
+      externalUrlRegex: 'damurphy.com|blog\\.com',
+      replaceSearchResultPathname: {
+        from: '/docs/', // or as RegExp: /\/docs\//
+        to: '/',
+      },
+      searchParameters: {},
+      searchPagePath: 'search',
     },
   },
 };
