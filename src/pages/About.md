@@ -8,24 +8,18 @@ I code in English - its - interpreted, general-purpose, and expressive. Like LIS
 
 ## Skills
 
-- **Technical Writing**: I have a strong background in technical writing, including creating user manuals, API documentation, developer guides, and tutorials.
-- **Communication**: I have excellent written and verbal communication skills, which allows me to effectively collaborate with developers, product managers, and other stakeholders to gather information and produce high-quality documentation.
-- **Attention to Detail**: I pay close attention to detail and ensure that the documentation is accurate, comprehensive, and easy to understand.
+- **Technical Writing**: I have a strong background in technical writing, including IT roadmaps, case study's, technical articles, help docs, and tutorials.
+- **Communication**: I can collaborate with developers, product people, and other stakeholders to produce high-quality docs.
 - **Tools**: I am proficient in using various documentation tools and technologies, including Markdown, Git, and documentation platforms like Docusaurus.
 
-## Experience
 
-I have worked with several companies in the technology industry, contributing to their documentation efforts. I have experience documenting both web-based applications and APIs, as well as desktop software and mobile applications. I'm comfortable working in an agile environment and adapting to changing requirements.
+## About
 
-# About
+> **I've written about technology, brands, and people. Context is everything and simpler is better.**
 
-> **I write about technology, brands, and people. With the understanding, context is everything, and simpler is better.**
+>> **My clients have included IT consultanices, large corporates, advertising agencies, and the EU.**
 
->> **Leveraging my diversity of experiences, I write for various audiences and purposes.**
-
->>> **I won a marketing website award—a while back.**
-
->>>> **My clients include IT consultancies, large corporates, advertising agencies, and government institutions.**
+>>> **I'm building a sensor technology here.**
 
 ## Education
 

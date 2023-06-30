@@ -67,6 +67,7 @@ const config = {
         { to: '/blog', label: 'Essays', position: 'right' },
         { to: '/about', label: 'About', position: 'right' },
         { to: '/contact', label: 'Contact', position: 'right' },
+
       ],
     },
     footer: {

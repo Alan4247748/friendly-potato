@@ -118,9 +118,14 @@ button:hover {
 }
 
 
-.color-mode-switch {
+/* Custom CSS for light theme */
+[data-theme='light'] .navbar__toggle {
   order: -1;
- margin-right: 1rem;
+  margin-right: 1rem;
+}
 
-  /* Add any other necessary styles */
+/* Custom CSS for dark theme */
+[data-theme='dark'] .navbar__toggle {
+  order: -1;
+  margin-right: 1rem;
 }

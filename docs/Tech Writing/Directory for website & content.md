@@ -4,10 +4,12 @@ sidebar_label: Docusaurus Framework
 sidebar_position: 2
 ---
 
-High level, I used [Docusaurus 2], for the boiler plate.
-From my local - I push direct to this GitHub repo.
-A build is triggered in Netlify. Basic CI/CD. 
-Below is how the website is structured. 
+I used [Docusaurus 2], for the boiler plate.
+From my local - I push direct to this [GitHub repo](https://github.com/Alan4247748/friendly-potato)
+.
+A build is triggered in Netlify. Basic CI/CD.
+Plausible for analyitcs 
+Below is the website structure. 
 
 ``` Javascript 
 Website_Directory/
@@ -35,7 +37,7 @@ Website_Directory/
 │   │     ├──open-sans.ttf
 │   │     └──open-sans.woff
 │   │
-└── Docs/
+└──Case-studys/
 │   │   ├──Advertising/
 │   │       └──Volvo.md
 │   │       └──Adobe.md
