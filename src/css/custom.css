@@ -98,3 +98,18 @@ button:hover {
   color: white;
   padding: 20px;
 }
+
+/* Custom CSS */
+/* Assuming your search bar has a class 'search-bar' */
+
+.search-bar {
+  /* Position the search bar to the right side of the navbar */
+  margin-left: auto;
+}
+
+/* Alternatively, to position it to the left side of the navbar */
+
+.search-bar {
+  /* Position the search bar to the left side of the navbar */
+  margin-right: auto;
+}

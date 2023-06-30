@@ -62,7 +62,7 @@ const config = {
         {
           type: 'doc',
           docId: 'intro',
-          position: 'right',
+          position: 'Left',
           label: 'Case Studies',
         },
         { to: '/blog', label: 'Essays', position: 'right' },
@@ -139,6 +139,7 @@ const config = {
       },
       searchParameters: {},
       searchPagePath: 'search',
+      position: 'navbar', screenLeft
     },
   },
 };
