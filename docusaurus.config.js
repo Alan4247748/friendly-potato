@@ -139,7 +139,6 @@ const config = {
       },
       searchParameters: {},
       searchPagePath: 'search',
-      position: 'navbar', screenLeft
     },
   },
 };
