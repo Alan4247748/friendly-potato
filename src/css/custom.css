@@ -99,9 +99,24 @@ button:hover {
   padding: 20px;
 }
 
-.algolia-search {
-  margin-left: auto;
+/* Custom CSS for Algolia search input */
+.algolia-search-input {
+  /* Your custom styles */
+  float: left;
+  border: 1px solid #ccc;
+  padding: 8px;
+  /* Other styles... */
 }
+
+/* Custom CSS for Algolia search container */
+.algolia-search-container {
+  /* Your custom styles */
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  /* Other styles... */
+}
+
 
 .color-mode-switch {
   order: -1;
