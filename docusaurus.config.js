@@ -62,7 +62,7 @@ const config = {
         {
           type: 'doc',
           docId: 'intro',
-          position: 'left',
+          position: 'right',
           label: 'Case Studies',
         },
         { to: '/blog', label: 'Essays', position: 'right' },
@@ -123,6 +123,7 @@ const config = {
       defaultMode: 'dark',
       disableSwitch: false,
       respectPrefersColorScheme: false,
+      },
     },
     layout: {
       default: require.resolve('./src/layouts/DefaultLayout.js'),

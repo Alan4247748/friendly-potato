@@ -99,10 +99,13 @@ button:hover {
   padding: 20px;
 }
 
-/* Custom CSS */
-/* Assuming your search bar has a class 'search-bar' */
-
-.search-bar {
-  /* Position the search bar to the right side of the navbar */
+.algolia-search {
   margin-left: auto;
+}
+
+.color-mode-switch {
+  order: -1;
+ margin-right: 1rem;
+
+  /* Add any other necessary styles */
 }
