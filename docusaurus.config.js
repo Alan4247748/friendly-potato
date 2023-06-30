@@ -142,6 +142,6 @@ const config = {
       searchPagePath: 'search',
     },
   },
-};
+},
 
 module.exports = config;
