@@ -73,7 +73,7 @@ const config = {
         { to: '/about', label: 'About', position: 'right' },
         { to: '/contact', label: 'Contact', position: 'right' },
       ],
-    },
+    },  
     footer: {
       style: 'dark',
       links: [
@@ -143,6 +143,7 @@ const config = {
               siteId: '0b05f840-3fec-46cf-87bd-faf269a44eca',
               branch: 'main',
               selector: 'div#search',
+              index: 'netlify_0b05f840-3fec-46cf-87bd-faf269a44eca_main_all',
             });
           `,
           type: 'text/javascript',
