@@ -123,7 +123,6 @@ const config = {
       defaultMode: 'dark',
       disableSwitch: false,
       respectPrefersColorScheme: false,
-      },
     },
     layout: {
       default: require.resolve('./src/layouts/DefaultLayout.js'),
@@ -142,6 +141,6 @@ const config = {
       searchPagePath: 'search',
     },
   },
-},
+};
 
 module.exports = config;
