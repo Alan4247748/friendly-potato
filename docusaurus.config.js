@@ -58,7 +58,6 @@ const config = {
   themeConfig: {
     navbar: {
       title: 'Home',
-      position: 'left',
       items: [
         {
           type: 'doc',
