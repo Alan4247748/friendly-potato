@@ -58,11 +58,12 @@ const config = {
   themeConfig: {
     navbar: {
       title: 'Home',
+      position: 'left',
       items: [
         {
           type: 'doc',
           docId: 'intro',
-          position: 'Left',
+          position: 'Right',
           label: 'Case Studies',
         },
         { to: '/blog', label: 'Essays', position: 'right' },
