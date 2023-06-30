@@ -139,7 +139,7 @@ const config = {
           innerHTML: `
             algoliasearchNetlify({
               appId: 'W0YTE0WD6U',
-              apiKey: '9fb87f9af922bedcbd4dbd1da8765b73',
+              apiKey: '16b7c61c11cdde575c7252ca7bec5505',
               siteId: '0b05f840-3fec-46cf-87bd-faf269a44eca',
               branch: 'main',
               selector: 'div#search',
