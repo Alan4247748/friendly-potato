@@ -63,7 +63,7 @@ const config = {
         {
           type: 'doc',
           docId: 'intro',
-          position: 'Right',
+          position: 'left',
           label: 'Case Studies',
         },
         { to: '/blog', label: 'Essays', position: 'right' },
