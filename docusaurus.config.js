@@ -15,7 +15,6 @@ const config = {
   favicon: 'img/favicon.ico',
   scripts: [
     {
-      defer: true,
       src: "https://plausible.io/js/script.js",
       "data-domain": "damurphy.com",
     },
