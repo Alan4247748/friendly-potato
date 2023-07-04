@@ -20,7 +20,6 @@ const config = {
       "data-domain": "damurphy.com",
     },
   ],
-
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'Alan4247748', // Usually your GitHub org/user name.
@@ -62,6 +61,19 @@ const config = {
       },
     ],
   ],
+
+    plugins: [
+      [
+        '@docusaurus/plugin-ideal-image',
+        {
+          quality: 70,
+          max: 1030, // max resized image's size.
+          min: 640, // min resized image's size. if original is lower, use that size.
+          steps: 2, // the max number of images generated between min and max (inclusive)
+          disableInDev: false,
+        },
+      ],
+    ],
 
   themeConfig: {
     navbar: {
