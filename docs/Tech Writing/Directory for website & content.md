@@ -4,12 +4,9 @@ sidebar_label: Docusaurus Framework
 sidebar_position: 2
 ---
 
-I used [Docusaurus 2], for the boiler plate.
-From my local - I push direct to this [GitHub repo](https://github.com/Alan4247748/friendly-potato)
-.
-A build is triggered in Netlify. Basic CI/CD.
-Plausible for analyitcs 
-Below is the website structure. 
+# Docusaurus 
+
+The purpose is to show as a Tech writer I do not shy away from code, frameworks, or development. I used [Docusaurus 2], for the boiler plate. From my local - I push direct to this [GitHub repo](https://github.com/Alan4247748/friendly-potato). A build is triggered in Netlify. Basic CI/CD. Below is the website structure. 
 
 ``` Javascript 
 Website_Directory/
@@ -59,3 +56,21 @@ Website_Directory/
     └── js/
 
 ``` 
+
+# Other Options 
+
+A few  - worth mentioning. 
+
+***Read the Docs:*** is a popular documentation hosting platform that simplifies the process of creating and publishing documentation. It supports various documentation formats, such as Sphinx, MkDocs, and Jupyter notebooks.
+
+[Website Link](https://readthedocs.org/)
+
+
+***GitBook:*** is a versatile platform that allows users to create, publish, and host documentation. It supports various documentation formats, including Markdown, AsciiDoc, and reStructuredText. 
+
+[Website Link](https://www.gitbook.com/)
+
+
+***Jekyll:*** is a popular static site generator that can be used to create documentation websites. It uses Markdown and Liquid templating to generate static HTML pages. Jekyll offers a wide range of themes and plugins, making it highly customizable.
+
+[Website Link](https://jekyllrb.com/)
