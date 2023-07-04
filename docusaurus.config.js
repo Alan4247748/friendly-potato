@@ -80,7 +80,7 @@ const config = {
 
   themeConfig: {
     navbar: {
-      title: 'Home',
+      title: '',
       items: [
         {
           type: 'doc',
@@ -142,6 +142,7 @@ const config = {
       theme: lightCodeTheme,
       darkTheme: darkCodeTheme,
       defaultLanguage: 'javascript',
+      position: 'right',
     },
     colorMode: {
       defaultMode: 'dark',

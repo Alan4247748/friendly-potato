@@ -1,7 +1,6 @@
 ---
 title: Volvo
 sidebar_label: Volvo
-id: intro
 description: Volvo Websites
 sidebar_position: 1
 ---
