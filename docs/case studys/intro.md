@@ -1,6 +1,7 @@
 ---
 title: Volvo
 sidebar_label: Volvo
+id: intro
 description: Volvo Websites
 sidebar_position: 1
 ---
@@ -25,12 +26,7 @@ We rolled out a series of websites using modular design components.
 
 ![Volvo Value](/img/Volvo.png)
 
-
-**Going Electric**
-
-The XC90 Recharge EV is the flag of Volvo's new electric fleet. With the XC90 Recharge, travel through life in a powerful but eco-friendly way. It's volvo we speak to comfort. 
-
-The unique design of the XC90 allows passengers to experience the vehicle more as a space rather than a mode of transportation. To accompany the global launch in 2021. 
+The XC90 Recharge EV is the flag of Volvo's new electric fleet. With the XC90 Recharge, travel through your day in a Volvo EV made for comfort—we speak to both.
 
 ![Authentic Luxury](/img/Volvo1.png)
 

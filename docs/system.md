@@ -1,6 +1,5 @@
 ---
 Title: Markdown Features
-Id: intro
 sidebar_label: Embedded Systems
 ---
 
@@ -16,5 +15,3 @@ sidebar_label: Embedded Systems
 # The Application 
 
 # Roadmap 
-
-

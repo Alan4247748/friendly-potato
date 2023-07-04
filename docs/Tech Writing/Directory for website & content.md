@@ -59,18 +59,10 @@ Website_Directory/
 
 # Other Options 
 
-A few  - worth mentioning. 
+Not exhaustive but a few worth mentioning.
 
-***Read the Docs:*** is a popular documentation hosting platform that simplifies the process of creating and publishing documentation. It supports various documentation formats, such as Sphinx, MkDocs, and Jupyter notebooks.
+[***Read the Docs:***](https://readthedocs.org/) is a popular documentation hosting platform that simplifies the process of creating and publishing documentation. It supports various documentation formats, such as Sphinx, MkDocs, and Jupyter notebooks.
 
-[Website Link](https://readthedocs.org/)
+[***GitBook:***](https://www.gitbook.com/) is a versatile platform that allows users to create, publish, and host documentation. It supports various documentation formats, including Markdown, AsciiDoc, and reStructuredText.
 
-
-***GitBook:*** is a versatile platform that allows users to create, publish, and host documentation. It supports various documentation formats, including Markdown, AsciiDoc, and reStructuredText. 
-
-[Website Link](https://www.gitbook.com/)
-
-
-***Jekyll:*** is a popular static site generator that can be used to create documentation websites. It uses Markdown and Liquid templating to generate static HTML pages. Jekyll offers a wide range of themes and plugins, making it highly customizable.
-
-[Website Link](https://jekyllrb.com/)
+[***Jekyll:*** ](https://jekyllrb.com/) is a popular static site generator that can be used to create documentation websites. It uses Markdown and Liquid templating to generate static HTML pages.
