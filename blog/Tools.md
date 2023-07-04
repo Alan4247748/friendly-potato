@@ -6,20 +6,15 @@ tags: [Developer Tools, Hardware vs Software]
 ---
 
 
-Imagine you want to build a Lego castle. 🏰
-You have plastic bricks and instructions
-showing which bricks to use and where. 🏗
-Follow the instructions, place the bricks,
-and make the castle. 🏰
+Part of learning something new involves sorthing through many tools. 
+There are "optimization//process gurus", that will sell you a course. 
+But if your anything like me, you prefer to plod it on your own. 
 
-![infrastructure as code](/img/Iac.png)
+![Endless-tool-triage](/img/tool.png)
 
 <!--truncate-->
 
-
-This is similar to infrastructure as code (IaC). 🔁
-Software engineers write instructions that tell computers
-how to set up and run different parts of a technology system. 🈯
-This includes setting up servers, creating databases,API design 
-and data pipelines for information
-to flow between system parts.
+# Current Process
+# Selecting Tools 
+# At the Fringes 
+# Endless-tool-triage 
