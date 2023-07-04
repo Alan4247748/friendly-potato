@@ -6,20 +6,25 @@ Id: Addestino
 sidebar_position: 1
 ---
 
+![Addestino](/img/Add2.png)
+
 # The Problem
 
-Addestino wanted to effectively communicate the value they provide to European businesses navigate the complexity landscape where business and technology intersect.Highlighting the specific problems they solve.
+Addestino, a Belgian IT consultancy, helps European businesses navigate a complex landscape: where business and technology intersect. I worked with them on ***(communicating)*** specific problems, and how they were solved.
 
 # My Role
 
-As the Tech writer on this project, I was the mouthpeice for various types of technical content. My responsibilities included writing a monthly newsletter,LinkedIn posts to increase their online visibility, and producing a range of articles derived from technical interviews. These articles were then transformed into case studies, market analysis reports, technology updates, and profile pieces that showcased Addestino's expertise and capabilities.
+As a Tech writer, I conducted technical interviews to produce a variety of content, including case studies, market analysis reports, technology updates, newsletters, linkedin posts, and profile pieces. To showcase Addestino's extensive capabilities and projects solving customers problems.
 
 # Technical Content
 
+![Technical Architecture](/img/Add1.png)
+
 - **Zero-trust Networking**
 - **Container Security**
+- **Data Lake**
 - **IT migration Roadmaps**
-- **Digital Warehouse Transformation**
+- **Data Warehouse Transformation**
 - **Enterprise Data Management**
 - **Architecture Design**
 
@@ -32,4 +37,6 @@ Its 😎 — [Link](https://addestino.be/).
 
 # The Results
 
-The content package helped Addestino effectively communicate their value proposition. Increasing their ability to attract talent and projects. 
+![Addestino](/img/Add.png)
+
+The content package helped Addestino effectively communicate increasing their ability to attract talent and projects. 
