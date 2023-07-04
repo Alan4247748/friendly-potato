@@ -20,10 +20,11 @@
 /* Always open sidebar */
 .navbar-burger {
   display: flex;
+  align-items: left; 
 }
 
 .navbar-menu {
-  display: block;
+  display: flex;
 }
 @media (max-width: 767px) {
   .navbar {
@@ -43,11 +44,6 @@
   }
 }
 
-@media (max-width: 767px) {
-  .navbar__items {
-    flex-direction: row-reverse;
-  }
-}
 /* Form block styling 
 /* global.css */
 

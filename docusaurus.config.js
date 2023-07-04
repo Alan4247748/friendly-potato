@@ -49,6 +49,7 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
         },
         blog: {
+          path: 'blog',
           showReadingTime: true, 
         },
         theme: {
@@ -82,12 +83,12 @@ const config = {
         {
           type: 'doc',
           docId: 'intro',
-          position: 'right',
+          position: 'left',
           label: 'Case Studies',
         },
-        { to: '/blog', label: 'Essays', position: 'right' },
-        { to: '/about', label: 'About', position: 'right' },
-        { to: '/contact', label: 'Contact', position: 'right' },
+        { to: '/blog', label: 'Essays', position: 'left' },
+        { to: '/about', label: 'About', position: 'left' },
+        { to: '/contact', label: 'Contact', position: 'left' },
 
       ],
     },
