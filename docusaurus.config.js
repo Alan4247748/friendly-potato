@@ -6,6 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 const config = {
+
   title: 'Donoho Murphy',
   tagline: 'Tech and Energy Writer',
   url: 'https://damurphy.com',
@@ -152,18 +153,3 @@ const config = {
 };
 
 module.exports = config;
-
-module.exports = {
-  plugins: [
-    [
-      '@docusaurus/plugin-ideal-image',
-      {
-        quality: 70,
-        max: 1030, // max resized image's size.
-        min: 640, // min resized image's size. if original is lower, use that size.
-        steps: 2, // the max number of images generated between min and max (inclusive)
-        disableInDev: false,
-      },
-    ],
-  ],
-};
