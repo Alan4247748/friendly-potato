@@ -31,7 +31,15 @@ const config = {
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
+    path: 'locales', // Specify the path where your translation files are located
+    localeConfigs: {
+      en: {
+        label: 'English',
+      },
+      // Add other locales and their configurations as needed
+    },
   },
+  
 
   presets: [
     [
