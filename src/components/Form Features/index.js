@@ -15,32 +15,33 @@ const Form = () => {
   return (
     <div>
       <h1>Contact Me</h1>
-      <form className="form" onSubmit={handleSubmit} name="contact" data-netlify="true" netlify>
-        <input
-          type="hidden"
-          name="form-name"
-          value="contact"
-        />
+      <form className="form" onSubmit={handleSubmit} name="contact" data-netlify="true">
+        <input type="hidden" name="form-name" value="contact" />
         <input
           type="text"
+          name="name"
           placeholder="Name"
           value={name}
           onChange={(e) => setName(e.target.value)}
         />
         <input
           type="email"
+          name="email"
           placeholder="Email"
           value={email}
           onChange={(e) => setEmail(e.target.value)}
         />
         <textarea
+          name="message"
           placeholder="Message"
           value={message}
           onChange={(e) => setMessage(e.target.value)}
         ></textarea>
         <button type="submit">Click Me</button>
       </form>
-      <p className={styles.emailText}>Email: <span className={styles.emailAddress}>Donohomurphy@gmail.com</span></p>
+      <p className={styles.emailText}>
+        Email: <span className={styles.emailAddress}>Donohomurphy@gmail.com</span>
+      </p>
     </div>
   );
 };

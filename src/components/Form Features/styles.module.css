@@ -31,4 +31,5 @@ button {
 .emailAddress {
   font-weight: bold;
   color: #84c1e9;
+  position: center;
 }
