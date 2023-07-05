@@ -5,14 +5,14 @@ sidebar_label: Embedded Systems
 ---
 
 
-# Sensor Technology 
+# Software 
 
-# Systems Building
+# Hardware
 
-# Micro controllers 
+# The Interplay 
 
-# The Network
+# Low Bandwidth 
 
-# The Application 
+# The Product 
 
-# Roadmap 
+# RoadMap 

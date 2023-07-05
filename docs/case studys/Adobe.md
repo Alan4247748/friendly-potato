@@ -26,7 +26,7 @@ Adobe commissions long research reports and turns them into articles.
 
 # Retail Personalization
 
-With the popularity of online shopping and abundant customer data, retailers try to enhance shopping experiences through personalized recommendations and tailored marketing strategies.
+With the popularity of online shopping and abundant customer data, retailers try to enhance shopping experiences through personalized recommendations and tailored marketing strategies. 
 
 Our goal was to explore the impact of retail personalization in Europe, identify insights, and share them through articles. Understanding regional challenges and opportunities help European retailers implement and improve customer understanding.
 

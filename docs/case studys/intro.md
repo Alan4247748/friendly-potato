@@ -16,7 +16,7 @@ We rolled out a series of websites using modular design components.
 
 # My Role 
 
-  ***Creating an art direction from Volvo's commissioned images while coordinating with language, design, and web dev agencies, and the Volvo team.***
+  ***Creating an art direction from Volvo's image bank while coordinating with language, and design agencies, plus the Volvo team.***
 
  - 60% Copywriting
  - 40% Design
@@ -25,7 +25,7 @@ We rolled out a series of websites using modular design components.
 
 ![Volvo Value](/img/Volvo.png)
 
-The XC90 Recharge EV is the flag of Volvo's new electric fleet. With the XC90 Recharge, travel through your day in a Volvo EV made for comfort—we speak to both.
+The XC90 Recharge EV is the flag of Volvo's new electric fleet. With the XC90 Recharge, travel through your day in a Volvo EV made for comfort——we speak it.
 
 ![Authentic Luxury](/img/Volvo1.png)
 

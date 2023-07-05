@@ -34,7 +34,7 @@ Its 😎 — [Link](https://ag.be/over-ag/content/dam/transversal/aboutus/docume
 
 # Promo Video
 
-The video, produced in multiple languages, including Dutch and French, aimed to engage and educate the target audience about AG Insurance's sustainability initiatives.
+The video was made in English, Dutch and French, aimed to engage and educate the target audience about AG Insurance's sustainability initiatives. I wrote the English (Voice Over) Script. 
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q3Q3a5fNXnk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
