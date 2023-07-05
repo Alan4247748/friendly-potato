@@ -10,12 +10,17 @@ sidebar_position: 3
  
  <pre>.MD & .MDX</pre>
 
+# Headings 
+
+***
 # heading 1
 ## heading 2
 ### heading 3
 #### heading 4
 ##### heading 5
 ###### heading 6
+
+***
 
 # Block Elements
 
@@ -145,9 +150,9 @@ Monospace Text wrapped in "pre" tags:
 ## Definition List
 
 <dl>
-  <dt>Definition Term 1</dt>
+<dt>Definition Term 1</dt>
   <dd>Definition Description 1</dd>
-  <dt>Definition Term 2</dt>
+<dt>Definition Term 2</dt>
   <dd>Definition Description 2</dd>
 </dl>
 
