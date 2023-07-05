@@ -15,7 +15,12 @@ const Form = () => {
   return (
     <div>
       <h1>Contact Me</h1>
-      <form className="form" onSubmit={handleSubmit} name="contact" netlify>
+      <form className="form" onSubmit={handleSubmit} name="contact" data-netlify="true" netlify>
+        <input
+          type="hidden"
+          name="form-name"
+          value="contact"
+        />
         <input
           type="text"
           placeholder="Name"
