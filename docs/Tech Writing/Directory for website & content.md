@@ -14,6 +14,10 @@ Website_Directory/
 ├── Root/
 │   ├── docusaurus.config.js
 │   │── sidebar.js
+│   ├── package.json
+│   ├── README.md
+│   │── sidebars.js
+│   └── yarn.lock
 │   │ 
 │   ├── static/
 │   │   └──img1.png
