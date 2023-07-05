@@ -37,4 +37,4 @@ Its 😎 — [Link](https://addestino.be/).
 
 # The Results
 
-The content package helped Addestino effectively communicate increasing their ability to attract talent and projects. 
+The monthly content package helped Addestino attract talent and projects.

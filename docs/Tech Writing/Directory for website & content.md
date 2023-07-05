@@ -6,7 +6,7 @@ sidebar_position: 2
 
 # Docusaurus 
 
-I used [Docusaurus 2], for the boiler plate. From my local - I push direct to this [GitHub repo](https://github.com/Alan4247748/friendly-potato). A build is triggered in Netlify. Basic CI/CD. As a Tech writer I do not shy away from code, frameworks, or becoming a better Dev——below is the website structure :). 
+I used [Docusaurus 2], for the boiler plate. From my local - I push direct to this [GitHub repo](https://github.com/Alan4247748/friendly-potato). A build is triggered in Netlify—basic CI/CD. As a Tech writer I lean into code, frameworks, and becoming a better Dev—below is the website structure :). 
 
 ``` Javascript 
 Website_Directory/
