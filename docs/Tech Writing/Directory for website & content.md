@@ -6,7 +6,7 @@ sidebar_position: 2
 
 # Docusaurus 
 
-The purpose is to show as a Tech writer I do not shy away from code, frameworks, or development. I used [Docusaurus 2], for the boiler plate. From my local - I push direct to this [GitHub repo](https://github.com/Alan4247748/friendly-potato). A build is triggered in Netlify. Basic CI/CD. Below is the website structure. 
+I used [Docusaurus 2], for the boiler plate. From my local - I push direct to this [GitHub repo](https://github.com/Alan4247748/friendly-potato). A build is triggered in Netlify. Basic CI/CD. As a Tech writer I do not shy away from code, frameworks, or becoming a better Dev——below is the website structure :). 
 
 ``` Javascript 
 Website_Directory/
@@ -16,8 +16,8 @@ Website_Directory/
 │   │── sidebar.js
 │   ├── package.json
 │   ├── README.md
-│   │── sidebars.js
-│   └── yarn.lock
+│   │── robots.txt
+│   └── package.json
 │   │ 
 │   ├── static/
 │   │   └──img1.png
@@ -33,10 +33,10 @@ Website_Directory/
 │   │      └──About.md
 │   │      └──Contact.js
 │   │ 
-│   │  └──fonts/
-│   │     ├──open-sans.svg
-│   │     ├──open-sans.ttf
-│   │     └──open-sans.woff
+│   │  └──css/
+│   │     ├──about.css
+│   │     ├──custom.css
+│   │     
 │   │
 └──Case-studys/
 │   │   ├──Advertising/
@@ -48,7 +48,7 @@ Website_Directory/
 │   │       └──A-P-I-Docs.md
 │   │ 
 └── Blog/
-│   ├── authos.yml/
+│   ├── authors.yml/
 │   │   ├── index.md
 │   │   ├── infrastructure-as-code.md
 │   │   └── Monitor-Aerospike-.md
@@ -63,7 +63,7 @@ Website_Directory/
 
 # Other Options 
 
-Not exhaustive but a few worth mentioning.
+Not exhaustive but worth mentioning.
 
 [***Read the Docs:***](https://readthedocs.org/) is a popular documentation hosting platform that simplifies the process of creating and publishing documentation. It supports various documentation formats, such as Sphinx, MkDocs, and Jupyter notebooks.
 

@@ -2,15 +2,14 @@
 title: About
 ---
 
-# Intro
 
-I code in English - its - interpreted, general-purpose, and expressive. Like LISP, English is manipulatable, and allows for MACROs.  Syntactic sugar depends on taste. However, breaking changes are far and few between. With an ecosystem and documentation that is matched by none.
+I code in English - its - interpreted, general-purpose, and expressive. Like LISP, English is manipulatable, and allows for MACROs.  Syntactic sugar depends on taste. However, breaking changes are far and few between. With an ecosystem and documentation that surpasses all.
 
 ## Skills
 
-- **Technical Writing**: I have a strong background in technical writing, including IT roadmaps, case study's, technical articles, help docs, SKDs, and tutorials.
+- **Technical Writing**: I know how to write case study's, blog posts, technical articles, help docs, SKDs, and tutorials.
 - **Communication**: I can collaborate with developers, product people, and other stakeholders to produce high-quality content.
-- **Tools**: I am proficient in using various documentation tools and technologies, including Markdown, Git, and documentation platforms like Docusaurus.
+- **Tools**: I've used various frameworks [Docusaurus](https://damurphy.com/docs/Tech%20Writing/Directory%20for%20website%20&%20content) and technologies: Markdown, Git, and documentation framweworks i.e., Docusaurus——among others. 
 
 
 ## About
@@ -19,11 +18,11 @@ I code in English - its - interpreted, general-purpose, and expressive. Like LIS
 
 >> **My clients have included IT consultanices, tech startups, corporates, advertising agencies, and the EU.**
 
->>> **Currenlty, I'm building a sensor technology [Here](https://www.damurphy.com/about)
+>>> **Bootstrapping, a sensor technology more [here](https://damurphy.com/docs/intro).**
 
 
 ## Education
 
-I studied at Baylor University in Waco, Texas for a marketing degree. I'm a self-taught programmer, and I like to tinker. 
+I follow a first-principles approach to trial-&-error. In reality, it's (trying to) fall forward and a long list of ideas that didn't work as evidence. I studied at Baylor University in Waco, Texas, and squeaked out a degree in marketing. I began writing and (luckily) turned that experiment into a profession. I speak (Español B1.2) and (Deutsch B2.1) a self-taught programmer and an enthusiastic tinkerer.
 
 ![Portrait](/img/Me2.png)
