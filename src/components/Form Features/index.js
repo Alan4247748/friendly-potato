@@ -27,7 +27,7 @@ const Form = () => {
   return (
     <div>
       <h1>Contact Me</h1>
-      <form className="form" onSubmit={handleSubmit} name="contact"  method="post" data-netlify="true">
+      <form className="form" onSubmit={handleSubmit} name="contact" method="post" data-netlify="true">
         <input type="hidden" name="form-name" value="contact" />
         <input
           type="text"
