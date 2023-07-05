@@ -69,9 +69,9 @@ const config = {
       [
         '@docusaurus/plugin-ideal-image',
         {
-          quality: 70,
-          max: 1030, // max resized image's size.
-          min: 640, // min resized image's size. if original is lower, use that size.
+          quality: 65,
+          max: 500, // max resized image's size.
+          min: 750, // min resized image's size. if original is lower, use that size.
           steps: 2, // the max number of images generated between min and max (inclusive)
           disableInDev: false,
         },
@@ -129,6 +129,14 @@ const config = {
             {
               label: 'Essays',
               to: '/blog',
+            },
+            {
+              label: 'Hackernoon',
+              href: 'https://hackernoon.com/u/damurphy',
+            },
+            {
+              label: 'LessWrong',
+              href: 'https://www.lesswrong.com/users/donoho_murphy',
             },
           ],
         },
