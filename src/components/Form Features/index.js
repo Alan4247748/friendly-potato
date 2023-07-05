@@ -14,12 +14,27 @@ const Form = () => {
       email: email,
       message: message,
     };
-    // You can perform additional validation or send the form data to an API
+    // You can perform additional validation or modify the form data as needed
 
     // Reset the form fields
     setName('');
     setEmail('');
     setMessage('');
+
+    // Submit the form
+    const form = e.target;
+    fetch(form.action, {
+      method: 'POST',
+      body: new FormData(form),
+    })
+      .then((response) => {
+        console.log('Form submitted successfully:', response);
+        // Handle success scenario
+      })
+      .catch((error) => {
+        console.error('Error submitting form:', error);
+        // Handle error scenario
+      });
 
     console.log('Form submitted!');
   };
@@ -50,18 +65,12 @@ const Form = () => {
           onChange={(e) => setMessage(e.target.value)}
         ></textarea>
         <button type="submit">Click Me</button>
+        <p className={styles.hidden}>
+          <label>
+            Don’t fill this out if you’re human: <input name="bot-field" />
+          </label>
+        </p>
       </form>
-  <p class="hidden">
-    <label>
-      Don’t fill this out if you’re human: <input name="bot-field" />
-    </label>
-  </p>
-  <p>
-    <label>
-      Email: <input type="text" name="email" />
-    </label>
-  </p>
-  <p></p>
       <p className={styles.emailText}>
         Email: <span className={styles.emailAddress}>Donohomurphy@gmail.com</span>
       </p>
