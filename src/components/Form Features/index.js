@@ -27,7 +27,7 @@ const Form = () => {
   return (
     <div>
       <h1>Contact Me</h1>
-      <form className="form" onSubmit={handleSubmit} name="contact" method="post" data-netlify="true">
+      <form className="form" onSubmit={handleSubmit} name="contact" method="post" netlify-honeypot="bot-field" data-netlify="true">
         <input type="hidden" name="form-name" value="contact" />
         <input
           type="text"
@@ -51,6 +51,17 @@ const Form = () => {
         ></textarea>
         <button type="submit">Click Me</button>
       </form>
+  <p class="hidden">
+    <label>
+      Don’t fill this out if you’re human: <input name="bot-field" />
+    </label>
+  </p>
+  <p>
+    <label>
+      Email: <input type="text" name="email" />
+    </label>
+  </p>
+  <p></p>
       <p className={styles.emailText}>
         Email: <span className={styles.emailAddress}>Donohomurphy@gmail.com</span>
       </p>
