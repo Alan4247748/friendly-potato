@@ -6,11 +6,11 @@ tags: [A.I., Machine Learning, Hardware]
 
 ---
 
-A.I. is not new. The pioneers have been many, including John McCarthy, Douglas C. Engelbart, Turing, and Lovelace, among countless others. With everyone's work being stacked on top of one another. To the modern day hackers writing history. 
-
+A.I. is not new. The pioneers have been many, including John McCarthy, Douglas C. Engelbart, Turing, and Lovelace, among countless others. 
 ![AI generated graphic](/img/AI.png)
 
 <!--truncate-->
+With everyone's work being stacked on top of one another. To the modern day hackers writing history. 
 
 The goal of augmenting human intelligence is as old a tale as humans have. Most cultures have a fateful story. It's how humans past down wisdom through the ages. We compound knowledge and push it forward. Today, Summer 2023, most people have AI fatigue they have been hearing about revoultionary AI for 6-months. But for most not much has changed. 
 

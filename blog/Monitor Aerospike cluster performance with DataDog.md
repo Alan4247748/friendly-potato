@@ -5,15 +5,13 @@ authors: zipi
 tags: [Aerospike, DataDog]
 ---
 
-[Aerospike](https://aerospike.com/) is a distributed and scalable NoSQL datastore providing low-latency access to data. Aerospike uses a Hybrid Memory Storage (HMS) architecture design that stores frequently accessed data in Flash memory and less frequently accessed data in solid-state drives (SSDs). 
+[Aerospike](https://aerospike.com/) is a distributed and scalable NoSQL datastore providing low-latency access to data. 
 
 ![Aerospike custom graphic](/img/Aerospike.png)
 
-
 <!--truncate-->
 
-
-The HMS design optimizes read and write performance allowing you to handle [namespaces] with different storage engines. This results in minimal hardware requirements lowering costs and improving data performance.
+Aerospike uses a Hybrid Memory Storage (HMS) architecture design that stores frequently accessed data in Flash memory and less frequently accessed data in solid-state drives (SSDs). The HMS design optimizes read and write performance allowing you to handle [namespaces] with different storage engines. This results in minimal hardware requirements lowering costs and improving data performance.
 
 This is why Aerospike is widely used in (performance-heavy) e-commerce, gaming, and finance applications. To interact with Aerospike, you can use the Aerospike wire protocol, a binary protocol that uses a (request-response) model for client-server communication. This protocol is used to communicate with the Aerospike database cluster over the network. The wire protocol supports various requests, such as read and write operations on records, batch operations, and secondary index queries. The protocol is optimized for low latency and high throughput, making it suitable for high-performance applications.
 
