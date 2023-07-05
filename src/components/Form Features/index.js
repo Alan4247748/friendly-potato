@@ -40,6 +40,7 @@ const Form = () => {
         ></textarea>
         <button type="submit">Click Me</button>
       </form>
+      <p className={styles.emailText}>Email: <span className={styles.emailAddress}>Donohomurphy@gmail.com</span></p>
     </div>
   );
 };

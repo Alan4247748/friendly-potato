@@ -22,3 +22,13 @@ button {
   cursor: pointer;
   margin-bottom: 20px;
 }
+
+.emailText {
+  font-size: 16px;
+  color: #333;
+}
+
+.emailAddress {
+  font-weight: bold;
+  color: #84c1e9;
+}
