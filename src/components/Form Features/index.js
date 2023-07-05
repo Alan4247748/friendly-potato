@@ -8,7 +8,19 @@ const Form = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    // Handle form submission logic here
+    // Perform form submission logic here
+    const formData = {
+      name: name,
+      email: email,
+      message: message,
+    };
+    // You can perform additional validation or send the form data to an API
+
+    // Reset the form fields
+    setName('');
+    setEmail('');
+    setMessage('');
+
     console.log('Form submitted!');
   };
 
