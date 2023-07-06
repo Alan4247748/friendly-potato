@@ -59,8 +59,10 @@ const Form = () => {
     <div>
       <h1>Contact Me</h1>
       <form className="form" onSubmit={handleSubmit} name="contact" method="post" netlify-honeypot="bot-field" data-netlify="true">
-        {/* ...form fields... */}
-        <button type="submit">Click Me</button>
+        <input type="text" placeholder="Name" value={name} onChange={(e) => setName(e.target.value)} />
+        <input type="email" placeholder="Email" value={email} onChange={(e) => setEmail(e.target.value)} />
+        <textarea placeholder="Message" value={message} onChange={(e) => setMessage(e.target.value)}></textarea>
+        <button type="submit">Submit</button>
       </form>
       <p className={styles.emailText}>
         Email: <span className={styles.emailAddress}>Donohomurphy@gmail.com</span>
