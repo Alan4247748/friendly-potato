@@ -2,10 +2,10 @@
 title: Legal
 ---
 
+![Busy Working](/img/Working.png)
 
-# Contact Form Submitted Successfully!
+# Thanks!!!
 
-Thank you for reaching out!
 I will get back to you ASAP.
 
 [Home Page](https://damurphy.com)
