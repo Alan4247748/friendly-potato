@@ -8,4 +8,4 @@ title: Legal
 Thank you for reaching out!
 I will get back to you ASAP.
 
-[Home Page](index.js)
+[Home Page](https://damurphy.com)
