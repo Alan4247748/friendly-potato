@@ -17,6 +17,14 @@ const Form = () => {
     };
     // You can perform additional validation or modify the form data as needed
 
+    // Email validation
+    const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+    if (!emailRegex.test(email)) {
+      console.error('Invalid email format');
+      // Handle error scenario for invalid email format
+      return; // Stop the submission process
+    }
+
     // Reset the form fields
     setName('');
     setEmail('');
@@ -32,10 +40,8 @@ const Form = () => {
         console.log('Form submitted successfully:', response);
         // Handle success scenario
         setIsSubmitted(true); // Set the state to indicate the form submission is successful
-        // Redirect the user to the success page after a delay
-        setTimeout(() => {
-          window.location.href = '/success'; // Replace '/success' with the actual URL of your success page
-        }, 2000); // Delay of 2000 milliseconds (2 seconds) before redirecting
+        // Redirect the user to the success page immediately
+        window.location.href = '/success'; // Replace '/success' with the actual URL of your success page
       })
       .catch((error) => {
         console.error('Error submitting form:', error);
@@ -47,12 +53,7 @@ const Form = () => {
 
   if (isSubmitted) {
     // Render a success message or component instead of the form
-    return (
-      <div>
-        <h1>Form Submitted Successfully!</h1>
-        <p>Thank you for your submission.</p>
-      </div>
-    );
+    return null; // Return null to hide any content
   }
 
   return (
