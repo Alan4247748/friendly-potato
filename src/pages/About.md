@@ -18,7 +18,7 @@ I code in English - its - interpreted, general-purpose, and expressive. Like LIS
 
 >> **My clients have included IT consultanices, tech startups, corporates, advertising agencies, and the EU.**
 
->>> **Bootstrapping, a sensor technology more [here](https://damurphy.com/docs/intro).**
+>>> **Bootstrapping, a sensor technology more [here](https://damurphy.com/docs/Product%20Design/Sensor).**
 
 
 ## The Story
