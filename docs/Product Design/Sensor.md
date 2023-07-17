@@ -1,6 +1,6 @@
 ---
 Title: Sensor Product
-doc id: intro
+description: System Design
 sidebar_label: Embedded Systems
 ---
 
