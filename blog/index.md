@@ -27,7 +27,7 @@ However, considering current LLMs are I/O machines, everything generated must un
 
 ## /Brevity/
 
-In the realm of communication and information exchange, brevity is paramount. Less is more. Simpler is better. Conveying ideas with this heuristic enables smoother communication. When working with A.I. models using (),{}, and [] help to signal the most imporant information. Brevity helps to hold attention. Transformer models rely on an attention mechanism to streamline information, and deliver messages clearly and succinctly.
+In the realm of communication and information exchange, brevity is paramount. Less is more. Simpler is better. Conveying ideas with this heuristic enables smoother communication. When working with A.I. models using (), {}, and [] help to signal the most imporant information. Brevity helps to hold attention. Transformer models rely on an attention mechanism to streamline information, and deliver messages clearly and succinctly.
 
 ## /Local LLMs/
 
