@@ -25,15 +25,15 @@ All prompting requires understanding the capabilities and limitations of the A.I
 
 However, considering current LLMs are I/O machines, everything generated must undergo human validation. It still comes down to how effective is the human agent and what their expertise is.
 
-### Brevity
+## /Brevity/
 
-In the realm of communication and information exchange, brevity is paramount. Less is more. Simpler is better. Conveying ideas (with this) heuristic enhances understanding and smoother communication. Brevity helps to hold attention, streamline information, and deliver messages clearly and succinctly. It is a valuable skill across all domains, from writing and public speaking to user interface design and content creation.
+In the realm of communication and information exchange, brevity is paramount. Less is more. Simpler is better. Conveying ideas with this heuristic enables smoother communication. When working with A.I. models using (),{}, and [] help to signal the most imporant information. Brevity helps to hold attention. Transformer models rely on an attention mechanism to streamline information, and deliver messages clearly and succinctly.
 
 ## /Local LLMs/
 
 Local LLMs are an OSS (open source software) approach to bring the power of LLMs into a local dev environment. These are lightweight versions of LLMs running 4-bit, 5-bit, or 8-bit integer quantization support. Allowing developers to play with, utilize, and fine-tune their capabilities. 
 
-Local LLMs allow for much faster inference speeds, and can be run at a fraction of the cost of large hosted models. But to be fair - they are possible because 100s of billions were invested in scrapping, training, and creating the large famous models, Chat GPT, Llamda, Bart, Jurassic, etc. The ability to leverage the power of language models for specific tasks without the need for large-scale infrastructure or extensive computational resources. 
+Local LLMs allow for much faster inference speeds, and can be run at a fraction of the cost of large hosted models. But to be fair - they are possible because 100s of billions were invested in scrapping, training, and creating the large foundational models, Chat GPT, Llamda, Bart, Jurassic, etc. The ability to leverage the power of language models for specific tasks without the need for large-scale infrastructure or extensive computational resources. 
 
 This offers flexibility, scalability, and efficiency in deploying language models for various needs [Anton](https://twitter.com/abacaj) is a developer on the cutting edge of local LLM development. 
 
@@ -45,6 +45,6 @@ In the context of A.I. and language models, API reliance refers to using APIs pr
 
 ## /Conclusion/
 
-In conclusion, the evolution of A.I. will continue to be a story of ideas stacked on each other. Transformers might become obsolete tomorrow.
+In conclusion, the evolution of A.I. will continue to be a story of ideas stacked on top of one another. Transformers might become obsolete tomorrow.
 
 There is a non-zero chance that A.I. will be the end of humanity. It could also be our greatest triumph. The future is uncertain, and the ever-evolving digital landscape is anyone's guess. 
