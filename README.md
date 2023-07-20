@@ -9,7 +9,7 @@ A build is triggered in Netlify. Basic CI/CD.
 # Why
 
 ``` Lisp
-I built this site to prove I can handle documentation sites and thought it would be fitting for my portfoilo. 
+To prove I can create documentation sites and showcase my copywriting  techwriting portfoilo. 
 ```
 
 # Errors 

@@ -80,7 +80,7 @@ const config = {
 
   themeConfig: {
     navbar: {
-      title: '',
+      title: 'Home',
       items: [
         {
           type: 'doc',
