@@ -4,13 +4,13 @@ title: About
 
 # My Story
 
-I follow a first-principles approach to trial-&-error. In reality, it's trying to fall forward and I have a long list of ideas that didn't work as evidence. I studied at Baylor University in Waco, Texas, and squeaked out a degree in marketing. Worked in the oil fields of West, Texas and had an eco-hostel in Guatemala (failure). I started writing in Berlin, Germany and have turned that experiment into a profession. I speak (English native) (Español B1.2) and (Deutsch B2.1). A self-taught programmer and an enthusiastic tinkerer.
+I use a first-principles approach to trial-&-error. In reality, it's a lot of failing, and I've got a long list of them as evidence. I  squeaked out a degree in marketing and studied at Baylor University in Waco, Texas.  After, I worked in the oil fields of West Texas. I started writing in Berlin, Germany, and have turned that experiment into a profession. I speak (English native) (Español B1.2) and (Deutsch B2.1). A self-taught programmer and an enthusiastic tinkerer.
 
 # Skills
 
 - **Technical Writing**: I've expereince writing case study's, blog posts, technical articles, help docs, SKDs, and tutorials.
 - **Communication**: I can collaborate with developers, product people, and marketers, to create high-quality content.
-- **Tools**: I've used various frameworks [Docusaurus](https://damurphy.com/docs/Tech%20Writing/Directory%20for%20website%20&%20content) as well as Markdown, Git, .css, .js, python, datadog, and more. 
+- **Tools**: I've used various frameworks [Docusaurus](https://damurphy.com/docs/Tech%20Writing/Directory%20for%20website%20&%20content) as well as Markdown, Git, .css, .js, Lisp, microcontrollers, python, datadog, and more. 
 
 
 # Highlights 

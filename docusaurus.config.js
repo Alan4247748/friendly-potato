@@ -78,22 +78,22 @@ const config = {
       ],
     ],
 
-  themeConfig: {
-    navbar: {
-      title: 'Home',
-      items: [
-        {
-          type: 'doc',
-          docId: 'intro',
-          position: 'left',
-          label: 'CaseStudys',
-        },
-        { to: '/blog', label: 'Essays', position: 'left' },
-        { to: '/about', label: 'About', position: 'left' },
-        { to: '/contact', label: 'Contact', position: 'left' },
-
-      ],
-    },
+    themeConfig: {
+      navbar: {
+        title: 'Home',
+        items: [
+          {
+            type: 'doc',
+            docId: 'intro',
+            position: 'left',
+            label: 'CaseStudys',
+          },
+          { to: '/blog', label: 'Essays', position: 'left' },
+          { to: '/about', label: 'About', position: 'left' },
+        ],
+        hideOnScroll: true, // Add this line to hide the navbar on scroll
+      },
+      
     footer: {
       style: 'dark',
       links: [
