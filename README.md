@@ -6,15 +6,16 @@ From my local - I push direct to this GitHub repository.
 A build is triggered in Netlify. Basic CI/CD.  
 ```
 
-## RoadMap
+# Why
 
-``` Python
-This site will be my portfolio and blog.
+``` Lisp
+I built this site to prove I can handle documentation sites and thought it would be fitting for my portfoilo. 
 ```
 
-### Odd Things 
+# Errors 
 
-I don't like how I have to use so much React, when I just really want to write .md files everywhere. 
+If you try in-page linking from a .md file to a .js you get a tersor-plugin error.
+![Thread](https://github.com/facebook/docusaurus/discussions/6219)
 
 ### Status 
 
