@@ -11,6 +11,8 @@ tags: [Aerospike, DataDog]
 
 <!--truncate-->
 
+# Aerospike 
+
 Aerospike uses a Hybrid Memory Storage (HMS) architecture design that stores frequently accessed data in Flash memory and less frequently accessed data in solid-state drives (SSDs). The HMS design optimizes read and write performance allowing you to handle [namespaces] with different storage engines. This results in minimal hardware requirements lowering costs and improving data performance.
 
 This is why Aerospike is widely used in (performance-heavy) e-commerce, gaming, and finance applications. To interact with Aerospike, you can use the Aerospike wire protocol, a binary protocol that uses a (request-response) model for client-server communication. This protocol is used to communicate with the Aerospike database cluster over the network. The wire protocol supports various requests, such as read and write operations on records, batch operations, and secondary index queries. The protocol is optimized for low latency and high throughput, making it suitable for high-performance applications.
@@ -27,7 +29,7 @@ Aerospike supports client libraries for multiple programming languages, includin
 
 3. Cluster health is a broad metric encompassing several factors, including node availability, replication factor, and data consistency. Monitoring cluster health ensures the overall stability and reliability of the cluster. Real-time alerts can be triggered when specific metrics and thresholds are reached. Allowing you to take corrective action before they impact your application's performance.
 
-# Real-time infrastructure monitoring 
+# DataDog 
 
 Datadog is a monitoring and analytics platform that provides real-time visibility into the performance and health of your entire technology stack, with [200+ integrations](https://www.datadoghq.com/blog/tag/integration/) for various technologies, including cloud services, databases, containers, and more. Datadog’s agent works to aggregate and analyze performance data from all your systems in one place.
 

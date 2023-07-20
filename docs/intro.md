@@ -1,30 +1,30 @@
 ---
 doc id: intro
 Title: intro 
-description: Copywriting, Technical writing, product design
+description: Copywriting, Technical writing, Product Design
 sidebar_label: intro
 ---
 
 
 # Intro
 
-Welcome to our documentation site! We provide resources in various domains to help you navigate through different topics. Here are the three main sections:
+Welcome! The docs are broken down into three main sections:
 
 ## Copywriting
 
-In the Copywriting section, you will find information and guidelines related to writing compelling and engaging content. Whether you're working on marketing materials, blog posts, or social media campaigns, this section will provide valuable insights and tips.
+As a copywriter, I've written websites, blogs, emails, chatbots, digital campaigns, case studies sustainability reports and much more.
 
-For more details, please visit the [Copywriting Section](https://damurphy.com/docs/category/advertising).
+If your interested in the [Case Study's](https://damurphy.com/docs/category/advertising).
+
+![Clients](/img/Add2.png)
 
 ## Technical Writing
 
-The Technical Writing section focuses on providing documentation for technical topics, such as software development, programming languages, APIs, and more. It offers tutorials, guides, and best practices to help you communicate complex concepts effectively.
+As a technical writer, I've written about technical topics, such as Zero-trust Networking, Container Security, IT migration Roadmaps, and much more.
 
-To explore the Technical Writing resources, check out the [Technical Writing Section](https://damurphy.com/docs/category/technical-writing). 
+If your interested in [Case Study's](https://damurphy.com/docs/category/technical-writing). 
 
 ## Product Design
 
-The Product Design section covers all aspects of designing user-centered experiences. From user interface (UI) design to user experience (UX) research, this section offers insights, methodologies, and case studies to enhance your product design skills.
-
-We hope you find these resources helpful and informative. Happy exploring!
+I'm working on my first endeavour into complex systems design. The project combines hardward and software, a sensor product more [here](https://damurphy.com/docs/Product%20Design/Sensor).
 
