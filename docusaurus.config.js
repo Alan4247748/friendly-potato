@@ -108,6 +108,10 @@ const config = {
               label: 'Sitemap',
               to: '/sitemap.xml',
             },
+              {
+                label: 'Status',
+                to: '/https://onionshors.statuspage.io/',
+              },
           ],
         },
         {
