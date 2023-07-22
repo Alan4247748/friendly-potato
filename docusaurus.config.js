@@ -110,7 +110,7 @@ const config = {
             },
               {
                 label: 'Status',
-                to: '/https://onionshors.statuspage.io/',
+                to: 'https://onionshors.statuspage.io/',
               },
           ],
         },
