@@ -83,7 +83,7 @@ const config = {
         title: 'Home',
         logo: {
           alt: 'Logo',
-          src: 'logo.jpg',
+          src: 'img/Vector-59.png',
         },
         items: [
           {
@@ -95,7 +95,7 @@ const config = {
           { to: '/blog', label: 'Essays', position: 'left' },
           { to: '/about', label: 'About', position: 'left' },
         ],
-        hideOnScroll: true, // Add this line to hide the navbar on scroll
+        hideOnScroll: true,
       },
       
     footer: {
