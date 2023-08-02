@@ -81,6 +81,10 @@ const config = {
     themeConfig: {
       navbar: {
         title: 'Home',
+        logo: {
+          alt: 'Logo',
+          src: 'logo.jpg',
+        },
         items: [
           {
             type: 'doc',
