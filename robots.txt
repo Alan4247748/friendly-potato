@@ -4,6 +4,3 @@ User-agent: Slurp
 User-agent: Algolia
 Disallow: /admin/
 Disallow: /private/
-
-Crawler Netlify - chimerical-valkyrie-a9eb19
-W0YTE0WD6U
