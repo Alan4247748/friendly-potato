@@ -80,10 +80,10 @@ const config = {
 
     themeConfig: {
       navbar: {
-        title: 'Home',
+        title: '',
         logo: {
           alt: 'Logo',
-          src: 'img/Vector-59.png',
+          src: 'img/gap.png',
         },
         items: [
           {
