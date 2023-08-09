@@ -1,6 +1,22 @@
-User-agent: Googlebot
 User-agent: Bingbot
+Disallow: /admin/
+Disallow: /private/
+
 User-agent: Slurp
+Disallow: /admin/
+Disallow: /private/
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: Googlebot
+Allow: /*.html$
+Disallow: /
+
 User-agent: Algolia
+Allow: /*.html$
+Disallow: /
+
+User-agent: *
 Disallow: /admin/
 Disallow: /private/
