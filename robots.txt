@@ -1,10 +1,12 @@
+Sitemap: https://damurphy.com/sitemap.xml
+
 User-agent: Bingbot
-Disallow: /admin/
-Disallow: /private/
+Allow: /*.html$
+Disallow: /
 
 User-agent: Slurp
-Disallow: /admin/
-Disallow: /private/
+Allow: /*.html$
+Disallow: /
 
 User-agent: GPTBot
 Disallow: /
