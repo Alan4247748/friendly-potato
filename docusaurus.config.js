@@ -1,12 +1,9 @@
 // @ts-check
-// Note: type annotations allow type checking and IDEs autocompletion
-
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
-const config = {
-
+module.exports = {
   title: 'Donoho Murphy',
   tagline: 'Tech and Energy Writer',
   url: 'https://damurphy.com',
@@ -20,27 +17,18 @@ const config = {
       "data-domain": "damurphy.com",
     },
   ],
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Alan4247748', // Usually your GitHub org/user name.
-  projectName: 'friendly-potato', // Usually your repo name.
-
-  // Even if you don't use internalization, you can use this field to set useful
-  // metadata like html lang. For example, if your site is Chinese, you may want
-  // to replace "en" with "zh-Hans".
+  organizationName: 'Alan4247748',
+  projectName: 'friendly-potato',
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
-    path: 'locales', // Specify the path where your translation files are located
+    path: 'locales',
     localeConfigs: {
       en: {
         label: 'English',
       },
-      // Add other locales and their configurations as needed
     },
   },
-  
-
   presets: [
     [
       '@docusaurus/preset-classic',
@@ -50,7 +38,7 @@ const config = {
         },
         blog: {
           path: 'blog',
-          showReadingTime: true, 
+          showReadingTime: true,
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -64,40 +52,26 @@ const config = {
       },
     ],
   ],
-
-    plugins: [
-      [
-        '@docusaurus/plugin-ideal-image',
-        {
-          quality: 65,
-          max: 500, // max resized image's size.
-          min: 750, // min resized image's size. if original is lower, use that size.
-          steps: 2, // the max number of images generated between min and max (inclusive)
-          disableInDev: false,
-        },
-      ],
-    ],
-
-    themeConfig: {
-      navbar: {
-        title: '',
-        logo: {
-          alt: 'Logo',
-          src: 'img/gap.png',
-        },
-        items: [
-          {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'CaseStudys',
-          },
-          { to: '/blog', label: 'Essays', position: 'left' },
-          { to: '/about', label: 'About', position: 'left' },
-        ],
-        hideOnScroll: true,
+  plugins: [], // Removed '@docusaurus/plugin-ideal-image'
+  themeConfig: {
+    navbar: {
+      title: '',
+      logo: {
+        alt: 'Logo',
+        src: 'img/gap.png',
       },
-      
+      items: [
+        {
+          type: 'doc',
+          docId: 'intro',
+          position: 'left',
+          label: 'CaseStudys',
+        },
+        { to: '/blog', label: 'Essays', position: 'left' },
+        { to: '/about', label: 'About', position: 'left' },
+      ],
+      hideOnScroll: true,
+    },
     footer: {
       style: 'dark',
       links: [
@@ -112,10 +86,10 @@ const config = {
               label: 'Sitemap',
               to: '/sitemap.xml',
             },
-              {
-                label: 'Status',
-                to: 'https://onionshors.statuspage.io/',
-              },
+            {
+              label: 'Status',
+              to: 'https://onionshors.statuspage.io/',
+            },
           ],
         },
         {
@@ -168,20 +142,6 @@ const config = {
     layout: {
       default: require.resolve('./src/layouts/DefaultLayout.js'),
     },
-    algolia: {
-      appId: 'W0YTE0WD6U',
-      apiKey: '16b7c61c11cdde575c7252ca7bec5505',
-      indexName: 'netlify_0b05f840-3fec-46cf-87bd-faf269a44eca_main_all',
-      contextualSearch: true,
-      externalUrlRegex: 'damurphy.com|blog\\.com',
-      replaceSearchResultPathname: {
-        from: '/docs/', // or as RegExp: /\/docs\//
-        to: '/',
-      },
-      searchParameters: {},
-      searchPagePath: 'search',
-    },
+    // Algolia section removed
   },
 };
-
-module.exports = config;
