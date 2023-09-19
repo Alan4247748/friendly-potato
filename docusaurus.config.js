@@ -7,8 +7,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 const config = {
 
-  title: 'Donoho Murphy',
-  tagline: 'Tech and Energy Writer',
+  title: 'COPY, TECH, AND PRODUCT',
+  tagline: 'WRITER',
   url: 'https://damurphy.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -65,25 +65,13 @@ const config = {
     ],
   ],
 
-    plugins: [
-      [
-        '@docusaurus/plugin-ideal-image',
-        {
-          quality: 65,
-          max: 500, // max resized image's size.
-          min: 750, // min resized image's size. if original is lower, use that size.
-          steps: 2, // the max number of images generated between min and max (inclusive)
-          disableInDev: false,
-        },
-      ],
-    ],
 
     themeConfig: {
       navbar: {
         title: '',
         logo: {
           alt: 'Logo',
-          src: 'img/gap.png',
+          src: '/img/yes.svg',
         },
         items: [
           {
@@ -167,19 +155,6 @@ const config = {
     },
     layout: {
       default: require.resolve('./src/layouts/DefaultLayout.js'),
-    },
-    algolia: {
-      appId: 'W0YTE0WD6U',
-      apiKey: '16b7c61c11cdde575c7252ca7bec5505',
-      indexName: 'netlify_0b05f840-3fec-46cf-87bd-faf269a44eca_main_all',
-      contextualSearch: true,
-      externalUrlRegex: 'damurphy.com|blog\\.com',
-      replaceSearchResultPathname: {
-        from: '/docs/', // or as RegExp: /\/docs\//
-        to: '/',
-      },
-      searchParameters: {},
-      searchPagePath: 'search',
     },
   },
 };

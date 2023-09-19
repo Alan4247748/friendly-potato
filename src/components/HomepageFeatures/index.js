@@ -4,26 +4,26 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Step 1',
-    imgSrc: '/img/research.png',
+    title: 'Advertising',
+    imgSrc: '/img/volvo4.png',
     description: (
       <>
-        Build up context to understand your goals and audience.
+        Copywriting projects for Volvo's European Diplomatic division.
       </>
     ),
   },
   {
-    title: 'Step 2',
-    imgSrc: '/img/drink.png',
+    title: 'Technical Writing',
+    imgSrc: '/img/front.png',
     description: (
       <>
-        Interview your experts for technical nuance.
+        Learning to convey technical nuance.
       </>
     ),
   },
   {
-    title: 'Step 3',
-    imgSrc: '/img/finish.png',
+    title: 'Product',
+    imgSrc: '/img/afam.png',
     description: (
       <>
         2-3 rounds of <code>editing</code> to develop the stories for publication.
