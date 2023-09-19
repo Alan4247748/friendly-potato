@@ -78,7 +78,7 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'CaseStudys',
+            label: 'Copywriting',
           },
           { to: '/blog', label: 'Essays', position: 'left' },
           { to: '/about', label: 'About', position: 'left' },

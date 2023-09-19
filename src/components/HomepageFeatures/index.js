@@ -23,10 +23,10 @@ const FeatureList = [
   },
   {
     title: 'Product',
-    imgSrc: '/img/afam.png',
+    imgSrc: '/img/product.png',
     description: (
       <>
-        2-3 rounds of <code>editing</code> to develop the stories for publication.
+        <code>Batteries</code> and performance racing brand.
       </>
     ),
   },
