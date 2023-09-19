@@ -2,20 +2,20 @@
 title: About
 ---
 
-# My Story
+# Lanugage
 
-I use a first-principles approach to trial-&-error. In reality, it's a lot of failing, and I've got a long list of them as evidence. I  squeaked out a degree in marketing and studied at Baylor University in Waco, Texas.  After, I worked in the oil fields of West Texas. I started writing in Berlin, Germany, and have turned that experiment into a profession. I speak (English native) (Español B1.2) and (Deutsch B2.1). A self-taught programmer and an enthusiastic tinkerer.
+I speak (English native) (Español B1.2) and (Deutsche B2.1)——self-taught programmer and an enthusiastic tinkerer.
 
 # Skills
 
 - **Technical Writing**: I've expereince writing case study's, blog posts, technical articles, help docs, SKDs, and tutorials.
-- **Communication**: I can collaborate with developers, product people, and marketers, to create high-quality content.
-- **Tools**: I've used various frameworks [Docusaurus](https://damurphy.com/docs/Tech%20Writing/Directory%20for%20website%20&%20content) as well as Markdown, Git, .css, .js, Lisp, microcontrollers, python, datadog, and more. 
+- **Communication**: I can collaborate with developers, product people, and marketers, Senior leadership.
+- **Tools**: I've used various frameworks [Docusaurus](https://damurphy.com/docs/Tech%20Writing/Directory%20for%20website%20&%20content) Gatsby, Markdown, Git, CSS, JS, Lisp, microcontrollers, python, datadog, and more. 
 
 
 # Highlights 
 
-> **I've written about technology, brands, people, and products and along the way learned context is everything so keep it simple.**
+> **I've written about many things and along the way learned context is everything so keep it simple.**
 
 >> **My clients have included IT consultanices, tech startups, corporates, advertising agencies, and the EU.**
 
