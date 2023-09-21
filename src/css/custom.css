@@ -1,52 +1,33 @@
-/**
- * Any CSS included here will be global. The classic template
- * bundles Infima by default. Infima is a CSS framework designed to
- * work well for content-centric websites.
- */
-
-/* You can override the default Infima variables here. */
-
 :root {
-  
-    --ifm-color-primary: #84c1e9;
-    --ifm-color-primary-dark: #65b1e3;
-    --ifm-color-primary-darker: #56aae1;
-    --ifm-color-primary-darkest: #2792d8;
-    --ifm-color-primary-light: #a3d1ef;
-    --ifm-color-primary-lighter: #b2d8f1;
-    --ifm-color-primary-lightest: #e1f0fa;
-  }
-
-/* Always open sidebar */
-.navbar-burger {
-  display: flex;
-  align-items: left; 
+  --ifm-color-primary: #84c1e9;
+  --ifm-color-primary-dark: #65b1e3;
+  --ifm-color-primary-darker: #56aae1;
+  --ifm-color-primary-darkest: #2792d8;
+  --ifm-color-primary-light: #a3d1ef;
+  --ifm-color-primary-lighter: #b2d8f1;
+  --ifm-color-primary-lightest: #e1f0fa;
 }
 
-.navbar-menu {
-  display: flex;
+/* Hide the hamburger menu */
+.navbar__toggle {
+  display: yes !important;
 }
+
+/* Always display the navbar items on mobile */
+.navbar__items {
+  display: flex !important;
+  flex-direction: row !important;
+  justify-content: flex-start !important;
+}
+
+/* Adjust styles for mobile view to ensure nav items fit */
 @media (max-width: 767px) {
-  .navbar {
-    /* Styles for small screens */
+  .navbar__item {
+      margin: 0 5px; /* Add horizontal margin */
   }
 }
 
-@media (min-width: 768px) and (max-width: 991px) {
-  .navbar {
-    /* Styles for medium-sized screens */
-  }
-}
-
-@media (min-width: 992px) {
-  .navbar {
-    /* Styles for larger screens */
-  }
-}
-
-/* Form block styling 
-/* global.css */
-
+/* Form block styling */
 .form {
   display: flex;
   flex-direction: column;
@@ -72,10 +53,10 @@ button {
 }
 
 button:hover {
-  background-color: #5e4bf1;
+  background-color: #f98408;
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
+/* For readability concerns in dark mode */
 [data-theme='dark'] {
   --ifm-color-primary: #84c1e9;
   --ifm-color-primary-dark: #65b1e3;
@@ -85,7 +66,6 @@ button:hover {
   --ifm-color-primary-lighter: #b2d8f1;
   --ifm-color-primary-lightest: #e1f0fa;
   --docusaurus-highlighted-code-line-bg: rgba(17, 17, 17, 0.3);
-
 }
 
 /* Footer styling */
@@ -93,35 +73,4 @@ button:hover {
   background-color: rgba(17, 17, 17, 0.3);
   color: white;
   padding: 20px;
-}
-
-/* Custom CSS for Algolia search input */
-.algolia-search-input {
-  /* Your custom styles */
-  float: left;
-  border: 1px solid #ccc;
-  padding: 8px;
-  /* Other styles... */
-}
-
-/* Custom CSS for Algolia search container */
-.algolia-search-container {
-  /* Your custom styles */
-  position: absolute;
-  top: 20px;
-  right: 20px;
-  /* Other styles... */
-}
-
-
-/* Custom CSS for light theme */
-[data-theme='light'] .navbar__toggle {
-  order: -1;
-  margin-right: 1rem;
-}
-
-/* Custom CSS for dark theme */
-[data-theme='dark'] .navbar__toggle {
-  order: -1;
-  margin-right: 1rem;
 }

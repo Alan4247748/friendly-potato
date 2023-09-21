@@ -1,12 +1,7 @@
-// @ts-check
-// Note: type annotations allow type checking and IDEs autocompletion
-
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
-/** @type {import('@docusaurus/types').DocusaurusConfig} */
 const config = {
-
   title: 'COPY, TECH, AND PRODUCT',
   tagline: 'WRITER',
   url: 'https://damurphy.com',
@@ -20,27 +15,18 @@ const config = {
       "data-domain": "damurphy.com",
     },
   ],
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Alan4247748', // Usually your GitHub org/user name.
-  projectName: 'friendly-potato', // Usually your repo name.
-
-  // Even if you don't use internalization, you can use this field to set useful
-  // metadata like html lang. For example, if your site is Chinese, you may want
-  // to replace "en" with "zh-Hans".
+  organizationName: 'Alan4247748',
+  projectName: 'friendly-potato',
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
-    path: 'locales', // Specify the path where your translation files are located
+    path: 'locales',
     localeConfigs: {
       en: {
         label: 'English',
       },
-      // Add other locales and their configurations as needed
     },
   },
-  
-
   presets: [
     [
       '@docusaurus/preset-classic',
@@ -50,7 +36,7 @@ const config = {
         },
         blog: {
           path: 'blog',
-          showReadingTime: true, 
+          showReadingTime: true,
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -64,28 +50,25 @@ const config = {
       },
     ],
   ],
-
-
-    themeConfig: {
-      navbar: {
-        title: '',
-        logo: {
-          alt: 'Logo',
-          src: '/img/yes.svg',
-        },
-        items: [
-          {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Copywriting',
-          },
-          { to: '/blog', label: 'Essays', position: 'left' },
-          { to: '/about', label: 'About', position: 'left' },
-        ],
-        hideOnScroll: true,
+  themeConfig: {
+    navbar: {
+      title: '',
+      logo: {
+        alt: 'Logo',
+        src: '/img/yes.svg',
       },
-      
+      items: [
+        {
+          type: 'doc',
+          docId: 'intro',
+          position: 'left',
+          label: 'Copywriting',
+        },
+        { to: '/blog', label: 'Essays', position: 'left' },
+        { to: '/about', label: 'About', position: 'left' },
+      ],
+      hideOnScroll: false,
+    },
     footer: {
       style: 'dark',
       links: [
@@ -100,10 +83,10 @@ const config = {
               label: 'Sitemap',
               to: '/sitemap.xml',
             },
-              {
-                label: 'Status',
-                to: 'https://onionshors.statuspage.io/',
-              },
+            {
+              label: 'Status',
+              to: 'https://onionshors.statuspage.io/',
+            },
           ],
         },
         {
@@ -146,12 +129,11 @@ const config = {
       theme: lightCodeTheme,
       darkTheme: darkCodeTheme,
       defaultLanguage: 'javascript',
-      position: 'right',
     },
     colorMode: {
       defaultMode: 'dark',
       disableSwitch: false,
-      respectPrefersColorScheme: false,
+      respectPrefersColorScheme: true,
     },
     layout: {
       default: require.resolve('./src/layouts/DefaultLayout.js'),
