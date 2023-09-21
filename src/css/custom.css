@@ -9,12 +9,18 @@
 }
 
 /* Hide the hamburger menu */
-.navbar {
-  display: always !important;
+.navbar__toggle {
+  display: none !important;
 }
 
-/* Always display the navbar items on mobile */
-.navbar__items {
+/* Always display the navbar */
+.navbar {
+  display: flex !important;
+}
+
+/* Always display the navbar items and theme toggle */
+.navbar__items,
+.navbar__items--right {
   display: flex !important;
   flex-direction: row !important;
   justify-content: flex-start !important;
