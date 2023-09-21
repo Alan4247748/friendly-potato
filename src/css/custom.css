@@ -9,8 +9,8 @@
 }
 
 /* Hide the hamburger menu */
-.navbar__toggle {
-  display: yes !important;
+.navbar {
+  display: always !important;
 }
 
 /* Always display the navbar items on mobile */
@@ -21,7 +21,7 @@
 }
 
 /* Adjust styles for mobile view to ensure nav items fit */
-@media (max-width: 767px) {
+@media (max-width: 967px) {
   .navbar__item {
       margin: 0 5px; /* Add horizontal margin */
   }
