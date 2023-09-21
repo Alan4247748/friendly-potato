@@ -21,6 +21,16 @@ As a technical writer, I've written about Zero-trust Networking, Container Secur
 
 [Digital Twin](https://damurphy.com/docs/category/technical-writing). 
 
+Technical writing -problems
+Dependency hell.
+Git branching.
+Netlify
+AWS (setup)
+Environments (replit)
+Red vs blue
+Cyber security
+What is malware
+
 # Product Design
 
 My first endeavour into complex system design. The project combines hardware and software, to build a sensor product more [here](https://damurphy.com/docs/Product%20Design/Sensor).

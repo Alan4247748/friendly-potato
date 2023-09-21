@@ -8,32 +8,13 @@
   --ifm-color-primary-lightest: #e1f0fa;
 }
 
-/* Hide the hamburger menu */
-.navbar__toggle {
-  display: none !important;
-}
-
-/* Always display the navbar */
-.navbar {
-  display: flex !important;
-}
-
-/* Always display the navbar items and theme toggle */
-.navbar__items,
-.navbar__items--right {
-  display: flex !important;
-  flex-direction: row !important;
-  justify-content: flex-start !important;
-}
-
 /* Adjust styles for mobile view to ensure nav items fit */
 @media (max-width: 967px) {
   .navbar__item {
-      margin: 0 5px; /* Add horizontal margin */
+    margin: 0 5px; /* Add horizontal margin */
   }
 }
 
-/* Form block styling */
 .form {
   display: flex;
   flex-direction: column;
@@ -62,7 +43,6 @@ button:hover {
   background-color: #f98408;
 }
 
-/* For readability concerns in dark mode */
 [data-theme='dark'] {
   --ifm-color-primary: #84c1e9;
   --ifm-color-primary-dark: #65b1e3;
@@ -74,7 +54,6 @@ button:hover {
   --docusaurus-highlighted-code-line-bg: rgba(17, 17, 17, 0.3);
 }
 
-/* Footer styling */
 .footer {
   background-color: rgba(17, 17, 17, 0.3);
   color: white;

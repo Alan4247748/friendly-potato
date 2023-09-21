@@ -61,15 +61,23 @@ const config = {
         {
           type: 'doc',
           docId: 'intro',
-          position: 'left',
-          label: 'Copywriting',
+          position: 'right',
+          label: 'advertising',
         },
-        { to: '/blog', label: 'Essays', position: 'left' },
-        { to: '/about', label: 'About', position: 'left' },
+        { to: '/blog', label: 'essays', position: 'right' },
+        { to: '/about', label: 'about', position: 'right' },
+        { to: '/tech', label: 'tech', position: 'right' },
       ],
       hideOnScroll: false,
     },
     footer: {
+      logo: {
+        alt: 'Onion Shorts Logo',
+        src: 'img/os.png',
+        href: 'https://damurphy.com',
+        width: 300,
+        height: 100,
+      },
       style: 'dark',
       links: [
         {
@@ -85,7 +93,7 @@ const config = {
             },
             {
               label: 'Status',
-              to: 'https://onionshors.statuspage.io/',
+              href: 'https://onionshors.statuspage.io/',
             },
           ],
         },
