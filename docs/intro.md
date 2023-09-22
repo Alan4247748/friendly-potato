@@ -33,6 +33,7 @@ Packet Managers _ Why so Many _
 Red vs blue
 Cyber security
 What is malware
+uBlock Oriign / safari / client browser rant
 
 # Product Design
 
