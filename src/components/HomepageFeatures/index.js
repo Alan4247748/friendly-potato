@@ -4,22 +4,22 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Advertising',
+    title: '',
     imgSrc: '/img/volvo4.png',
-    description: <>Copywriting projects for Volvo's European Diplomatic division.</>,
-    buttonText: 'Case Studys', // Added buttonText
+    description: <>Volvo copywriting, web design, and advertising</>,
+    buttonText: 'Case Study', // Added buttonText
   },
   {
-    title: 'Technical Writing',
+    title: '',
     imgSrc: '/img/front.png',
-    description: <>Learning to convey technical nuance.</>,
-    buttonText: 'Technical Projects', // Added buttonText
+    description: <>Technical writing for IT consultancy.</>,
+    buttonText: 'Case Study', // Added buttonText
   },
   {
-    title: 'Product',
+    title: '',
     imgSrc: '/img/product.png',
-    description: <><code>Batteries</code> and performance racing brand.</>,
-    buttonText: 'See Products', // Added buttonText
+    description: <><code>Batteries</code> and technical products.</>,
+    buttonText: 'Case Study', // Added buttonText
   },
 ];
 
