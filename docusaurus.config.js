@@ -66,7 +66,6 @@ const config = {
         },
         { to: '/blog', label: 'essays', position: 'right' },
         { to: '/about', label: 'about', position: 'right' },
-        { to: '/tech', label: 'tech', position: 'right' },
       ],
       hideOnScroll: false,
     },
@@ -78,7 +77,7 @@ const config = {
         width: 300,
         height: 100,
       },
-      style: 'dark',
+      style: 'light',
       links: [
         {
           title: 'Admin',

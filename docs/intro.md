@@ -23,10 +23,13 @@ As a technical writer, I've written about Zero-trust Networking, Container Secur
 
 Technical writing -problems
 Dependency hell.
+Packet Managers 
 Git branching.
 Netlify
 AWS (setup)
 Environments (replit)
+(Nyxt Browser)
+Packet Managers _ Why so Many _ 
 Red vs blue
 Cyber security
 What is malware
