@@ -128,7 +128,7 @@ const config = {
         },
       ],
       copyright:
-        'Copyright © 2022-' +
+        'Copyright © 2019-' +
         new Date().getFullYear() +
         ' Alan Murphy, Development, Content, and Design.',
     },

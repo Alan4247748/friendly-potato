@@ -5,7 +5,7 @@ sidebar_label: Embedded Systems
 ---
 
 
-# Intro 
+# REMOTE SENSOR DEVICE 
 
 I'm designing a sensor prototype for the oil and gas industry. Specically, to calculate fluid volume within oil and water tanks. 
 
