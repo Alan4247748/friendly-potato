@@ -19,7 +19,7 @@ const FeatureList = [
     link: '/docs/Tech Writing/Addestino', // Updated path for Technical writing
   },
   {
-    title: 'PERFORMANCE',
+    title: 'AFAM',
     imgSrc: '/img/product.png',
     description: <><code>Product Specs</code></>,
     buttonText: 'Case Study',

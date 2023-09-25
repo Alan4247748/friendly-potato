@@ -137,7 +137,7 @@ const config = {
       copyright:
         'Copyright © 2019-' +
         new Date().getFullYear() +
-        'Alan Murphy, Development, Content, and Design.',
+        ' Alan Murphy, Development, Content, and Design.',
     },
     prism: {
       theme: lightCodeTheme,
