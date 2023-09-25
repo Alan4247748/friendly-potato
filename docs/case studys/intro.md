@@ -18,8 +18,10 @@ We rolled out a series of websites and ad campaigns.
 
   ***Creating an art direction from Volvo's image bank while coordinating with language, and design agencies, plus the Volvo team.***
 
- - 60% Copywriting
- - 40% Design
+**60% Copywriting**<br />
+**40% Design**
+
+
 
 # XC90 Recharge
 

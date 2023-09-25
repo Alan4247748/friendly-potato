@@ -1,6 +1,7 @@
 import React from 'react';
 import clsx from 'clsx';
-import styles from 'styles.modules.css';
+import styles from './styles.module.css'; // Assuming the CSS module is in the same directory
+
 
 const FeatureList = [
   {

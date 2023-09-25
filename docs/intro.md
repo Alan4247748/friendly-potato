@@ -7,7 +7,7 @@ sidebar_label: intro
 
 
 
-# Copywriting
+# Advertising 
 
 As a copywriter, I've written websites, blogs, emails, chatbots, digital campaigns, case studies, sustainability reports and more.
 
