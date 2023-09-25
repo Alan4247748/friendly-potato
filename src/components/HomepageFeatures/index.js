@@ -1,30 +1,34 @@
 import React from 'react';
 import clsx from 'clsx';
-import styles from './styles.module.css'; // Assuming the CSS module is in the same directory
-
+import Link from '@docusaurus/Link'; // Import the Link component
+import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Volvo',
+    title: 'VOLVO',
     imgSrc: '/img/volvo4.png',
-    description: <>Copy writing, web design, and ad campaign.</>,
-    buttonText: 'Case Study', // Added buttonText
+    description: <>Diplomatic campaign</>,
+    buttonText: 'Case Study',
+    link: '/docs/case studys/intro', // Updated path for Volvo
   },
   {
-    title: '',
-    imgSrc: '/img/front.png',
-    description: <>Technical writing for IT consultancy.</>,
-    buttonText: 'Case Study', // Added buttonText
+    title: 'ADDESTINO',
+    imgSrc: '/img/add1.png',
+    description: <>Technical writing</>,
+    buttonText: 'Case Study',
+    link: '/docs/Tech Writing/Addestino', // Updated path for Technical writing
   },
   {
-    title: '',
+    title: 'SHIDO',
     imgSrc: '/img/product.png',
-    description: <><code>Batteries</code> and technical products.</>,
-    buttonText: 'Case Study', // Added buttonText
+    description: <><code>Product Spec</code></>,
+    buttonText: 'Case Study',
+    link: '/docs/case studys/afam', // Updated path for Product Spec
   },
 ];
 
-function Feature({ imgSrc, title, description, buttonText }) { // Added buttonText prop
+
+function Feature({ imgSrc, title, description, buttonText, link }) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
@@ -33,7 +37,7 @@ function Feature({ imgSrc, title, description, buttonText }) { // Added buttonTe
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
         <p>{description}</p>
-        <button className="button button--secondary">{buttonText}</button> {/* Rendered button */}
+        <Link to={link} className="button button--secondary">{buttonText}</Link> {/* Updated to use Link */}
       </div>
     </div>
   );

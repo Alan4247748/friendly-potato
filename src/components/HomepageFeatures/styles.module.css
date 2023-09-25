@@ -9,6 +9,8 @@
 .featureImg {
   height: 400px;
   width: 400px;
+  padding-bottom: 1rem 0;
+  padding-top: 2rem 0;
   background-color: #F5F5F5;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
@@ -17,6 +19,12 @@
   text-align: left;
 }
 
+
 button:hover {
   background-color: #56aae1;
+  padding-bottom: 4px;
+}
+
+button {
+  margin-bottom: 1rem; /* Added margin to the bottom of the button */
 }

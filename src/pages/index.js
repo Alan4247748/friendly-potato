@@ -29,7 +29,7 @@ export default function Home() {
     <Layout>
       <HomepageHeader />
       <section className="container">
-        <h1>Clients</h1>
+        <h1>CLIENTS</h1>
         <ClientsComponent />
       </section>
       <main>
