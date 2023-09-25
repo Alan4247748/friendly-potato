@@ -7,12 +7,16 @@
 }
 
 .featureImg {
-  height: 200px;
-  width: 200px;
+  height: 400px;
+  width: 400px;
   background-color: #F5F5F5;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 .features h1 {
-  text-align: center;
+  text-align: left;
+}
+
+button:hover {
+  background-color: #56aae1;
 }
