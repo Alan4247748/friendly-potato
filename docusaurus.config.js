@@ -2,8 +2,8 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 const config = {
-  title: 'Tech & Copy',
-  tagline: 'Writer',
+  title: 'Tech & Copy Writer',
+  tagline: '',
   url: 'https://damurphy.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',

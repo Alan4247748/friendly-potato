@@ -5,9 +5,9 @@ import styles from './styles.module.css'; // Assuming the CSS module is in the s
 
 const FeatureList = [
   {
-    title: '',
+    title: 'Volvo',
     imgSrc: '/img/volvo4.png',
-    description: <>Volvo copywriting, web design, and advertising</>,
+    description: <>Copy writing, web design, and ad campaign.</>,
     buttonText: 'Case Study', // Added buttonText
   },
   {

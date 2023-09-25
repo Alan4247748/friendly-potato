@@ -1,0 +1,33 @@
+.client-logo {
+  width: 150px;
+  height: 75px;
+  margin: 15px; /* Increased margin for more spacing between logos */
+  padding: 5px; /* Padding around each logo for better visual separation */
+  border: 1px solid #e0e0e0; /* A subtle border around each logo */
+  border-radius: 5px; /* Rounded corners for the logo */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* A subtle shadow for depth */
+  transition: transform 0.3s ease; /* Transition for hover effect */
+}
+
+.client-logo:hover {
+  transform: scale(1.05); /* Slightly enlarge the logo on hover */
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); /* Increase shadow depth on hover */
+}
+
+.clients-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 20px; /* Padding around the container for better spacing from its surroundings */
+  background-color: #f9f9f9; /* A subtle background color for the container */
+  border-radius: 10px; /* Rounded corners for the container */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* A subtle shadow for depth */
+}
+
+.ClientsComponents h1 {
+  display: flex;
+  justify-content: left;
+  flex-wrap: wrap;
+  padding: 20px
+
+}
