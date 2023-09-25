@@ -58,12 +58,19 @@ const config = {
         src: '/img/yes.svg',
       },
       items: [
+        
         {
           type: 'doc',
-          docId: 'intro',
+          docId: 'Tech Writing/Addestino',
           position: 'right',
-          label: 'advertising',
+          label: 'technical',
         },
+          {
+            type: 'doc',
+            docId: 'case studys/intro',
+            position: 'right',
+            label: 'advertising',
+          },
         { to: '/blog', label: 'essays', position: 'right' },
         { to: '/about', label: 'about', position: 'right' },
       ],
