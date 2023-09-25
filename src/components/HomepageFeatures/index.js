@@ -7,7 +7,7 @@ const FeatureList = [
   {
     title: 'VOLVO',
     imgSrc: '/img/volvo4.png',
-    description: <>Diplomatic campaign</>,
+    description: <>Advertising</>,
     buttonText: 'Case Study',
     link: '/docs/case studys/intro', // Updated path for Volvo
   },
@@ -19,9 +19,9 @@ const FeatureList = [
     link: '/docs/Tech Writing/Addestino', // Updated path for Technical writing
   },
   {
-    title: 'SHIDO',
+    title: 'PERFORMANCE',
     imgSrc: '/img/product.png',
-    description: <><code>Product Spec</code></>,
+    description: <><code>Product Specs</code></>,
     buttonText: 'Case Study',
     link: '/docs/case studys/afam', // Updated path for Product Spec
   },

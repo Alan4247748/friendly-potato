@@ -6,7 +6,7 @@ Id: Addestino
 sidebar_position: 1
 ---
 
-![Addestino](/img/Add2.png)
+![Addestino](/img/Add3.png)
 
 # The Problem
 
@@ -21,7 +21,6 @@ As a Tech writer, I conducted technical interviews to produce a variety of conte
 
 # Technical Content
 
-![Technical Addestino](/img/Add.png)
 
 - **Zero-trust Networking**
 - **Container Security**
@@ -30,6 +29,11 @@ As a Tech writer, I conducted technical interviews to produce a variety of conte
 - **Data Warehouse Transformation**
 - **Enterprise Data Management**
 - **Architecture Design**
+
+![Technical Addestino](/img/Add2.png)
+
+
+![Technical Addestino](/img/Add.png)
 
 
 :::tip Website Below
