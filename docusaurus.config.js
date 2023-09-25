@@ -2,8 +2,8 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 const config = {
-  title: 'COPY, TECH, AND PRODUCT',
-  tagline: 'WRITER',
+  title: 'Tech & Copy Writer',
+  tagline: '',
   url: 'https://damurphy.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -130,7 +130,7 @@ const config = {
       copyright:
         'Copyright © 2019-' +
         new Date().getFullYear() +
-        ' Alan Murphy, Development, Content, and Design.',
+        'Onion Shorts OÜ, Development, Content, and Design.',
     },
     prism: {
       theme: lightCodeTheme,

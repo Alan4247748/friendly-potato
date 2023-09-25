@@ -10,7 +10,7 @@ sidebar_position: 1
 # The Problem
  
 The Diplomatic sales team at Volvo wanted to generate more leads.
-We rolled out a series of websites using modular design components. 
+We rolled out a series of websites and ad campaigns. 
 
 ![Volvo Prop](/img/Volvo3.png)
 
@@ -25,13 +25,14 @@ We rolled out a series of websites using modular design components.
 
 ![Volvo Value](/img/Volvo.png)
 
-The XC90 Recharge EV is the flag of Volvo's new electric fleet. With the XC90 Recharge, travel through your day in a Volvo EV made for comfort——we speak it.
+The XC90 Recharge EV was a flagship for Volvo's new electric fleet. With the XC90 Recharge, travel through your day in a Volvo EV made for comfort——we speak it.
 
 ![Authentic Luxury](/img/Volvo1.png)
 
 :::danger Website Below
 
-Its 😎 — [Link](https://diplomatic.volvocars.be/)
+[Click me](https://diplomatic.volvocars.be/ "View site") 
+
 
 :::
 

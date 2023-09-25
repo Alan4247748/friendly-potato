@@ -17,10 +17,6 @@ function HomepageHeader() {
             Contact 📧
           </a>
         </div>
-        <div className="container">
-          <h1 className="hero__title">Tech Writing</h1>
-          <p className="hero__subtitle">Software and hardware</p>
-        </div>
       </div>
     </header>
   );
