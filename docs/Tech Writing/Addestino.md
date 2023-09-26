@@ -27,7 +27,7 @@ As a Tech writer, I conducted technical interviews to produce a variety of conte
 - **IT migration Roadmaps**
 - **Data Warehouse Transformation**
 - **Enterprise Data Management**
-- **Architecture Design**
+- **<System Architecture Design**
 
 
 :::tip Website Below
@@ -38,6 +38,6 @@ Its 😎 — [Link](https://addestino.be/).
 
 # The Results
 
-Month over Month I helped Addestino document stories to talent and projects.
+Month over Month I helped Addestino document problems they solved and the growth of their consultants. 
 
 ![Technical Addestino](/img/Add.png)

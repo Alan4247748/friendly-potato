@@ -9,7 +9,7 @@ sidebar_position: 4
 
 # The Problem
 
-The Adobe EMEA studio needed help re-purposing industry reports into articles. 
+EMEA studio needed help re-purposing industry reports into articles. 
 
 ![Personalization at scale](/img/adobe.png)
 
