@@ -6,14 +6,13 @@ tags: [infrastructure as Code, Cloud computing]
 
 ---
 
-Imagine you want to build a Lego castle 🏰.
-You have bricks and instructions showing what to use and where 🏗. 
+How to build a Lego castle 🏰? Buy it, read the instuructions, and use the bricks 🏗. 
 
 ![infrastructure as code](/img/Iac.png)
 
 <!--truncate-->
 
-Follow the instructions, place the bricks, and build your castle 🏰. This framework is similar to infrastructure as code (IaC) 🔁. Software engineers write instructions that tell computers how to set up and run different parts of a technology system 🈯. This includes setting up servers, creating databases, API design and data pipelines to connect different systems.
+Read, place, build. Infra-as-code the instructions, place the bricks, and build your castle 🏰. This framework is similar to infrastructure as code (IaC) 🔁. Software engineers write instructions that tell computers how to set up and run different parts of a technology system 🈯. This includes setting up servers, creating databases, API design and data pipelines to connect different systems.
 
 Best practices: 💯
 - Code as a single source of truth.

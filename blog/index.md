@@ -13,7 +13,7 @@ Great ideas are built on top of previous great ideas - in the story of augmentin
 
 ## /Augmenting Memory/
 
-Humans developed language by using (small mouth noises) and attaching meaning to them. These symbols were held in collective memory and used for communication and understanding. Language, I would argue, is our greatest Tech. It plays a crucial role in all human processes. Through language, we express our thoughts, share knowledge, and pass down wisdom across generations. Symbols can take various forms, including spoken words, written text, and internal mental representations.
+Humans developed language by using (small mouth noises) and attaching meaning to them. These symbols were held in collective memory and passed down generation to generation. Language, I would argue, is our greatest **Tech**. It plays a crucial role in all human processes. Through language, we express our thoughts, share knowledge, and document wisdom. Symbols can take various forms, including spoken words, written text, and internal mental representations.
 
 The development of written language was a significant milestone in augmenting memory. Stories were no longer held solely in the mind(s) of our ancestors. It allowed knowledge to be recorded, preserved, and transmitted over distances and generations. Writing systems emerged independently in different civilizations, such as cuneiform, hieroglyphics, and alphabets. Preserved texts have been critical in helping societies build upon the insights of the past.
 

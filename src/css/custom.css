@@ -42,16 +42,21 @@
 body {
   font-family: 'Neue Kable', fallback-fonts;
   font-weight: 500;
+  font-size: 20px; /* Adjusted to a more standard size */
 }
 
 h1 {
   font-family: 'Neue Kable', fallback-fonts;
   font-weight: 700;
+  font-size: 2.5em; /* 36px when body is 18px */
+  padding-bottom: 10px;
+  padding-top: 10px;
 }
 
 h2, h3, h4, h5, h6 {
   font-family: 'Neue Kable', fallback-fonts;
   font-weight: 600;
+  font-size: 2em; /* 27px when body is 18px */
 }
 
 @media (max-width: 967px) {
@@ -64,9 +69,14 @@ h2, h3, h4, h5, h6 {
   }
 }
 
+.navbar__item {
+  font-size: 1em; /* 18px when body is 18px */
+}
+
 .navbar__item:hover {
   border-bottom: 2px solid white;
 }
+
 @media (max-width: 967px) {
   .navbar__brand {
     order: -1;
@@ -74,32 +84,19 @@ h2, h3, h4, h5, h6 {
   }
 }
 
-button {
-  font-family: 'Neue Kable', sans-serif;
-  font-weight: 700;
-  padding: 10px;
-  background-color: #84c1e9;
-  color: white;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer;
-}
-
-button:hover {
-  background-color: #56aae1;
-}
-
 .tag {
   background-color: var(--ifm-color-primary);
   color: white;
   padding: 5px 10px;
   border-radius: 5px;
+  font-size: 0.75em; /* Adjusted based on body font size */
 }
 
 .blog-post-content {
   font-family: 'Neue Kable', fallback-fonts;
   font-weight: 500;
   line-height: 1.6;
+  font-size: 1.25em; /* 18px when body is 18px */
 }
 
 table {
@@ -156,6 +153,7 @@ ul li {
   font-family: 'Neue Kable', sans-serif;
   font-weight: 500;
   color: var(--ifm-color-primary);
+  font-size: 1.1em; /* Adjusted based on body font size */
 }
 
 .menu__link:hover {
@@ -181,5 +179,4 @@ ul li {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
-
 }

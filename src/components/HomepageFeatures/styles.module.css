@@ -4,6 +4,7 @@
   align-items: center;
   padding: 2rem 0;
   width: 100%;
+  padding-bottom: 1rem 0;
 }
 
 .featureImg {
@@ -17,14 +18,4 @@
 
 .features h1 {
   text-align: left;
-}
-
-
-button:hover {
-  background-color: #56aae1;
-  padding-bottom: 4px;
-}
-
-button {
-  margin-bottom: 1rem; /* Added margin to the bottom of the button */
 }

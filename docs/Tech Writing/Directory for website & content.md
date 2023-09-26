@@ -1,6 +1,6 @@
 ---
 title: Logic Tree
-sidebar_label: Docusaurus Framework 
+sidebar_label: Docusaurus 
 sidebar_position: 2
 ---
 
@@ -8,7 +8,7 @@ sidebar_position: 2
 
 ## What is Docusaurus?
 
-Docusaurus 2 is an open-source static site generator developed and maintained by Meta. It's built with React, and offers various features out-of-the-box. Some of the logic I found cumbersome, as with most React frameworks. Docusaurus does provide a nice platform that has many built in abstractions and a plugin friendly enviorment that suits many users and devs.
+Docusaurus 2 is an open-source static site generator framework developed and maintained by Meta. It's built with React, and offers various features out-of-the-box. Some of the logic I found cumbersome, as with most React frameworks. Docusaurus does provide a nice platform that has many built in abstractions and a API plugin friendly enviorment that suits many users and devs.
 
 ## Use Case
 

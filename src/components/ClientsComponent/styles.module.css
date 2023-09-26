@@ -18,8 +18,8 @@
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  padding: 20px; /* Padding around the container for better spacing from its surroundings */
-  background-color: #f9f9f9; /* A subtle background color for the container */
+  padding: 40px; /* Padding around the container for better spacing from its surroundings */
+  background-color: #dcdcdc; /* A subtle background color for the container */
   border-radius: 10px; /* Rounded corners for the container */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* A subtle shadow for depth */
 }
@@ -28,6 +28,6 @@
   display: flex;
   justify-content: left;
   flex-wrap: wrap;
-  padding: 20px
-
+  padding: 40px;
 }
+

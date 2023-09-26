@@ -5,23 +5,23 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'VOLVO',
+    title: 'COPY',
     imgSrc: '/img/volvo4.png',
     description: <>Advertising</>,
     buttonText: 'Case Study',
     link: '/docs/case studys/intro', // Updated path for Volvo
   },
   {
-    title: 'ADDESTINO',
+    title: 'TECH',
     imgSrc: '/img/add1.png',
-    description: <>Technical writing</>,
+    description: <>Writing</>,
     buttonText: 'Case Study',
     link: '/docs/Tech Writing/Addestino', // Updated path for Technical writing
   },
   {
-    title: 'AFAM',
+    title: 'PRODUCT',
     imgSrc: '/img/product.png',
-    description: <><code>Product Specs</code></>,
+    description: <><code>Specs</code></>,
     buttonText: 'Case Study',
     link: '/docs/case studys/afam', // Updated path for Product Spec
   },
