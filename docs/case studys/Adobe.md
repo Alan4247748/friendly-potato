@@ -9,14 +9,13 @@ sidebar_position: 4
 
 # The Problem
 
-The Adobe EMEA studio needed help re-purposing content. 
-Adobe commissions long research reports and turns them into articles. 
+The Adobe EMEA studio needed help re-purposing industry reports into articles. 
 
 ![Personalization at scale](/img/adobe.png)
 
 # My Role 
 
-  ***Let's be honest, no-one wants to read a 40 page report. In this project I distilled market research reports into 1500-word blog posts.***
+  ***In this project I distilled market research reports into 1500-word blog posts.***
 
  - 30% Research
  - 30% Writing

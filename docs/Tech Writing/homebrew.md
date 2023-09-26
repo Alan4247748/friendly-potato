@@ -7,7 +7,7 @@ sidebar_position: 4
 
 ![Homebrew bridge Illustration](/img/Hb.png)
 
-Homebrew is a free and open-source software package management system that tries to bridge the problem between MacOS and Linux software. Originally designed for mac"biOS but has now supports Linux as well (known as "Linuxbrew").<br />
+Homebrew is a free and open-source software package management system that tries to bridge the problem between MacOS and Linux software. Originally designed for mac"biOS but has now supports Linux as well (known as "Linuxbrew").<br /><br />
 At its core, Homebrew helps you to install software not bundled to your operating system or to install a different version of software that replaces or sits alongside versions that are or were bundled. 
 
 # Core Principles

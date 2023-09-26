@@ -19,6 +19,7 @@ As the copywriter on this project, I wrote about the nuances of acid, gel, and l
 
 
 ![ISON filters](/img/afam1.png)
+![Images](/img/afam.png)
 
 # The Website
 
@@ -31,8 +32,9 @@ Its 😎 —
 
 :::
 
+
+![Nitro Gel Battery](/img/afam2.png)
+
 # The Results
 
 The website effectively conveyed their brand identity, values, and product offerings, providing a user-friendly experience for visitors. The clear and compelling messaging helped build trust and credibility with their target audience, positioning the AFAM Group as a reliable and trusted partner in the motorcycle industry.
-
-![Nitro Gel Battery](/img/afam2.png)

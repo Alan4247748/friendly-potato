@@ -13,7 +13,7 @@ The EU Commission challenge was to communicate information about COVID-19 to a d
 
 # My Role
 
-I was responsible for creating the core messaging in English, which served as the foundation for the campaign's content across various languages and channels.
+I was responsible for creating the core messaging in English.
 
 ![Campaign Assests](/img/eu2.png)
 

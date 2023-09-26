@@ -17,11 +17,7 @@ title: About
 
 # Nerdspeak
 
- I code in English - its - interpreted, general-purpose, and expressive. Like LISP, English is extendable, and allows for MACROs. Syntactic sugar depends on taste. However, breaking changes are far and few between with an ecosystem that surpasses all.
-
- # Lanugages
-
-English native, Español B1.2, and Deutsch B2.1.
+ I code in English - its - interpreted, general-purpose, and expressive. Like LISP, English is extendable, and allows for MACROs. Syntactic sugar depends on taste. However, breaking changes are far and few between with an ecosystem that surpasses all. English native, Español B1.2, and Deutsch B2.1.
 
 # Contact
 
