@@ -11,7 +11,7 @@ tags: [Aerospike, DataDog]
 
 <!--truncate-->
 
-# Aerospike 
+## Aerospike 
 
 Aerospike uses a Hybrid Memory Storage (HMS) architecture design that stores frequently accessed data in Flash memory and less frequently accessed data in solid-state drives (SSDs). The HMS design optimizes read and write performance allowing you to handle [namespaces] with different storage engines. This results in minimal hardware requirements lowering costs and improving data performance.
 
@@ -19,7 +19,7 @@ This is why Aerospike is widely used in (performance-heavy) e-commerce, gaming, 
 
 Aerospike supports client libraries for multiple programming languages, including Java, Python,  C#, and others. These libraries allow you to access Aerospike functionality from your application code. For example, the {Java client library} provides APIs such as put(), get(), and delete(). APIs take parameters such as the record key, the bin name, and the value and return responses indicating: success or failure.
 
-# Metrics 101
+## Metrics 101
 
 [Monitoring data](https://www.datadoghq.com/blog/monitoring-101-collecting-data/) can take on many forms; for an Aerospike cluster, let's explore latency, throughput, and cluster health. 
 
@@ -29,7 +29,7 @@ Aerospike supports client libraries for multiple programming languages, includin
 
 3. Cluster health is a broad metric encompassing several factors, including node availability, replication factor, and data consistency. Monitoring cluster health ensures the overall stability and reliability of the cluster. Real-time alerts can be triggered when specific metrics and thresholds are reached. Allowing you to take corrective action before they impact your application's performance.
 
-# DataDog 
+## DataDog 
 
 Datadog is a monitoring and analytics platform that provides real-time visibility into the performance and health of your entire technology stack, with [200+ integrations](https://www.datadoghq.com/blog/tag/integration/) for various technologies, including cloud services, databases, containers, and more. Datadog’s agent works to aggregate and analyze performance data from all your systems in one place.
 

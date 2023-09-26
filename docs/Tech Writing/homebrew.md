@@ -15,17 +15,17 @@ At its core, Homebrew helps you to install software not bundled to your operatin
 Homebrew installs software to a directory owned by the user, which means no <><code>sudo</code></> is required. This is safer and more flexible. Simplicity: **Homebrew formulas** (the package scripts) are Ruby scripts, which makes them easy to read and understand, even for those not familiar with Ruby.<br />
 Git-based: 
 Homebrew leverages Git and GitHub to manage and track versions, making it easy to roll back when you break something. 
-# Homebrew Components<br />
+# Components<br />
 Homebrew Core:
 The central repository for software packages (are called "formulae").
 Each one is a script that contains the instructions of how to install and compile a piece of software from source.
 When you run a command like brew install wget, Homebrew fetches the formulae from wget --->> asks Homebrew Core to read its instructions: to compile and <><code>install</code></> .
 
-## Homebrew Cask:
+## Cask:
 Is about extending the capability to macOS native applications with larger binaries, for GUIs and other software, for example, you Google Chrome or Visual Studio Code using Homebrew Cask.<br />
 Casks, unlike formulae, don't build from source. They pull precompiled binaries and install them.
 
-**Taps:**
+## Taps:
 Anyone can create their own external "tap" with additional formulae or add third-party repositories. If there's a piece of software you want that isn't in Homebrew Core, You can add <user/repo>, and then you can install its formulae as if they were in Homebrew Core.
 **Bottles:**
 Compiling software from source is slow. Bottles are pre-compiled binaries to speed up the installation process.

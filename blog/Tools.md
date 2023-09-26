@@ -11,12 +11,12 @@ Learning something new can involve sorting through many tools. There are "optimi
 
 <!--truncate-->
 
-# The Developers' Dilemma
+## The Developers' Dilemma
 
 In the ever-evolving IT landscape, there is a plethora of technologies, frameworks, and tools to choose from, creating a challenging situation for new developers. Where do I start? Especially during the early years of one's career, navigating this vast sea of options can be overwhelming.
 
 
-# Selecting Tools 
+## Selecting Tools 
 
 When it comes to choosing the right tools, several factors come into play. Functionality, ease of use, compatibility with existing systems, cost considerations, and availability of support are all key aspects. 
 
@@ -24,7 +24,7 @@ Striking a balance between adopting well-established tools and exploring the fri
 
 Open-source software (OSS) is an integral part of the  tool selection process. Freely available software, frameworks, and libraries that developers can leverage, test, and improve upon to meet their needs. 
 
-# Endless-tool-triage 
+## Endless-tool-triage 
 
 The abundance of available tools often leads to the phrase I've coined "endless-tool-triage." This term describes the constant evaluation and selection process developers go through as they strive to find the best fit for their needs. Every tool promises something. Whether to streamline processes, enhance efficiency, or provide shortcuts, making it tempting to continuously explore new options. However, this perpetual search can become a time-consuming, frustrating, and counter productive. 
 

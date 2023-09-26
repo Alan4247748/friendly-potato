@@ -59,6 +59,7 @@ h2, h3, h4, h5, h6 {
   font-size: 2em; /* 27px when body is 18px */
 }
 
+
 @media (max-width: 967px) {
   .navbar__items {
     justify-content: flex-end;
