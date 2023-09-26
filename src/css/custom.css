@@ -60,6 +60,11 @@ h2, h3, h4, h5, h6 {
   }
 }
 
+@media (min-width: 996px) {
+  .navbar__toggle {
+    margin-left: auto;
+  }
+}
 .navbar__item:hover {
   border-bottom: 2px solid white;
 }
@@ -165,8 +170,7 @@ ul li {
 }
 
 .footer {
-  background-color: rgba(92, 92, 92, 0.3);
-  color: white;
+  background-color: 151516;
   padding: 20px;
   font-family: 'Neue Kable', fallback-fonts;
   font-weight: 500;
