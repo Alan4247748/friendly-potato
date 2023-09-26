@@ -181,3 +181,48 @@ ul li {
   font-size: 16px;
   line-height: 1.5;
 }
+
+/* Styling for Docusaurus 2 buttons */
+
+.button {
+  font-size: 1.05em; /* Set text size */
+  transition: all 0.3s ease; /* Animation transition for hover effect */
+}
+
+.button--primary {
+  background-color: lightblue; /* Light blue background */
+}
+
+.button--primary:hover {
+  background-color: #c1d510; /* Slightly darker blue on hover */
+  transform: scale(1.05); /* Slightly enlarge the button on hover */
+}
+
+.button--secondary {
+  background-color: lightblue; /* Light blue background */
+}
+
+.button--secondary:hover {
+  background-color: #c1d510; /* Slightly darker blue on hover */
+  transform: scale(1.05); /* Slightly enlarge the button on hover */
+}
+
+.button--outline {
+  border: 1px solid rgb(1, 1, 1); /* Light blue border */
+  background-color: transparent; /* Transparent background */
+  color: lightblue; /* Light blue text */
+}
+
+.button--outline:hover {
+  background-color: lightblue; /* Light blue background on hover */
+  color: #fff; /* White text on hover */
+}
+
+.button--link {
+  color: lightblue; /* Light blue text */
+}
+
+.button--link:hover {
+  color: #b3d1ff; /* Slightly darker blue on hover */
+  text-decoration: underline; /* Underline text on hover */
+}
