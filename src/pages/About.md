@@ -6,7 +6,7 @@ title: About
 
 - **Technical Writing**: Wrote case studies, blog posts, technical articles, help docs, SKDs, and tutorials.
 - **Communication**: Can collaborate with developers, product people, and marketers, and senior leadership.
-- **Tools**: I've used tools and frameworks like [Docusaurus](https://damurphy.com/docs/Tech%20Writing/Directory%20for%20website%20&%20content) gatsby, markdown, jira, git, .CSS, .JS, CommonLisp, microcontrollers, python, homebrew, and datadog.
+- **Tools**: I've used tools and frameworks like [Docusaurus](https://damurphy.com/docs/Tech%20Writing/Directory%20for%20website%20&%20content), gatsby, markdown, jira, git, .CSS, .JS, CommonLisp, microcontrollers, python, homebrew, and datadog.
 
 
 ## Highlights 
