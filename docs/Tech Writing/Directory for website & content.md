@@ -4,9 +4,15 @@ sidebar_label: Docusaurus Framework
 sidebar_position: 2
 ---
 
-# Docusaurus 
+![Docusurus Illustration](/img/docus.png)
 
-I used [Docusaurus 2], for the boiler plate. From my local - I push direct to this [GitHub repo](https://github.com/Alan4247748/friendly-potato). A build is triggered in Netlify—basic CI/CD. As a Tech writer I lean into code, frameworks, and becoming a better Dev—below is the website structure :). 
+# What is Docusaurus? 
+
+Docusaurus 2 is an open-source static site generator developed and maintained by Meta. Particularly documentation websites built with React, it offers various features out-of-the-box. Some of the logic I found cumbersome, as with most React frameworks. Docusaurus does provide a nice platform that has many built in abstractions and a plugin friendly enviorment that suits many users and devs. 
+
+# Use Case 
+
+I used [Docusaurus 2], for the boiler plate. From my local - I push direct to this [GitHub repo](https://github.com/Alan4247748/friendly-potato). A build is triggered in Netlify—basic CI/CD. As a Tech writer I try to lean into becoming a better Dev: below is the website structure 😁. 
 
 ``` Javascript 
 Website_Directory/

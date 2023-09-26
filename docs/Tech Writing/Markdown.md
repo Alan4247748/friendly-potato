@@ -4,6 +4,8 @@ sidebar_label: Markdown
 sidebar_position: 3
 ---
 
+![Homebrew bridge Illustration](/img/md.png)
+
 # WHY MARKDOWN?
 
 Markdown (.MD) syntax is a lightweight markup language used for writing structured documents. Markdown is useful for creating documentation, blog posts,  and README files. With .MD, you can easily format text, add headers, lists, links, images, code snippets, and more. Its great for both technical and non-technical folks. .MD documents can be easily converted to HTML, making it convenient for  web content.
