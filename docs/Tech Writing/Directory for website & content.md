@@ -6,15 +6,15 @@ sidebar_position: 2
 
 ![Docusurus Illustration](/img/docus.png)
 
-# What is Docusaurus? 
+## What is Docusaurus?
 
-Docusaurus 2 is an open-source static site generator developed and maintained by Meta. Particularly documentation websites built with React, it offers various features out-of-the-box. Some of the logic I found cumbersome, as with most React frameworks. Docusaurus does provide a nice platform that has many built in abstractions and a plugin friendly enviorment that suits many users and devs. 
+Docusaurus 2 is an open-source static site generator developed and maintained by Meta. It's built with React, and offers various features out-of-the-box. Some of the logic I found cumbersome, as with most React frameworks. Docusaurus does provide a nice platform that has many built in abstractions and a plugin friendly enviorment that suits many users and devs.
 
-# Use Case 
+## Use Case
 
-I used [Docusaurus 2], for the boiler plate. From my local - I push direct to this [GitHub repo](https://github.com/Alan4247748/friendly-potato). A build is triggered in Netlify—basic CI/CD. As a Tech writer I try to lean into becoming a better Dev: below is the website structure 😁. 
+I used [Docusaurus 2], for the boiler plate. From my local - I push direct to this [GitHub repo](https://github.com/Alan4247748/friendly-potato). A build is triggered in Netlify—basic CI/CD. As a Tech writer I try to lean into becoming a better Dev: below is the website structure 😁.
 
-``` Javascript 
+``` Javascript
 Website_Directory/
 
 ├── Root/
@@ -65,9 +65,9 @@ Website_Directory/
     └── images/
     └── js/
 
-``` 
+```
 
-# Other Options 
+## Other Frameworks
 
 Not exhaustive but worth mentioning.
 
@@ -75,4 +75,4 @@ Not exhaustive but worth mentioning.
 
 [***GitBook:***](https://www.gitbook.com/) is a versatile platform that allows users to create, publish, and host documentation. It supports various documentation formats, including Markdown, AsciiDoc, and reStructuredText.
 
-[***Jekyll:*** ](https://jekyllrb.com/) is a popular static site generator that can be used to create documentation websites. It uses Markdown and Liquid templating to generate static HTML pages.
+[***Jekyll:***](https://jekyllrb.com/) is a popular static site generator that can be used to create documentation websites. It uses Markdown and Liquid templating to generate static HTML pages.

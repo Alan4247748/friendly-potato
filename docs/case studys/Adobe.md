@@ -7,13 +7,13 @@ sidebar_position: 4
 
 ![Adobe EMEA Studio](/img/adobe3.png)
 
-# The Problem
+## The Problem
 
 EMEA studio needed help re-purposing industry reports into articles. 
 
 ![Personalization at scale](/img/adobe.png)
 
-# My Role 
+## My Role 
 
   ***In this project I distilled market research reports into 1500-word blog posts.***
 
@@ -23,7 +23,7 @@ EMEA studio needed help re-purposing industry reports into articles.
 
  ![Personalization maturity](/img/adobe1.png)
 
-# Retail Personalization
+## Retail Personalization
 
 With the popularity of online shopping and abundant customer data, retailers try to enhance shopping experiences through personalized recommendations and tailored marketing strategies. 
 
@@ -31,7 +31,7 @@ Our goal was to explore the impact of retail personalization in Europe, identify
 
 * * *
 
-# Data: The most important inventory 
+## Data: The most important inventory 
 
 | Transactions |   Browser Data | Demographics |
 | --------------   | -------------- | -------------- |
@@ -46,7 +46,7 @@ We utilized various data sources, including customer transaction records, browsi
 
 ![Strategy Graphic](/img/adobe2.png)
 
-# Results
+## Results
 
 The articles we produced provided practical guidance on implementing personalization techniques, resulting in enhanced customer engagement, increased sales, and improved brand loyalty.
 

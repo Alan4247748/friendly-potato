@@ -8,14 +8,14 @@ sidebar_position: 1
 
 ![Volvo Value](/img/Volvo.png)
 
-# The Problem
+## The Problem
  
 The Diplomatic sales team at Volvo wanted to generate more leads.
 We rolled out a series of websites and ad campaigns. 
 
 ![Volvo Prop](/img/Volvo3.png)
 
-# My Role 
+## My Role 
 
   ***Creating an art direction from Volvo's image bank while coordinating with language, and design agencies, plus the Volvo team.***
 
@@ -24,7 +24,7 @@ We rolled out a series of websites and ad campaigns.
 
 
 
-# XC90 Recharge
+## XC90 Recharge
 
 ![Authentic Luxury](/img/Volvo1.png)
 
@@ -39,7 +39,7 @@ The XC90 Recharge EV was a flagship for Volvo's new electric fleet. With the XC9
 
 :::
 
-# Results
+## Results
 
 The diplomatic sales team created a digital lead generation system.<br />
 Sales Reps got personalised websites for their tool kits.<br /> 

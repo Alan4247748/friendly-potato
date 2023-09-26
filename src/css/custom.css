@@ -55,18 +55,23 @@ h2, h3, h4, h5, h6 {
 }
 
 @media (max-width: 967px) {
-  .navbar__item {
-    margin: 0 5px;
+  .navbar__items {
+    justify-content: flex-end;
+  }
+
+  .navbar__toggle {
+    order: 2 !important;
   }
 }
 
-@media (min-width: 996px) {
-  .navbar__toggle {
-    margin-left: auto;
-  }
-}
 .navbar__item:hover {
   border-bottom: 2px solid white;
+}
+@media (max-width: 967px) {
+  .navbar__brand {
+    order: -1;
+    margin-right: auto; /* This will push all subsequent items to the right */
+  }
 }
 
 button {

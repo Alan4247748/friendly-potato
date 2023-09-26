@@ -1,5 +1,4 @@
 ---
-title: Addestino
 sidebar_label: Addestino
 description: Technical Writing
 Id: Addestino
@@ -8,18 +7,17 @@ sidebar_position: 1
 
 ![Addestino](/img/Add3.png)
 
-# The Problem
+## The Problem
 
-Addestino is a Belgian IT consultancy helping European businesses navigate a complex landscape: where business and technology intersect. I worked with them on ***(communicating).***<br /><br /> Specific problems, internal projects, case studies to showcase their capabilities, approach, and success. 
+Addestino is a Belgian IT consultancy helping European businesses navigate a complex landscape: where business and technology intersect. I worked with them on ***(communicating).***<br /><br /> Specific problems, internal projects, case studies to showcase their capabilities, approach, and success.
 
 ![Technical Addestino](/img/Add2.png)
 
-# My Role
+## My Role
 
-As a Tech writer, I conducted technical interviews to produce a variety of content, including case studies, technology updates, newsletters, linkedin posts, and profile pieces. 
+As a Tech writer, I conducted technical interviews to produce a variety of content, including case studies, technology updates, newsletters, linkedin posts, and profile pieces.
 
-# Technical Topics
-
+## Technical Topics
 
 - **Zero-trust Networking**
 - **Container Security**
@@ -27,8 +25,7 @@ As a Tech writer, I conducted technical interviews to produce a variety of conte
 - **IT migration Roadmaps**
 - **Data Warehouse Transformation**
 - **Enterprise Data Management**
-- **<System Architecture Design**
-
+- **System Architecture Design**
 
 :::tip Website Below
 
@@ -36,8 +33,8 @@ Its 😎 — [Link](https://addestino.be/).
 
 :::
 
-# The Results
+## The Results
 
-Month over Month I helped Addestino document problems they solved and the growth of their consultants. 
+Month-over-Month I helped Addestino document problems they solved and the growth of their consultants.
 
 ![Technical Addestino](/img/Add.png)
