@@ -45,16 +45,12 @@ Its 😎 — [Absurd Design](https://absurd.design/).
 
 Alan Murphy.
 
-# EU LEGAL JARGON: 
+# DATA LEGAL JARGON: 
 
-GDPR Datenschutzerklärung
-‍
-Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der Verarbeitung von personenbezogenen Daten (nachfolgend kurz „Daten“) innerhalb unseres Onlineangebotes und der mit ihm verbundenen Webseiten, Funktionen und Inhalte sowie externen Onlinepräsenzen, wie z.B. unser Social Media Profile auf (nachfolgend gemeinsam bezeichnet als „Onlineangebot“). Im Hinblick auf die verwendeten Begrifflichkeiten, wie z.B. „Verarbeitung“ oder „Verantwortlicher“ verweisen wir auf die Definitionen im Art. 4 der Datenschutzgrundverordnung (DSGVO).
-
-Arten der verarbeiteten Daten:- Bestandsdaten (z.B., Namen, Adressen).
-- Kontaktdaten (z.B., E-Mail, Telefonnummern).
-- Inhaltsdaten (z.B., Texteingaben, Fotografien, Videos).
-- Nutzungsdaten (z.B., besuchte Webseiten, Interesse an Inhalten, Zugriffszeiten).
-‍
-- Meta-/Kommunikationsdaten (z.B., Geräte-Informationen, IP-Adressen).
-Kategorien betroffener PersonenBesucher und Nutzer des Onlineangebotes (Nachfolgend bezeichnen wir die betroffenen Personen zusammenfassend auch als „Nutzer“).
+This website uses [Plausible](https://plausible.io/) for analytics which is GDPR, CCPA or PECR compliant.  We run various Plausible Analytics scripts and to collect anonymous data for statistical purpose to track overall trends in traffic and engagement. 
+The privacy of our website visitors is important to us so no personal information is collected:<br />
+- **No information such as cookies is stored in the browser**
+- **No information is shared with, sent to or sold to third-parties**
+- **No information is shared with advertising companies**
+- **No information is mined and harvested for personal and behavioral trends**
+- **No information is monetized**
