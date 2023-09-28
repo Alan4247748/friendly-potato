@@ -4,10 +4,10 @@ title: About
 
 ## Skills
 
-- **Technical Writing**: Wrote case studies, blog posts, technical articles, help docs, SKDs, and tutorials.
-- **Communication**: Can collaborate with developers, product people, and marketers, and senior leadership.
-- **Tools**: I've used tools and frameworks like [Docusaurus](https://damurphy.com/docs/Tech%20Writing/Directory%20for%20website%20&%20content), gatsby, markdown, jira, git, .CSS, .JS, CommonLisp, microcontrollers, python, homebrew, and datadog.
-
+- **Design Tools**: Adobe Illustrator, Adobe XD, Figma, and pen. 
+- **Communication**: Can collaborate with developers, product people, marketers, and senior leadership.
+- **IT Tools**: I've used tools and frameworks like [docusaurus](https://damurphy.com/docs/Tech%20Writing/Directory%20for%20website%20&%20content), [gatsby](https://github.com/alan4247748/df), markdown, jira, git, .CSS, .JS, React, CommonLisp, microcontrollers, python, homebrew, and datadog.
+- **Languages:** English native, Español B1.2, and Deutsch B2.1.
 
 ## Highlights 
 
@@ -18,7 +18,6 @@ title: About
 ## Nerdspeak
 
 - I code in English - it's interpreted, general-purpose, and expressive. Like LISP, English is extendable and allows for MACROs. Syntactic sugar depends on taste. However, breaking changes are far and few between with an ecosystem that surpasses all.
-- **Language Proficiency:** Native in English, B1.2 in Español, and B2.1 in Deutsch.
 
 
 ## Contact

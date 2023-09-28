@@ -15,7 +15,7 @@ Addestino is a Belgian IT consultancy helping European businesses navigate a com
 
 ## My Role
 
-As a Tech writer, I conducted technical interviews to produce a variety of content, including case studies, technology updates, newsletters, linkedin posts, and profile pieces.
+As a Tech writer, I conducted technical interviews to write a variety of content, including case studies, technology updates, newsletters, linkedin posts, and profile pieces, and technical articles.
 
 ## Technical Topics
 
