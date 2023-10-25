@@ -1,7 +1,7 @@
 ---
 title: Logic Tree
 sidebar_label: Docusaurus 
-sidebar_position: 2
+sidebar_position: 4
 ---
 
 ![Docusurus Illustration](/img/docus.png)

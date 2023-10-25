@@ -1,7 +1,7 @@
 ---
 title: Markdown
 sidebar_label: Markdown
-sidebar_position: 3
+sidebar_position: 6
 ---
 
 ![Homebrew bridge Illustration](/img/md.png)

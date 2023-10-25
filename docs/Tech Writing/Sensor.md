@@ -1,7 +1,9 @@
 ---
-Title: Sensor Product
+Title: Hardware
 description: System Design
-sidebar_label: Embedded Systems
+sidebar_label: Hardware
+Id: Hardware
+sidebar_position: 3
 ---
 
 

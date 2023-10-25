@@ -5,19 +5,21 @@ Id: Addestino
 sidebar_position: 1
 ---
 
-![Addestino](/img/Add3.png)
+![Technical Addestino](/img/Add2.png)
 
 ## The Problem
 
 Addestino is a Belgian IT consultancy helping European businesses navigate a complex landscape: where business and technology intersect. I worked with them on ***(communicating).***<br /><br /> Specific problems, internal projects, case studies to showcase their capabilities, approach, and success.
 
-![Technical Addestino](/img/Add2.png)
+![Addestino](/img/Add3.png)
 
 ## My Role
 
 As a Tech writer, I conducted technical interviews to write a variety of content, including case studies, technology updates, newsletters, linkedin posts, and profile pieces, and technical articles.
 
 ## Technical Topics
+
+![Technical Topics](/img/add4.png)
 
 - **Zero-trust Networking**
 - **Container Security**
