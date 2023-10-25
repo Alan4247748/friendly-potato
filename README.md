@@ -1,21 +1,20 @@
 # Tools & Process
 
-``` Javascript 
+
 [Docusaurus 2], for the boiler plate.
-Push from local to this GitHub repository [GitHub Repository](http://github.com/alan4247748/friendly-potato) 
-build triggered in Netlify——basic CI/CD.  
-```
+From my local push to git repo which triggers a build in Netlify. 
+Basic CI/CD.
 
 # Why
 
 ``` Lisp
-I will documentation sites and showcase my copywriting  techwriting portfoilo. 
+To show that I can handle the (deving') of a documentation site. 
 ```
 
 # Errors 
 
 If you try in-page linking from a .md file to a .js you get a tersor-plugin
-![error.](http://github.com/facebook/docusaurus/discussions/6219)
+![error](http://github.com/facebook/docusaurus/discussions/6219)
 
 # Status 
 
