@@ -2,13 +2,13 @@
 sidebar_label: Buffers & ROP
 description: Red vs Blue
 Id: Buffer
-sidebar_position: 7
+sidebar_position: 9
 ---
 
 ![Nothing is safe](/img/buffer.png)
 
 
-Buffers are contiguous blocks of memory reserved for storing data. In programming, arrays and strings are commonly backed by buffers. Tabs in your web browser are managed through data structures, which may be backed by buffers.
+Are contiguous blocks of memory reserved for storing data. In programming, arrays and strings are commonly backed by buffers. Tabs in your web browser are managed through data structures, which may be backed by buffers.
 
 1. **Buffer Overflow**:
 

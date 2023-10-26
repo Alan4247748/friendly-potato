@@ -7,18 +7,9 @@ sidebar_position: 6
 
 ![Swarm of Bots](/img/bot.png)
 
-## Building BOT NETS
-
-
- How I would build a bot net. 
-
-Combine the concepts of fast flux, IoT networks, and Wi-Fi routers. 
+If I built a bot net, I would combine the concepts of fast flux, IoT networks, and Wi-Fi routers. 
 
 ## Fast Flux Networks
-
-Yes, a fast flux network can be combined with P2P (peer-to-peer) architecture. Let's first understand each concept briefly:
-
-**Fast Flux** 
 
 Is a DNS technique used by botnets to hide phishing and malware delivery sites behind an ever-changing network of compromised hosts acting as proxies. It involves rapidly changing the DNS records (like A or MX records) to point to a different set of IP addresses at frequent intervals. This can make it difficult for law enforcement and security professionals to locate the rogue servers behind these changing IP addresses.
 
