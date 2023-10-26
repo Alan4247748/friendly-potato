@@ -27,7 +27,7 @@ Its 😎 — [Alexander Main](https://www.alexandermain.com/).
 
 # ICONS BY:
 
-Created by Alan Murphy.
+Created by Donoho Murphy.
 
 # TYPOGRAPHY BY: 
 
@@ -37,17 +37,17 @@ The typefaces Wremena and Rosseta are available to use freely under the Typeface
 
 :::tip 
 
-Its 😎 — [Absurd Design](https://absurd.design/).
+Created by Donoho Murphy.
 
 :::
 
 # TECHNICAL DRAWINGS BY:
 
-Alan Murphy.
+Created by Donoho Murphy.
 
 # DATA LEGAL JARGON: 
 
-This website uses [Plausible](https://plausible.io/) for analytics which is GDPR, CCPA or PECR compliant.  We run various Plausible Analytics scripts and to collect anonymous data for statistical purpose to track overall trends in traffic and engagement. 
+This website uses [Plausible](https://plausible.io/) for analytics which is GDPR, CCPA or PECR compliant. We deploy scripts to collect anonymous data for statistical purpose to track overall trends in traffic and engagement. 
 The privacy of our website visitors is important to us so no personal information is collected:<br />
 - **No information such as cookies is stored in the browser**
 - **No information is shared with, sent to or sold to third-parties**
