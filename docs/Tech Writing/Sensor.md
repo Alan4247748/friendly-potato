@@ -6,6 +6,7 @@ Id: Hardware
 sidebar_position: 3
 ---
 
+![Remote Sensor Device](/img/mc.png)
 
 # REMOTE SENSOR DEVICE 
 

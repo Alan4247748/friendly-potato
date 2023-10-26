@@ -186,7 +186,8 @@ ul li {
 
 .button {
   font-size: 1.05em; /* Set text size */
-  transition: all 0.3s ease; /* Animation transition for hover effect */
+  transition: all 0.2s ease; /* Animation transition for hover effect */
+  margin: 10px; 
 }
 
 .button--primary {
@@ -194,7 +195,7 @@ ul li {
 }
 
 .button--primary:hover {
-  background-color: #c1d510; /* Slightly darker blue on hover */
+  background-color: #1aaf94; /* Slightly darker blue on hover */
   transform: scale(1.05); /* Slightly enlarge the button on hover */
 }
 
@@ -203,7 +204,7 @@ ul li {
 }
 
 .button--secondary:hover {
-  background-color: #c1d510; /* Slightly darker blue on hover */
+  background-color: #1aaf94; /* Slightly darker blue on hover */
   transform: scale(1.05); /* Slightly enlarge the button on hover */
 }
 
