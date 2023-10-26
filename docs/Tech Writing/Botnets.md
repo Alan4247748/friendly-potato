@@ -7,7 +7,7 @@ sidebar_position: 6
 
 ![Swarm of Bots](/img/bot.png)
 
-If I built a bot net, I would combine the concepts of fast flux, IoT networks, and Wi-Fi routers. 
+If I built a botnet, which I wouldn't because (ITS ILLEGAL), but the best way is to combine the concepts of fast flux, IoT networks, and Wi-Fi routers. 
 
 ## Fast Flux Networks
 
