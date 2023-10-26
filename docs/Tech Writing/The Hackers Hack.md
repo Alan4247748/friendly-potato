@@ -9,9 +9,9 @@ sidebar_position: 2
 
 ## Pegasus Spyware
 
-Uses a zero day exploit to gain FORCEDENTTRY over Apple devices. 
+Uses a zero day exploit to gain FORCEDENTRY over Apple devices. 
 
-The exploit uses PDF files disguised as GIF files to inject JBIG2-encoded data causing an integer overflow in Apple's CoreGraphics system, bypassing Apple's "BlastDoor" sandbox for message content. 
+The exploit began using PDF files disguised as GIF files to inject JBIG2-encoded data causing an integer overflow in Apple's CoreGraphics system, bypassing Apple's "BlastDoor" sandbox for message content. 
 
 JBIG2 doesn't have scripting capabilities, but when combined with a vulnerability, it does have the ability to emulate circuits of arbitrary logic gates operating on arbitrary memory. 
 
