@@ -10,28 +10,45 @@ sidebar_position: 9
 
 Are contiguous blocks of memory reserved for storing data. In programming, arrays and strings are commonly backed by buffers. Tabs in your web browser are managed through data structures, which may be backed by buffers.
 
-1. **Buffer Overflow**:
+## Buffer Overflow 
 
 A classic security vulnerability is called a "buffer overflow." By overrunning the "allotted memory," a hacker can then place arbitrary code inside adjacent memory.
 
-1. **Arbitrary Code Execution**:
+**Arbitrary Code Execution**
 
 After the "overflow," crucial control data can be overwritten (return address on the stack), to point to the attacker's code instead. This code is often referred to as "shellcode" because it commonly provides a command shell, but it can be any code the attacker wants to run.
 
-1. **Exploitation Steps**:
+**Exploitation Steps**
     
-    a. **Find a Vulnerability:** The attacker first needs to find a vulnerable piece of software where they can trigger a buffer overflow. Not all overflows are exploitable, and the specifics of the system, such as memory protections, play a role.
-    
-    b. **Inject Code:** The attacker then needs to provide the malicious payload (code they want to run). This is often combined with the input that triggers the overflow.
-    
-    c. **Redirect Execution:** The overflow must overwrite some control data (like a return address or function pointer) to point to the attacker's code. When the program uses that overwritten data, it'll jump to the attacker's code and execute it.
-    
-2. **Protection Mechanisms:** Modern systems have various protection mechanisms against buffer overflows:
-    - **DEP (Data Execution Prevention)**: Marks certain areas of memory (like the stack) as non-executable. This prevents the attacker's code from running if it's placed in these regions.
-    - **ASLR (Address Space Layout Randomization)**: Randomizes the locations of crucial data structures in memory. This makes it harder for an attacker to predict where to jump to execute their code.
-    - **Stack Canaries**: These are values placed on the stack near control data. Before the control data is used, the canary value is checked. If it's changed (due to an overflow), the program aborts.
+a. **Find a Vulnerability:** 
 
-## What is ROP
+The attacker first needs to find a vulnerable piece of software where they can trigger a buffer overflow. Not all overflows are exploitable, and the specifics of the system, such as memory protections, play a role.
+    
+b. **Inject Code:** 
+
+The attacker then needs to provide the malicious payload (code they want to run). This is often combined with the input that triggers the overflow.
+    
+c. **Redirect Execution:** 
+
+The overflow must overwrite some control data (like a return address or function pointer) to point to the attacker's code. When the program uses that overwritten data, it'll jump to the attacker's code and execute it.
+    
+**Protection Mechanisms:** 
+
+Modern systems have various protection mechanisms against buffer overflows
+
+**DEP (Data Execution Prevention)** 
+
+Marks certain areas of memory (like the stack) as non-executable. This prevents the attacker's code from running if it's placed in these regions.
+
+**ASLR (Address Space Layout Randomization)** 
+
+Randomizes the locations of crucial data structures in memory. This makes it harder for an attacker to predict where to jump to execute their code.
+
+**Stack Canaries**
+
+These are values placed on the stack near control data. Before the control data is used, the canary value is checked. If it's changed (due to an overflow), the program aborts.
+
+## What is ROP?
 
 ROP, or Return-Oriented Programming, is an advanced exploitation technique that attackers use to bypass security defenses, particularly Data Execution Prevention (DEP). In essence, Return-Oriented Programming is like creatively remixing pieces of existing songs to produce an entirely new song. The attacker finds and chains together existing code snippets in a way that the original developers never intended.
 

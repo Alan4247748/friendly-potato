@@ -23,21 +23,20 @@ It's not as fast as JS, but it's an equivalent. The bootstrapping operations for
 
 ## Bootstrapped Computing
 
-In highly restricted environments, it's possible to create a bootstrap mechanism that builds up a more functional computing environment from basic primitives. This is similar to how early computers were bootstrapped with very basic instructions to then run more complex software.
-A historical comparison could be drawn. How did early computer scientists build complex systems from rudimentary operations? How does this parallel with using rudimentary operations in restricted or unexpected environments to achieve complex tasks?
+In highly restricted environments, it's possible to create a bootstrap mechanism that builds up a more functional computing environment from basic primitives. This is similar to how early computers were bootstrapped with a layer of basic instructions that allowed them to run more complex software on top. How did early computer scientists build complex systems from rudimentary operations? How does this parallel with using rudimentary operations in restricted or unexpected environments to achieve complex tasks?
 
 **Unintended Functionality**
 
-Features or functions of a system that are seemingly harmless can be combined or abused to achieve malicious ends. The fact that JBIG2's decompression can be used to emulate logic gates isn't a direct security vulnerability. Still, in combination with other vulnerabilities, it became the key block in an attacker's arsenal.
+Features and functions of a system that are seemingly harmless can be combined to achieve malicious ends. The fact that JBIG2's decompression can be used to emulate logic gates isn't a direct security vulnerability. It's in combination with other vulnerabilities, that make it a key block in an attacker's arsenal.
 
 This could lead to a broader discussion on the philosophy of secure software design. How can developers anticipate and mitigate against such creative misuses of their software's functionality? These core concepts emphasize the ingenuity of exploit developers and the challenges faced in creating truly secure systems.
 
-## Zero CLick 
+## Zero Click 
 
-Pegasus has evolved to the point where it no longer needs any direct interaction from the targeted user, to deploy its spyware. This is called a Zero Click Exploit. I'm unaware of "technically" how the Israeli company NSO Group, levearged such an attack vector.
+Pegasus has evolved to the point where it no longer needs any direct interaction from the targeted user, to deploy its spyware. This is called a Zero Click Exploit. I'm unaware of "technically speaking" how the Israeli company NSO Group, leverages an attack vectors with zero user interaction.
 
 **Capability Evoultion** 
 
-Pegasus initially employed a combination of three separate vulnerabilities in iOS, collectively termed "Trident." This chain of vulnerabilities allowed the attacker to jailbreak the device and install the spyware. In 2019, it was reported that Pegasus sucessfully used a zero-click attacks via WhatsApp. The attackers could call a target's phone through WhatsApp and, even if the call was not answered, exploit the vulnerability and to install the spyware. In 2021, it was reported Pegasus was able to zero-click exploit iphone users with using only there phone #. 
+Pegasus initially employed a combination of three separate vulnerabilities in iOS, collectively termed "Trident." This chain of vulnerabilities allowed the attacker to jailbreak the device and install the spyware. In 2019, it was reported that Pegasus sucessfully used a zero-click attacks via WhatsApp. The attackers could call a target's phone through WhatsApp and, even if the call was not answered, exploit the vulnerability and to install the spyware. In 2021, it was reported Pegasus sucessfully zero-click exploited iphone users by using only their phone number. 
 
 **If the NSO Group or their customer wants to access your IOS device they can.**
