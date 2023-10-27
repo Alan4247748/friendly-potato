@@ -23,7 +23,7 @@ It's not as fast as JS, but it's an equivalent. The bootstrapping operations for
 
 ## Bootstrapped Computing
 
-In highly restricted environments, it's possible to create a bootstrap mechanism that builds up a more functional computing environment from basic primitives. This is similar to how early computers were bootstrapped with a layer of basic instructions that allowed them to run more complex software on top. How did early computer scientists build complex systems from rudimentary operations? How does this parallel with using rudimentary operations in restricted or unexpected environments to achieve complex tasks?
+In highly restricted environments, it's possible to create a bootstrap mechanism that builds up a more functional computing environment from basic primitives. This is similar to how early computers were bootstrapped with a layer of basic instructions that allowed them to run more complex software on top. Early computer scientists built complex systems from rudimentary operations. How does this parallel within restricted or unexpected environments to achieve complex tasks?
 
 **Unintended Functionality**
 
@@ -33,10 +33,10 @@ This could lead to a broader discussion on the philosophy of secure software des
 
 ## Zero Click 
 
-Pegasus has evolved to the point where it no longer needs any direct interaction from the targeted user, to deploy its spyware. This is called a Zero Click Exploit. I'm unaware of "technically speaking" how the Israeli company NSO Group, leverages an attack vectors with zero user interaction.
-
 **Capability Evoultion** 
 
-Pegasus initially employed a combination of three separate vulnerabilities in iOS, collectively termed "Trident." This chain of vulnerabilities allowed the attacker to jailbreak the device and install the spyware. In 2019, it was reported that Pegasus sucessfully used a zero-click attacks via WhatsApp. The attackers could call a target's phone through WhatsApp and, even if the call was not answered, exploit the vulnerability and to install the spyware. In 2021, it was reported Pegasus sucessfully zero-click exploited iphone users by using only their phone number. 
+Pegasus initially employed a combination of three separate vulnerabilities in iOS, collectively termed "Trident." This chain of vulnerabilities allowed the attacker to jailbreak the device and install the spyware. Pegasus has evolved to the point where it no longer needs any direct interaction from the targeted user, to deploy its spyware. This magical technique is called a Zero Click Exploit. I'm unaware of "technically speaking" how the Israeli company NSO Group, leverages an attack vector with zero user interaction to embed it's spyware. 
 
-**If the NSO Group or their customer wants to access your IOS device they can.**
+However, in 2019, it was reported that sucessful zero-click attacks via WhatsApp where the attackers call a target's phone through WhatsApp and, even if the call was not answered, the spyware was installed. Pegasus sucessfully zero-click exploited iphone users with via their phone number. 
+
+**When the NSO Group or their customers wants to access your device they can.**
