@@ -48,6 +48,13 @@ I've selected the ESP 32-Whisper Node `microcontroller` to do the heavy lifting.
 
 ![Functional Block Diagram](/img/ESP32.png)
 
+
+## Use Case
+
+Scattered throughout the lower 48 are millions of small tank batteries. Most of them do not have any automation, because modern products can crush the economic productivity of stripper wells. 
+
+The companies of today are missing this key market. There soultions are rather costly, and could be better optimized for energy utlization, memory, and user interfaces. 
+
 ## The Interplay 
 
 The hardware and software of this system involve several components and layers. My approach is to build a bottom-up soultion vis-à-vis a bottom-up software design process. 
@@ -59,12 +66,6 @@ Oil and gas wells are in remote locations adding a challenge for connectivity. T
 ## Energy
 
 Locations sometimes are not connected to an electrial grid. This sensor system will have battery and solar power capabilites of 10 years.
-
-## Use Case
-
-Scattered throughout the lower 48 are millions of small tank batteries. Most of them do not have any automation, because modern products can crush the economic productivity of stripper wells. 
-
-The companies of today are missing this key market. There soultions are rather costly, and could be better optimized for energy utlization, memory, and user interfaces. 
 
 ## RoadMap 
 
