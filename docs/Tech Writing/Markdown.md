@@ -6,17 +6,17 @@ sidebar_position: 8
 
 ![Homebrew bridge Illustration](/img/md.png)
 
-# WHY MARKDOWN?
+## WHY MARKDOWN?
 
 Markdown (.MD) syntax is a lightweight markup language used for writing structured documents. Markdown is useful for creating documentation, blog posts,  and README files. With .MD, you can easily format text, add headers, lists, links, images, code snippets, and more. Its great for both technical and non-technical folks. .MD documents can be easily converted to HTML, making it convenient for  web content.
 
-# STYLE GUIDE
+## STYLE GUIDE
  
  `File Extensions`
  
  <pre>.MD & .MDX</pre>
 
-# Headings 
+## Headings 
 
 ***
 # heading 1
@@ -52,7 +52,7 @@ This is a standard paragraph. Lorem ipsum dolor sit amet, consectetuer adipiscin
 
 * * *
 
-#  Text Elements
+##  Text Elements
 
 The [a element](#), [external a element](https://example.com), and [a element with title](# 'Example Title') examples
 
@@ -107,7 +107,7 @@ The <var>var element</var> example
 
 * * *
 
-# Monospace / Preformatted
+## Monospace / Preformatted
 
 Code block wrapped in "pre" and "code" tags:
 
@@ -126,7 +126,7 @@ Monospace Text wrapped in "pre" tags:
 
 * * *
 
-# List Types
+## List Types
 
 ## Ordered List
 
@@ -164,7 +164,7 @@ Monospace Text wrapped in "pre" tags:
 
 * * *
 
-# Tables
+## Tables
 
 | Table Header 1 | Table Header 2 | Table Header 3 |
 | -------------- | -------------- | -------------- |
