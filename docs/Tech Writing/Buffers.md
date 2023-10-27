@@ -5,10 +5,9 @@ Id: Buffer
 sidebar_position: 9
 ---
 
-![Nothing is safe](/img/buffer.png)
-
-
 Are contiguous blocks of memory reserved for storing data. In programming, arrays and strings are commonly backed by buffers. Tabs in your web browser are managed through data structures, which may be backed by buffers.
+
+![Nothing is safe](/img/buffer.png)
 
 ## Buffer Overflow 
 

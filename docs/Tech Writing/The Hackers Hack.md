@@ -46,4 +46,4 @@ However,
 - In 2019, sucessful zero-click attacks via WhatsApp where the attackers call a target's phone, and even if the call was not answered, spyware was installed. 
 - In 2021, iphone users reported compromised devices, **Pegasus** evolved to hacking your phone by knowing your `phone number.`
 
-**When the NSO Group // their customers wants to access your device they can.**
+> **When the NSO Group // their customers wants to access your device they can.**
