@@ -23,7 +23,7 @@ It's not as fast as JS, but it's an equivalent. The bootstrapping operations for
 
 ## Bootstrapped Computing
 
-In highly restricted environments, it's possible to create a bootstrap mechanism that builds up to a more functional computing environment from basic primitives. This is similar to how early computers were bootstrapped with a layer of basic instructions. Then piecemealing that allowed them to run more complex software on top. 
+In highly restricted environments, it's possible to create a bootstrap mechanism that builds up to a more functional computing environment from basic primitives. This is similar to how early computers were bootstrapped with a layer of basic instructions. Then via a piecemealing approach they built basic ulilites that allowed them to run more complex software on top. 
 
 Early computer scientists built complex systems from rudimentary operations. How does this parallel within restricted or unexpected environments to achieve complex tasks?
 
@@ -43,7 +43,7 @@ This magical technique is called a **Zero Click Exploit.** Technically speaking 
 
 However, 
 
-- in 2019, sucessful zero-click attacks via WhatsApp where the attackers call a target's phone, and even if the call was not answered, spyware is installed. 
-- iphone users reported compromised devices **Pegasus** has evolved to hacking your phone only by knowing your `phone number.`
+- in 2019, sucessful zero-click attacks via WhatsApp where the attackers call a target's phone, and even if the call was not answered, spyware was installed. 
+- in 2021, iphone users reported compromised devices, **Pegasus** evolved to hacking your phone by knowing your `phone number.`
 
 **When the NSO Group or their customers wants to access your device they can.**
