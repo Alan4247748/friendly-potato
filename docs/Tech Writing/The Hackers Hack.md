@@ -23,7 +23,7 @@ It's not as fast as JS, but it's an equivalent. The bootstrapping operations for
 
 ## Bootstrapped Computing
 
-In highly restricted environments, it's possible to create a bootstrap mechanism that builds up to a more functional computing environment from basic primitives. This is similar to how early computers were bootstrapped with a layer of basic instructions. Then via a piecemealing approach they built basic ulilites that allowed them to run more complex software on top. 
+In highly restricted environments, it's possible to create a bootstrap mechanism that builds up to a more functional computing environment from basic primitives. This is similar to how early computers were bootstrapped with a layer of basic instructions. Then via a piecemealing approach they built ulilites that allowed them to run more complex software.
 
 Early computer scientists built complex systems from rudimentary operations. How does this parallel within restricted or unexpected environments to achieve complex tasks?
 
@@ -39,11 +39,11 @@ This could lead to a broader discussion on the philosophy of secure software des
 
 Pegasus initially employed a combination of three separate vulnerabilities in iOS, collectively termed **"Trident."** This chain of vulnerabilities allowed the attacker to jailbreak the device and install the spyware. Pegasus has evolved to the point where it no longer needs any direct interaction from the targeted user, to deploy its spyware. 
 
-This magical technique is called a **Zero Click Exploit.** Technically speaking I have no idea how the Israeli company NSO Group, can pull off executing on an attack vector with zero user interaction. 
+This magical technique is called a **Zero Click Exploit.** Technically speaking I have no idea how the Israeli company NSO Group, can pull off executing this attack vector.
 
 However, 
 
-- in 2019, sucessful zero-click attacks via WhatsApp where the attackers call a target's phone, and even if the call was not answered, spyware was installed. 
-- in 2021, iphone users reported compromised devices, **Pegasus** evolved to hacking your phone by knowing your `phone number.`
+- In 2019, sucessful zero-click attacks via WhatsApp where the attackers call a target's phone, and even if the call was not answered, spyware was installed. 
+- In 2021, iphone users reported compromised devices, **Pegasus** evolved to hacking your phone by knowing your `phone number.`
 
-**When the NSO Group or their customers wants to access your device they can.**
+**When the NSO Group // their customers wants to access your device they can.**
