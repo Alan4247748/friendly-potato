@@ -29,14 +29,14 @@ A user application (Mobile & Web) that provides users with real-time and histori
 
 Choosing [ULisp](https://ulisp.com/) - as the programming language is key. It allows for changes at runtime which means (calucaltion frequency) can be fine-tuned. 
 
-The software utilities will be bootloaded into the microcontrollers — a series of programs that filter, analyse, and translate (electrical signals). These signals are then pushed to a gateway device that HTTP pushes via a networking transfer to a time-series database (mongoDB).
+The software utilities will be bootloaded into the microcontrollers — a series of programs that filter, analyse, and translate (electrical signals). From the MC these signals are HTTP(ed) to a gateway device. From there via a networking transfer (LORA) to a time-series database (mongoDB).
 
  
 ## Hardware
 
 ![Remote Sensor Device](/img/s3.png)
 
-I've selected the ESP 32-Whisper Node `microcontroller`` to do the heavy lifting.
+I've selected the ESP 32-Whisper Node `microcontroller` to do the heavy lifting.
 
 **Key Specs:**
 
@@ -54,11 +54,17 @@ The hardware and software of this system involve several components and layers. 
 
 ## Low Bandwidth 
 
-Oil and gas wells are in remote locations adding a challenge for connectivity. These enviorments are **BW starved** and sometimes not even connected to an electrial grid. Each device will transfer data on the 2.4GHz frequency to the gateway device. 
+Oil and gas wells are in remote locations adding a challenge for connectivity. These enviorments are **BW starved** so each device will transfer data on the 2.4GHz frequency to the gateway device. The gateway will utlize the LORA network for long range remote data transfer. 
+
+## Energy
+
+Locations sometimes are not connected to an electrial grid. This sensor system will have battery and solar power capabilites of 10 years.
 
 ## Use Case
 
-Scattered throughout the lower 48 are millions of small tank batteries. Most of them do not have any automation, because modern products can crush the economic productivity of stripper wells. The companies of today are missing this key market. There soultions are rather costly, and could be better optimized for energy utlization, memory, and user interfaces. 
+Scattered throughout the lower 48 are millions of small tank batteries. Most of them do not have any automation, because modern products can crush the economic productivity of stripper wells. 
+
+The companies of today are missing this key market. There soultions are rather costly, and could be better optimized for energy utlization, memory, and user interfaces. 
 
 ## RoadMap 
 
