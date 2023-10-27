@@ -60,10 +60,24 @@ Website_Directory/
 │   │   └── Monitor-Aerospike-.md
 │   │ 
 │   │ 
-└── Build/
-    └── css/
-    └── images/
-    └── js/
+└── 🏗️ Build /
+ℹ️ About
+📄 index.html
+📁 assets
+  🎨 css
+  🖼️ images
+  📜 js
+📝 blog
+📞 contact
+📖 docs
+  🖼️ img
+  ⚖️ legal
+  🎉 success
+❌ .nojekyll
+⚠️ 404.html
+📄 index.html
+🗺️ sitemap.xml
+
 
 ```
 
