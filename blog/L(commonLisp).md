@@ -37,4 +37,4 @@ The real-world scenario of database construction from CSV files manifests as a p
 
 ![Common Lisp](/img/l1.png)
 
-[Docuementation](https://damurphy.com/docs/Tech%20Writing/Lisp)
+[Documentation](../docs/Tech%20Writing/L/commonLisp)
