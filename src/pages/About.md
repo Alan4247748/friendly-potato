@@ -6,7 +6,7 @@ title: About
 
 - **Design Tools**: Adobe Illustrator, Adobe XD, Figma, and pen. 
 - **Communication**: Can collaborate with developers, product people, marketers, and senior leadership.
-- **IT Tools**: I've used tools and frameworks like [docusaurus](/docs/Tech%20Writing/Directory%20for%20website%20&%20content.md)
+- **IT Tools**: I've used tools and frameworks like [docusaurus](https://damurphy.com/docs/Tech%20Writing/Directory%20for%20website%20&%20content)
 , [gatsby](https://github.com/alan4247748/df), markdown, jira, git, .CSS, .JS, React, CommonLisp, microcontrollers, python, homebrew, and datadog.
 - **Languages:** English native, Español B1.2, and Deutsch B2.1.
 

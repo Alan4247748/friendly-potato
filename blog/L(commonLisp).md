@@ -21,6 +21,8 @@ The realm of programming has witnessed the birth and evolution of numerous langu
 A user, immersed in data analytics, possesses multiple CSV files containing varied data from websites and social media platforms. The aspiration is to construct a database using 🅛, harnessing its features to seamlessly handle and organize the data.
 
 ## Approach to Database Construction:
+
+![Common Lisp](/img/l2.png)
 1. **Defining Data Structures**: The initial step involves defining precise data structures to represent the data encompassed in the CSV files. For instance, if a CSV file holds website analytics data with columns for Date, Visits, and BounceRate, a record like WebsiteData << Date date, Integer visits, Decimal bounceRate >> could be defined to represent each row of data.
 2. **Parsing CSV Data**: Following the definition of data structures, a function to parse the CSV data is imperative. This function aims to convert each line (or row) of the CSV file into the previously defined data structure, thereby transforming raw data into a structured format amenable for further operations.
 
@@ -32,5 +34,7 @@ When juxtaposed with other programming languages, the simplicity and effectivene
 
 ## Conclusion:
 The real-world scenario of database construction from CSV files manifests as a practical illustration of 🅛's capabilities. This use case not only exemplifies the practical utility of 🅛 but also beckons further exploration into its potential applications in diverse domains. Through a clear-cut approach to database creation, 🅛 demonstrates its propensity to cater to real-world computational needs, thereby marking its stance as a valuable asset in the modern programming landscape.
+
+![Common Lisp](/img/l1.png)
 
 [Docuementation](https://damurphy.com/docs/Tech%20Writing/Lisp)
