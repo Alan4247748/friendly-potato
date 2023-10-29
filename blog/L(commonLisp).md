@@ -1,5 +1,5 @@
 ---
-slug: L(commonLisp)
+slug: L/commonLisp
 title: 🅛 Common Lisp Potential 
 authors: zipi
 tags: [programming languages, DataBase construction]
