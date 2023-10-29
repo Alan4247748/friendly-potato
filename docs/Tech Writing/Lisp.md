@@ -293,8 +293,6 @@ using a specified separator that delineates subsequences.
 
 Additional text methods are described in the [Text Type Documentation][text].
 
-[text]: docs/types/text.md
-
 
 ## Collection Types
 
