@@ -1,5 +1,6 @@
 ---
 title: Markdown
+description: .MD syntax, hyper markup language, for structured documents and static site generators  
 sidebar_label: Markdown
 sidebar_position: 8
 ---
