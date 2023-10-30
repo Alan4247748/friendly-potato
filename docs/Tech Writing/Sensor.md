@@ -3,7 +3,7 @@ Title: Hardware
 description: System Design
 sidebar_label: Hardware
 Id: Hardware
-sidebar_position: 3
+sidebar_position: 5
 ---
 
 ![Remote Sensor Device](/img/s1.png)

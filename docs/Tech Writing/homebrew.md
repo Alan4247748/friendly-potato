@@ -1,7 +1,7 @@
 ---
 title: HomeBrew
 sidebar_label: Homebrew
-sidebar_position: 5
+sidebar_position: 3
 ---
 
 
