@@ -34,6 +34,8 @@ The software utilities will be bootloaded into the microcontrollers — a series
  
 ## Hardware
 
+![ESP 32 Whisper](/img/h1.png)
+
 ![Remote Sensor Device](/img/s3.png)
 
 I've selected the ESP 32-Whisper Node `microcontroller` to do the heavy lifting.
@@ -46,9 +48,9 @@ I've selected the ESP 32-Whisper Node `microcontroller` to do the heavy lifting.
 - Ultra­Low­Power Coprocessor (ULP) 
 
 
-![Functional Block Diagram](/img/ESP32.png)
+![Functional Block Diagram](/img/h4.png)
 
-
+![ESP 32 Whisper](/img/h3.png)
 ## Use Case
 
 Scattered throughout the lower 48 are millions of small tank batteries. Most of them do not have any automation, because modern products can crush the economic productivity of stripper wells. 

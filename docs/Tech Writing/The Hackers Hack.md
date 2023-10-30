@@ -15,7 +15,7 @@ At first, it used PDF files disguised as GIF files to inject JBIG2-encoded data 
 
 JBIG2 doesn't have scripting capabilities, but when combined with a vulnerability, it does have the ability to emulate circuits of arbitrary logic gates operating on arbitrary memory. 
 
-Using over 70,000 segment commands defining logical bit operations, it defines a small computer architecture with features such as registers and a full 64-bit adder and comparator which can search memory and perform arithmetic. 
+Using more than 70,000 segment commands that define logical bit operations, the system establishes a small computer with a basic architecture. This includes features like registers, a full 64-bit adder, and a comparator, enabling it to search memory and conduct arithmetic operations
 
 It's not as fast as JS, but it's an equivalent. The bootstrapping operations for the sandbox escape exploit are written to run on this logic circuit and the whole thing runs in this weird, emulated environment created out of a single decompression pass through a JBIG2 stream. 
 
@@ -23,9 +23,7 @@ It's not as fast as JS, but it's an equivalent. The bootstrapping operations for
 
 ## Bootstrapped Computing
 
-In highly restricted environments, it's possible to create a bootstrap mechanism that builds up to a more functional computing environment from basic primitives. This is similar to how early computers were bootstrapped with a layer of basic instructions. Then via a piecemealing approach they built ulilites that allowed them to run more complex software.
-
-Early computer scientists built complex systems from rudimentary operations. How does this parallel within restricted or unexpected environments to achieve complex tasks?
+In highly restricted environments, it's possible to create a bootstrap mechanism that builds up to a more functional computing environment from basic primitives. This is similar to how early computers were bootstrapped with a layer of basic instructions. They hacked together ulilites from which they could stich new more complex software together. Early Hackers went from rudimentary operations to complex software. How does this parallel within restricted or unexpected environments to achieve complex tasks?
 
 **Unintended Functionality**
 
@@ -37,13 +35,14 @@ This could lead to a broader discussion on the philosophy of secure software des
 
 **Capability Evoultion** 
 
-Pegasus initially employed a combination of three separate vulnerabilities in iOS, collectively termed **"Trident."** This chain of vulnerabilities allowed the attacker to jailbreak the device and install the spyware. Pegasus has evolved to the point where it no longer needs any direct interaction from the targeted user, to deploy its spyware. 
+Pegasus initially employed a combination of three separate iOS processes, collectively termed **"Trident."** This chain of vulnerabilities allowed the attacker to jailbreak the device and install the spyware. Pegasus has evolved to the point where it no longer needs any direct interaction from the targeted user, to deploy its spyware. 
 
 This magical technique is called a **Zero Click Exploit.** Technically speaking I have no idea how the Israeli company NSO Group, can pull off executing this attack vector.
 
-However, 
+However,
 
-- In 2019, sucessful zero-click attacks via WhatsApp where the attackers call a target's phone, and even if the call was not answered, spyware was installed. 
-- In 2021, iphone users reported compromised devices, **Pegasus** evolved to hacking your phone by knowing your `phone number.`
+- In 2019, there were successful zero-click attacks through WhatsApp. Attackers could call a target's phone, and even if the call went unanswered, spyware would still be installed.
+
+- In 2021, iPhone users began reporting compromised devices. Pegasus had advanced its capabilities, now able to hack phones merely by knowing the target's `phone number.`
 
 > **When the NSO Group // their customers wants to access your device they can.**
