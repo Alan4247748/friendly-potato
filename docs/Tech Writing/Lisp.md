@@ -5,11 +5,9 @@ Id: L Programming
 sidebar_position: 10
 ---
 
+`**WARNING** THIS IS IN UNFINISHED`
 
-
-# Introduction to the 🅛 Programming Language
-
-Hello.
+# The 🅛 Programming Language
 
 ## Syntax
 

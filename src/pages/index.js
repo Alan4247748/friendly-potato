@@ -28,13 +28,13 @@ export default function Home() {
   return (
     <Layout>
       <HomepageHeader />
+      <main>
+        <HomepageFeatures />
+      </main>
       <section className="container">
         <h1>CLIENTS</h1>
         <ClientsComponent />
       </section>
-      <main>
-        <HomepageFeatures />
-      </main>
     </Layout>
   );
 }
