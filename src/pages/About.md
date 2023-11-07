@@ -5,7 +5,7 @@ title: About
 ## Skills
 
 - **Design Tools**: Adobe Illustrator, Adobe XD, Figma, and pen. 
-- **Communication**: Can collaborate with developers, product people, marketers, and senior leadership.
+- **Communication**: Collaborate with developers, product people, marketers, and senior leadership.
 - **IT Tools**: I've used tools and frameworks like [docusaurus](../docs/Tech%20Writing/Directory%20for%20website%20&%20content#what-is-docusaurus)
 , [gatsby](https://github.com/alan4247748/df), markdown, jira, git, .CSS, .JS, React, CommonLisp, microcontrollers, python, homebrew, and datadog.
 - **Languages:** English native, Español B1.2, and Deutsch B2.1.
@@ -18,7 +18,10 @@ title: About
 
 ## Nerdspeak
 
-I code in English - it's interpreted, general-purpose, and expressive. Like LISP, English is extendable and allows for MACROs. Syntactic sugar depends on taste. However, breaking changes are far and few between with an ecosystem that surpasses all.
+I code in English - it's interpreted, general-purpose, and expressive. 
+Like LISP, English is extendable and allows for MACROs. 
+Syntactic sugar depends on taste; breaking changes far and few between. 
+The ecosystem surpasses all.
 
 
 ## Contact

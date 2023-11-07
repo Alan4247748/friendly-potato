@@ -5,7 +5,7 @@ authors: zipi
 tags: [Developer Tools, Hardware vs Software]
 ---
 
-Learning something new can involve sorting through many tools. There are "optimization//process gurus" galore, but if you are anything like me, you prefer to plod your own path. 
+Learning new things can involve sorting through many tools, courses, and youtube rabbit holes. Optimization and process gurus abound, but if you are like me, you might landed at endless tool triage. 
 
 ![Endless-tool-triage](/img/tool.png)
 
@@ -13,7 +13,9 @@ Learning something new can involve sorting through many tools. There are "optimi
 
 ## The Developers' Dilemma
 
-In the ever-evolving IT landscape, there is a plethora of technologies, frameworks, and tools to choose from, creating a challenging situation for new developers. Where do I start? Especially during the early years of one's career, navigating this vast sea of options can be overwhelming.
+In the ever-evolving IT landscape, a constant steady stream of technologies, frameworks, and tools are constantly being invented. Ontop of that there is a thousand older technoliges also in use. This creates a challenging situation for new developers. 
+```Where do I start?``` 
+Especially during the early days of learning something new. Navigating the vast sea of options can be overwhelming and lead to giving up. 
 
 
 ## Selecting Tools 

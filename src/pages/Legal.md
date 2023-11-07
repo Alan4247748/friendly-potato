@@ -9,7 +9,6 @@ Sakala tn 7-2
 10141 Kesklinna linnaosa Tallinn, Harju maakond Estonia
 Company no: 16685483
 VAT no: EE102600489
-WhatsApp no: +49 152 5900 6920 
 Email: onionshorts@gmail.com
 
 
