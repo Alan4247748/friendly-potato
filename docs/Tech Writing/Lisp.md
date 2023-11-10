@@ -7,8 +7,6 @@ sidebar_position: 10
 
 **WARNING THIS IS IN UNFINISHED**
 
-# The 🅛 Programming Language
-
 ## Syntax
 
 A program in __L__ is a list of expressions.

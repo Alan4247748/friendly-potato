@@ -91,3 +91,6 @@ Not exhaustive but worth mentioning.
 
 [***Jekyll:***](https://jekyllrb.com/) is a popular static site generator that can be used to create documentation websites. It uses Markdown and Liquid templating to generate static HTML pages.
 
+## Conclusion
+
+Your choice of techstack depends on taste, and what problems your trying to solve. Next time, I need a front-end, going to play with [HTMX](https://github.com/bigskysoftware/htmx) or [Svelte](https://kit.svelte.dev/docs/adapter-static). 

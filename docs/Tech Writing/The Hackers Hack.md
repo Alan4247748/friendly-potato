@@ -45,6 +45,8 @@ However,
 
 - In 2021, iPhone users began reporting compromised devices. Pegasus had advanced its capabilities, now able to hack phones merely by knowing the target's `phone number.`
 
-The technical specifics of how the Israeli company NSO Group executes this attack are currently unknown. 
+The technical specifics of how the Israeli company NSO Group executes this attack are currently unknown.
+
+## Conclusion 
 
 > **When the NSO Group // their customers wants to access your device they can.**
