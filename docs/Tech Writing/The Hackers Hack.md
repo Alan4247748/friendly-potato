@@ -37,7 +37,7 @@ This could lead to a broader discussion on the philosophy of secure software des
 
 Pegasus initially employed a combination of three separate iOS processes, collectively termed **"Trident."** This chain of vulnerabilities allowed the attacker to jailbreak the device and install the spyware. Pegasus has evolved to the point where it no longer needs any direct interaction from the targeted user, to deploy its spyware. 
 
-This magical technique is called a **Zero Click Exploit.** Technically speaking I have no idea how the Israeli company NSO Group, can pull off executing this attack vector.
+This magical technique is called a **Zero Click Exploit.** Technically speaking I have no idea how the Israeli company NSO Group, pulls off this attack vector.
 
 However,
 

@@ -9,15 +9,18 @@ sidebar_position: 1
 
 ## The Problem
 
-Addestino is a Belgian IT consultancy helping European businesses navigate a complex landscape: where business and technology intersect. I worked with them on ***(communicating).***<br /><br /> Specific problems, internal projects, case studies to showcase their capabilities, approach, and success.
+Addestino, a leading Belgian IT consultancy, sought a fresh brand identity, and communication startegy. The consultants at Addestino steer European enterprises through the intricate juncture where business meets technology. 
+
+This entailed dissecting specific challenges, managing in-house projects, and constructing case studies that highlighted their proficiency, strategy, and triumphs.
 
 ![Addestino](/img/Add3.png)
 
 ## My Role
 
-As a Tech writer, I conducted technical interviews to write a variety of content, including case studies, technology updates, newsletters, linkedin posts, and profile pieces, and technical articles.
+As a Tech writer, I conducted technical interviews to write a variety of content, including in-depth case studies, technology updates, engaging newsletters, LinkedIn posts, insightful profile pieces, and authoritative technical articles.
 
-## Technical Topics
+
+**Technical Topics**
 
 ![Technical Topics](/img/add4.png)
 
@@ -37,6 +40,6 @@ Its 😎 — [Link](https://addestino.be/).
 
 ## The Results
 
-Month-over-Month I helped Addestino document problems they solved and the growth of their consultants.
+Month-over-month, I aided Addestino in chronicling the problems they overcame and documenting the professional development of their consultants.
 
 ![Technical Addestino](/img/Add.png)

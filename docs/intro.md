@@ -5,9 +5,7 @@ description: Copywriting, Technical writing, Product Design
 sidebar_label: intro
 ---
 
-
-
-# Advertising 
+## Advertising 
 
 As a copywriter, I've written websites, blogs, emails, chatbots, digital campaigns, case studies, sustainability reports and more.
 
@@ -15,7 +13,7 @@ As a copywriter, I've written websites, blogs, emails, chatbots, digital campaig
 
 ![Clients](/img/clients.png)
 
-# Technical Writing
+## Technical Writing
 
 As a technical writer, I've written about Zero-trust Networking, Container Security, IT migration Roadmaps, and more.
 
@@ -35,7 +33,7 @@ Cyber security
 What is malware
 uBlock Oriign / safari / client browser rant
 
-# Product Design
+## Product Design
 
 My first endeavour into complex system design. The project combines hardware and software, to build a sensor product more [here](https://damurphy.com/docs/Product%20Design/Sensor).
 
