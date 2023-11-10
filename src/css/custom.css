@@ -61,7 +61,7 @@ h2 {
 h3, h4, h5, h6 {
   font-family: 'Neue Kable', fallback-fonts;
   font-weight: 500;
-  font-size: 1.75em; /* 27px when body is 18px */
+  font-size: 1.70em; /* 27px when body is 18px */
 }
 
 
@@ -197,11 +197,11 @@ ul li {
 }
 
 .button--primary {
-  background-color: lightblue; /* Light blue background */
+  background-color: #add8e6; /* Light blue background */
 }
 
 .button--primary:hover {
-  background-color: #1aaf94; /* Slightly darker blue on hover */
+  background-color: #97c2d1; /* Slightly darker blue on hover */
   transform: scale(1.05); /* Slightly enlarge the button on hover */
 }
 
@@ -210,7 +210,7 @@ ul li {
 }
 
 .button--secondary:hover {
-  background-color: #1aaf94; /* Slightly darker blue on hover */
+  background-color: #b0dded; /* Slightly darker blue on hover */
   transform: scale(1.05); /* Slightly enlarge the button on hover */
 }
 
