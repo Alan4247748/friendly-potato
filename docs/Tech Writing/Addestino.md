@@ -9,15 +9,15 @@ sidebar_position: 1
 
 ## The Problem
 
-Addestino, a leading Belgian IT consultancy, sought a fresh brand identity, and communication startegy. The consultants at Addestino steer European enterprises through the intricate juncture where business meets technology. 
+Addestino, a boutique Belgian IT consultancy, sought a fresh brand identity, and communication startegy. The consultants at Addestino steer European enterprises through the intricate juncture where business meets technology. 
 
-This entailed dissecting specific challenges, managing in-house projects, and constructing case studies that highlighted their proficiency, strategy, and triumphs.
+This entailed dissecting specific challenges, in-house projects, and constructing case studies that highlighted their approach, strategy, and technical acumen.
 
 ![Addestino](/img/Add3.png)
 
 ## My Role
 
-As a Tech writer, I conducted technical interviews to write a variety of content, including in-depth case studies, technology updates, engaging newsletters, LinkedIn posts, insightful profile pieces, and authoritative technical articles.
+As a Tech writer, I interviewed 30+ people at Addestino to write a variety of stories, including in-depth case studies, technology updates, engaging newsletters, LinkedIn posts, insightful profile pieces, and authoritative technical articles.
 
 
 **Technical Topics**
@@ -40,6 +40,6 @@ Its 😎 — [Link](https://addestino.be/).
 
 ## The Results
 
-Month-over-month, I aided Addestino in chronicling the problems they overcame and documenting the professional development of their consultants.
+Month-over-month, I aided Addestino in chronicling the problems they solved. 
 
 ![Technical Addestino](/img/Add.png)

@@ -53,11 +53,17 @@ h1 {
   padding-top: 10px;
 }
 
-h2, h3, h4, h5, h6 {
+h2 {
   font-family: 'Neue Kable', fallback-fonts;
   font-weight: 600;
   font-size: 2em; /* 27px when body is 18px */
 }
+h3, h4, h5, h6 {
+  font-family: 'Neue Kable', fallback-fonts;
+  font-weight: 500;
+  font-size: 1.75em; /* 27px when body is 18px */
+}
+
 
 
 @media (max-width: 967px) {
