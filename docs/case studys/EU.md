@@ -9,13 +9,13 @@ sidebar_position: 5
 
 ## The Problem
 
-The EU Commission challenge was to communicate information about COVID-19 to a diverse audience across multiple countries.
+The EU Commission's challenge involved how to communicate information about COVID-19 to a diverse audience across multiple countries.
 
 ## My Role
 
 I was responsible for creating the core messaging in English.
 
-![Campaign Assests](/img/eu2.png)
+![Campaign Assets](/img/eu2.png)
 
 ## The Campaign
 

@@ -19,7 +19,7 @@ The Diplomatic sales team at Volvo wanted personalized websites to generate more
 **60% Copywriting**<br />
 **40% Design**
 
-  ***Creating an art direction from Volvo's image bank and balancing stakeholders from mulitple agencies and the Volvo team.***
+  ***Using Volvo's image bank to create an art direction while balancing multiple agencies stakeholders and the Volvo team.***
 
 ## XC90 Recharge
 
@@ -29,12 +29,7 @@ The XC90 Recharge EV was a flagship of Volvo's new electric fleet. With the XC90
 
 ![Volvo Campaign](/img/Volvo2.png)
 
-:::danger Website Below
-
 [Click me](https://diplomatic.volvocars.be/ "View site") 
-
-
-:::
 
 ## Results
 

@@ -46,8 +46,8 @@ We utilized various data sources, including customer transaction records, browsi
 
 ![Strategy Graphic](/img/adobe2.png)
 
+> **"Data is the lifeblood of personalization"** - Michael Klein, Global Director, Industry Strategy and Marketing, Adobe
+
 ## Results
 
-The articles we produced provided practical guidance on implementing personalization techniques, resulting in enhanced customer engagement, increased sales, and improved brand loyalty.
-
-> **"Data is the lifeblood of personalization"** - Michael Klein, Global Director, Industry Strategy and Marketing, Adobe
+The articles produced served as guidance for implementing personalization techniques for reatailers. For adobe it helped drive traffic through there EMEA blog resulting in enhanced customer engagement, increased sales, and improved brand loyalty.

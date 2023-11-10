@@ -37,12 +37,14 @@ This could lead to a broader discussion on the philosophy of secure software des
 
 Pegasus initially employed a combination of three separate iOS processes, collectively termed **"Trident."** This chain of vulnerabilities allowed the attacker to jailbreak the device and install the spyware. Pegasus has evolved to the point where it no longer needs any direct interaction from the targeted user, to deploy its spyware. 
 
-This magical technique is called a **Zero Click Exploit.** The technical specifics of how the Israeli company NSO Group executes this attack vector are not fully disclosed how the Israeli company NSO Group, pulls off this attack vector.
+This magical technique is called a **Zero Click Exploit.**
 
 However,
 
 - In 2019, there were successful zero-click attacks through WhatsApp. Attackers could call a target's phone, and even if the call went unanswered, spyware would still be installed.
 
 - In 2021, iPhone users began reporting compromised devices. Pegasus had advanced its capabilities, now able to hack phones merely by knowing the target's `phone number.`
+
+The technical specifics of how the Israeli company NSO Group executes this attack are currently unknown. 
 
 > **When the NSO Group // their customers wants to access your device they can.**

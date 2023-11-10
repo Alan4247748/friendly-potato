@@ -23,16 +23,15 @@ As the copywriter on this project, I wrote about the nuances of acid, gel, and l
 
 ## The Brands
 
-The messaging focused on the needs of their customers, their technical requirements, and how the AFAM Group's technology could meet those needs. AFAM Group's range of brands are AFAM, NITRO, SHIDO, ISON, and MIW. Showcasing technical expertise, design, and data to to tailor the perfect fit for riders.
+The messaging focused on the needs of their customers, their technical requirements, and how the AFAM Group's technology could meet those needs. AFAM Group's range of brands are AFAM, NITRO, SHIDO, ISON, and MIW. Showcasing technical expertise, design, and data to tailor the perfect fit for riders.
 
 ![Nitro Gel Battery](/img/afam2.png)
 ![ISON filters](/img/afam1.png)
 
 ## The Results
-:::danger See for yourself
+
 
 😎 — [Website](https://afam-group.com/)
 
-:::
 
 ![Brand Messaging](/img/afam5.gif)

@@ -10,7 +10,7 @@ sidebar_position: 3
 
 ## The Problem
 
-AG Insurance challenge was their sustainability report and raising awareness about their initiatives among stakeholders and the public. The 49-page document highlights, the efforts of one of the largest institutional investors in Beligum.
+"The challenge for AG Insurance was their sustainability report and raising their initiatives among stakeholders and the public. The 49-page document highlights, the efforts of one of the largest institutional investors in Belgium.
 
 ![AG Sustainability Report](/img/Ag2.png)
 
