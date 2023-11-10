@@ -1,5 +1,5 @@
 ---
-sidebar_label: Pegasus Spyware
+sidebar_label: Hacker's Hack
 description: Bootstrapped computing 
 Id: The Hacker's Hack
 sidebar_position: 2
@@ -9,7 +9,7 @@ sidebar_position: 2
 
 ## Pegasus Spyware
 
-Uses a zero day exploit to gain FORCEDENTRY over Apple devices. 
+It uses a zero-day exploit to gain FORCEDENTRY over Apple devices. 
 
 At first, it used PDF files disguised as GIF files to inject JBIG2-encoded data causing an integer overflow in Apple's CoreGraphics system, bypassing Apple's "BlastDoor" sandbox for message content. 
 
@@ -17,13 +17,13 @@ JBIG2 doesn't have scripting capabilities, but when combined with a vulnerabilit
 
 Using more than 70,000 segment commands that define logical bit operations, the system establishes a small computer with a basic architecture. This includes features like registers, a full 64-bit adder, and a comparator, enabling it to search memory and conduct arithmetic operations
 
-It's not as fast as JS, but it's an equivalent. The bootstrapping operations for the sandbox escape exploit are written to run on this logic circuit and the whole thing runs in this weird, emulated environment created out of a single decompression pass through a JBIG2 stream. 
+It's not as fast as JavaScript (JS), but it's an equivalent. The bootstrapping operations for the sandbox escape exploit are written to run on this logic circuit and the whole thing runs in this weird, emulated environment created out of a single decompression pass through a JBIG2 stream. 
 
 **An example of pure genius and terrifying reminder of what `minds` can devise.**
 
 ## Bootstrapped Computing
 
-In highly restricted environments, it's possible to create a bootstrap mechanism that builds up to a more functional computing environment from basic primitives. This is similar to how early computers were bootstrapped with a layer of basic instructions. They hacked together ulilites from which they could stich new more complex software together. Early Hackers went from rudimentary operations to complex software. How does this parallel within restricted or unexpected environments to achieve complex tasks?
+In highly restricted environments, it's possible to create a bootstrap mechanism that builds up to a more functional computing environment from basic primitives. This is similar to how early computers were bootstrapped with a layer of basic instructions. They hacked together utilities from which they could stich new more complex software together. Early Hackers went from rudimentary operations to complex software. How does this parallel within restricted or unexpected environments to achieve complex tasks?
 
 **Unintended Functionality**
 
@@ -33,11 +33,11 @@ This could lead to a broader discussion on the philosophy of secure software des
 
 ## Zero Click 
 
-**Capability Evoultion** 
+**Capability Evolution** 
 
 Pegasus initially employed a combination of three separate iOS processes, collectively termed **"Trident."** This chain of vulnerabilities allowed the attacker to jailbreak the device and install the spyware. Pegasus has evolved to the point where it no longer needs any direct interaction from the targeted user, to deploy its spyware. 
 
-This magical technique is called a **Zero Click Exploit.** Technically speaking I have no idea how the Israeli company NSO Group, pulls off this attack vector.
+This magical technique is called a **Zero Click Exploit.** The technical specifics of how the Israeli company NSO Group executes this attack vector are not fully disclosed how the Israeli company NSO Group, pulls off this attack vector.
 
 However,
 

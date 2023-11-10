@@ -5,7 +5,7 @@ Id: Buffer
 sidebar_position: 9
 ---
 
-Are contiguous blocks of memory reserved for storing data. In programming, arrays and strings are commonly backed by buffers. The easiest way to think about it is tabs in your web browser. These are managed through various data structures, commonally referred to as buffers.
+Buffers are contiguous blocks of memory reserved for storing data, in programming, arrays and strings are commonly backed by buffers. It might help to think abou tabs in your web browser. These are managed through various data structures, commonly referred to as buffers.
 
 ![Nothing is safe](/img/buffer.png)
 
@@ -19,19 +19,19 @@ After the "overflow," crucial control data can be overwritten (return address on
 
 **Exploitation Steps**
     
-a. **Find a Vulnerability:** 
+a. **Find a Vulnerability** 
 
 The attacker first needs to find a vulnerable piece of software where they can trigger a buffer overflow. Not all overflows are exploitable, and the specifics of the system, such as memory protections, play a role.
     
-b. **Inject Code:** 
+b. **Code Injection** 
 
 The attacker then needs to provide the malicious payload (code they want to run). This is often combined with the input that triggers the overflow.
     
-c. **Redirect Execution:** 
+c. **Redirect Execution** 
 
 The overflow must overwrite some control data (like a return address or function pointer) to point to the attacker's code. When the program uses that overwritten data, it'll jump to the attacker's code and execute it.
     
-**Protection Mechanisms:** 
+**Protection Mechanisms** 
 
 Modern systems have various protection mechanisms against buffer overflows
 
@@ -51,19 +51,19 @@ These are values placed on the stack near control data. Before the control data 
 
 ROP, or Return-Oriented Programming, is an advanced exploitation technique that attackers use to bypass security defenses, particularly Data Execution Prevention (DEP). In essence, Return-Oriented Programming is like creatively remixing pieces of existing songs to produce an entirely new song. The attacker finds and chains together existing code snippets in a way that the original developers never intended.
 
-**High-Level:**
+**High-Level**
 
 Imagine you have a set of LEGO blocks, each with a specific shape or function. Instead of creating new blocks (which DEP would prevent), you decide to use existing blocks to construct something entirely different. Similarly, ROP uses pieces of the existing code, called "gadgets," to perform actions the original program wasn't intended to do.
 
-**Key Concepts:**
+## Key Concepts
 
-1. **Gadgets:** In ROP, a gadget is a sequence of instructions ending in a 'return' instruction. These sequences are found within the existing code of a program. By chaining multiple gadgets together, an attacker can stitch together the desired malicious functionality.
+1. **Gadgets** In ROP, a gadget is a sequence of instructions ending in a 'return' instruction. These sequences are found within the existing code of a program. By chaining multiple gadgets together, an attacker can stitch together the desired malicious functionality.
 
-2. **Chaining Gadgets:** The real power of ROP comes from chaining multiple gadgets together. Each gadget does a tiny part of the overall malicious task, and when they're executed in a specific sequence, they can achieve complex behaviors, like bypassing other security mechanisms or providing a shell to the attacker.
+2. **Chaining Gadgets** The real power of ROP comes from chaining multiple gadgets together. Each gadget does a tiny part of the overall malicious task, and when they're executed in a specific sequence, they can achieve complex behaviors, like bypassing other security mechanisms or providing a shell to the attacker.
 
-3. **ROP vs. DEP:** Since ROP doesn't involve executing new code but reuses existing code, it can bypass DEP. The memory regions where the program's code resides are marked as executable, so by redirecting the program's flow to these regions (but in an unintended sequence), the attacker can execute their payload without directly violating DEP.
+3. **ROP vs. DEP** Since ROP doesn't involve executing new code but reuses existing code, it can bypass DEP. The memory regions where the program's code resides are marked as executable, so by redirecting the program's flow to these regions (but in an unintended sequence), the attacker can execute their payload without directly violating DEP.
 
-4. **Protection Against ROP:** Modern defenses against ROP include measures like Control-Flow Integrity (CFI), which ensures that the program's control flow follows a predefined, legitimate path. Address Space Layout Randomization (ASLR) can also make ROP more challenging (though not impossible) by randomizing memory addresses, making it harder to predict gadget locations.
+4. **Protection Against ROP** Modern defenses against ROP include measures like Control-Flow Integrity (CFI), which ensures that the program's control flow follows a predefined, legitimate path. Address Space Layout Randomization (ASLR) can also make ROP more challenging (though not impossible) by randomizing memory addresses, making it harder to predict gadget locations.
 
 ## Conclusion
 

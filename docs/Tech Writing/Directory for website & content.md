@@ -8,11 +8,11 @@ sidebar_position: 2
 
 ## What is Docusaurus?
 
-Docusaurus 2 is an open-source static site generator framework developed and maintained by Meta. It's built with React, and offers various features out-of-the-box. Some of the logic I found cumbersome, as with most React frameworks. Docusaurus does provide a nice platform that has many built in abstractions and a API plugin friendly enviorment that suits many.
+Docusaurus 2 is an open-source static site generator framework developed and maintained by Meta. It's built with React, and offers various features out-of-the-box. Some of the logic I found cumbersome, as with most React frameworks. Docusaurus does provide a nice platform that has many built in abstractions and a API plugin friendly environment that suits many.
 
 ## Use Case
 
-I used [Docusaurus 2], for the boiler plate. From my local - I push direct to this [GitHub repo](https://github.com/Alan4247748/friendly-potato). A build is triggered in Netlify—basic covering a basic CI/CD. As a Tech writer I try to lean into becoming a better Dev: below is the website structure 😁.
+I used [Docusaurus 2], for the boiler plate. From my local - I push direct to this [GitHub repo](https://github.com/Alan4247748/friendly-potato). A build is triggered in Netlify—basic covering basic CI/CD processes. As a Tech writer I try to lean into becoming a better Dev: below is the website structure 😁.
 
 ``` Javascript
 Website_Directory/
@@ -90,3 +90,4 @@ Not exhaustive but worth mentioning.
 [***GitBook:***](https://www.gitbook.com/) is a versatile platform that allows users to create, publish, and host documentation. It supports various documentation formats, including Markdown, AsciiDoc, and reStructuredText.
 
 [***Jekyll:***](https://jekyllrb.com/) is a popular static site generator that can be used to create documentation websites. It uses Markdown and Liquid templating to generate static HTML pages.
+

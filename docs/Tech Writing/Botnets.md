@@ -18,7 +18,7 @@ This networking layer makes it difficult for law enforcement and security profes
 
 ## P2P Architecture
 
-P2P, or (peer-to-peer) gets a lot of fanfair in the blockchain world. For **Botnets** it's how to build resilency into a system where each **agent** acts as both a client and a server. 
+P2P, or (peer-to-peer) gets a lot of fanfare in the blockchain world. For **Botnets** it's how to build resiliency into a system where each **agent** acts as both a client and a server. 
 
 A P2P architecture can be orchestrated to decentralize a command and control infrastructure, allowing "nodes" to perform missions and if a device is caught and "cleaned" makes it harder to take down the entire botnet.
 
@@ -32,7 +32,7 @@ These devices can be easily compromised. An average of 22 "IoT" devices live ins
 
 ## Wi-Fi Routers
 
-IoT devices connect to the internet via the home Wi-Fi router, or send a singal to a "bridge device" or even directly pair with your smart phone. If an IoT device is compromised depending on its privileges. 
+IoT devices connect to the internet via the home Wi-Fi router, or send a signal to a "bridge device" or even directly pair with your smart phone. If an IoT device is compromised depending on its privileges. 
 
 It can be used to attack or probe other devices on the same network, including the router. At the very least it can sniff traffic, and capture credentials, to gain access to the router. 
 
@@ -78,7 +78,7 @@ Disable unnecessary services, ensure encryption is used for communication, and e
 
 ## Attack Vectors 
 
-Wi-Fi router passwords, especially default ones, can be a significant vulnerability if not changed let's break it down:
+Wi-Fi router passwords, especially default ones, can be a significant vulnerability if not changed Let's break it down:
 
 ### Brute-Forcing Wi-Fi Passwords
 
@@ -95,3 +95,4 @@ Constructing and maintaining a botnet targeting IoT devices is a formidable unde
 The primary purpose of using GPU/CPU resources of infected devices for cryptocurrency mining – faces practical challenges. This includes the limited processing power of most IoT devices and the inefficiency of CPU mining for popular cryptocurrencies.
 
 However, considering the variance in [Exploit Kits](Exploitkits.md) - I explore the idea further. 
+
