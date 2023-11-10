@@ -15,7 +15,7 @@ The EU Commission's challenge involved how to communicate information about COVI
 
 I was responsible for creating the core messaging in English.
 
-![Campaign Assets](/img/eu2.png)
+![Campaign Assets](/img/eu6.png)
 
 ## The Campaign
 
@@ -23,7 +23,9 @@ The campaign spanned 8 different countries and involved the creation of banner a
 
 Through collaboration with a diverse team, we ensured that the campaign resonated with the cultural nuances and sensitivities of the target audiences. We focused on delivering concise and impactful messages that would capture attention and encourage positive behavior change during the pandemic.
 
+![Campaign assets](/img/eu7.png)
 ![Campaign assets](/img/eu1.png)
+![Campaign assets](/img/eu5.png)
 
 ## The Results
 
