@@ -8,28 +8,28 @@ sidebar_position: 5
 
 ![Remote Sensor Device](/img/s1.png)
 
-## REMOTE SENSOR DEVICE 
+## Remote Sensor Device
 
-I'm designing a sensor prototype for the oil and gas industry. Its purpose is to calculate liquid volume in oil and water tanks.
+I'm designing a sensor prototype for the oil and gas industry. The purpose is to calculate liquid volume in oil and water tanks and transfer the data realtime. 
 It breaks down into (3) main parts:
 
-**#1** 
+**1** 
 
 A physical device containing a microcontroller, battery, solar panel, housed inside a plastic casing. See concept art above. 
 
-**#2** 
+**2** 
 
-The microcontroller collects the electrical data, parses, and translates it. Then pushes the data via  using the Then  which connects directly to the cloud via the Networking Layer.
+Under the hood, the microcontroller collects the electrical data, parses, and translates it.
 
-**#3** 
+**3** 
 
-A user application (Mobile & Web) that provides users with real-time and historical data.
+A user application (Mobile & Web) provides an interface of field assests with real-time and historical data.
 
 ## Software 
 
-Choosing [ULisp](https://ulisp.com/) - as the programming language is key. It allows for changes at runtime which means (calucaltion frequency) can be fine-tuned. 
+Choosing [ULisp](https://ulisp.com/) - as the programming language was a key design decision. It allows for changes at runtime which means (calucaltion frequency) can be fine-tuned post deployment. 
 
-The software utilities will be bootloaded into the microcontrollers — a series of programs that filter, analyse, and translate (electrical signals). From the MC these signals are HTTP(ed) to a gateway device. From there via a networking transfer (LORA) to a time-series database (mongoDB).
+The software utilities are bootloaded into the microcontrollers — which entail a series of programs that filter, analyse, and translate ```electrical signals```. These signals are HTTP(ed) to a gateway device. From there via a networking transfer (LORA) to a time-series database (mongoDB).
 
  
 ## Hardware
@@ -40,7 +40,7 @@ The software utilities will be bootloaded into the microcontrollers — a series
 
 I've selected the ESP 32-Whisper Node `microcontroller` to do the heavy lifting.
 
-**Key Specs:**
+### Key Specs 
 
 - Wifi enabled 
 - Bluetooth enabled 
@@ -55,7 +55,7 @@ I've selected the ESP 32-Whisper Node `microcontroller` to do the heavy lifting.
 
 Scattered throughout the lower 48 are millions of small tank batteries. Most of them do not have any automation, because modern products can crush the economic productivity of stripper wells. 
 
-The companies of today are missing this key market. There soultions are rather costly, and could be better optimized for energy utlization, memory, and user interfaces. 
+The companies of today are missing this key market. Present soultions are rather costly, upwards of 10k per tank battery. Also these systems could be better optimized for energy utilization, memory, and improved user interfaces. 
 
 ## The Interplay 
 
@@ -63,11 +63,11 @@ The hardware and software of this system involve several components and layers. 
 
 ## Low Bandwidth 
 
-Oil and gas wells are in remote locations adding a challenge for connectivity. These enviorments are **BW starved** so each device will transfer data on the 2.4GHz frequency to the gateway device. The gateway will utlize the LORA network for long range remote data transfer. 
+Oil and gas wells are in remote locations adding a challenge for connectivity. These enviorments are **BW starved** so each device will transfer data on the 2.4GHz frequency to the gateway device. The gateway will transmit data via the [LORA network](https://lora-alliance.org) for long range low bandwidth data transfer. 
 
-## Energy
+## On-site Power
 
-Locations sometimes are not connected to an electrial grid. This sensor system will have battery and solar power capabilites of 10 years.
+Locations sometimes are not connected to an electrial grid. This sensor system will have battery and solar power capabilites for 10 years.
 
 ## RoadMap 
 

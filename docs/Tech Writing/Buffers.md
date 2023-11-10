@@ -5,7 +5,7 @@ Id: Buffer
 sidebar_position: 9
 ---
 
-Are contiguous blocks of memory reserved for storing data. In programming, arrays and strings are commonly backed by buffers. Tabs in your web browser are managed through data structures, which may be backed by buffers.
+Are contiguous blocks of memory reserved for storing data. In programming, arrays and strings are commonly backed by buffers. The easiest way to think about it is tabs in your web browser. These are managed through various data structures, commonally referred to as buffers.
 
 ![Nothing is safe](/img/buffer.png)
 
