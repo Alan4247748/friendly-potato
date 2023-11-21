@@ -6,6 +6,8 @@ tags: [Philosophy, Taste, essay]
 
 ---
 
+***this essay is under dev***
+
 ## Abstract 
 
 This was prompted by the following thread:
@@ -15,30 +17,29 @@ This was prompted by the following thread:
 
 ## The Art of Brevity 
 
-For as long as humans bave been communicating there has been a time and a place for conciseness. But this is not some drabby essay about how we have so much less attention span than yester-year. In fact, depth is possible - people starve for it. The medium is the message, is one of the most influential books I've ever read. 
+For as long as humans have been communicating, there has been a time and a place for conciseness. However, this is not some dreary essay about how our attention span has diminished compared to yesteryear. In fact, depth is possible — people crave it. "The Medium is the Message" is one of the most influential books I've ever read.
 
-It's a graphical novel - one that takes the reader through 15 different art styles, typographies, illustration styles, symbolizsim, text strucutre, for 100 pages. 
+It's a graphic novel — one that takes the reader through 15 different art styles, typographies, illustration styles, symbolism, and text structures across 100 pages.
 
-(image)
+![image]
 
+![image]
 
-(image)
+### Signal over Noise
 
-## Signal over Noise 
+"Signal over Noise" is one of the most impactful phrases, yet it has a lot to unpack. Think about your own life for a moment. How much information do you digest per day? How much time do you spend on a screen, or talking to other people? Does it all rush and swirl around your head to the point that you don't even realize how much you apply a filter?
 
-It is one of the most impactful phrases, but a lot to unpack. If you think about your own life for a moment. How much information do you digest per day. How much time do you spend on a screen, or talking to other people, does it all rush and swirl around your head that you don't even realize how much you a apply a filter. 
+People do this all the time; we develop a taste that tells us what types of movies we enjoy, which bands we like, which concerts we attend, what porn we watch, which YouTube videos to view, and which viral social media trends to follow.
 
-People do this all the time, we develop a taste that tells us what types of movies we enjoy. Which bands we like and which concerts we go to, what portn we watch, which youtube videos to watch, which viral social media trends. 
+However, parsing out the bad information from the good has been a primary tenet of the internet since its inception. Fundamentally, if you build a system, someone is going to try and spam it. Let's be honest, that is just human nature.
 
-However, parsing out the bad information fron the good has been a primary tenantet of the internet since its existence. Fundamentally. if you build a system - someone is going to try and spam it. Let's be honest, that is just human nature. 
+We all "filter" our bubbles of information flow, sometimes subconsciously. I've heard many friends begrudgingly call it "the algorithm."
 
-We all "filter" our bubbles of information flows. Sometimes, sub-counsiously or I've heard many friends chagrinnly calling it "the algorithum."
+### Build Your Own Filter
 
-## Build your own Filter 
+#### Twitter Ecosystem
 
-## Twitter Eco 
-
-Now, X has been a site first based on 120 characters thats it. The ulimate stiffingly of the windbag. Now you can post - videos, 3 hours long, and write essay style tweets. Its a different eco-system now. But its still a place where breavity reeigms supereme. 
+Initially, Twitter was a site based on 120 characters — that's it. The ultimate stifling of the windbag. Now, you can post videos up to 3 hours long and write essay-style tweets. It's a different ecosystem now. But it's still a place where brevity reigns supreme.
 
 ## Email 
 
