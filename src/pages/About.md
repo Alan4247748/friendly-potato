@@ -4,11 +4,9 @@ title: About
 
 ## About 
 
-Multifaceted writer and builder working from first principles. I can design and code enough to be dangerous. Believer in simplicity and context. English, Español, Deutsch speaker. 
+Multifaceted writer working from first principles, written enough to learn; that context is everything, so it's best to keep it simple. 
 
 ## Highlights 
-
-> **I've written enough to learn; that context is everything, so it's best to keep it simple.**
 
 >> **Clients: IT consultancies, tech startups, corporates, fashion labels, advertising agencies, and the EU.**
 >>> **[Perfect Wellness](https://perfectwellnessgroup.com) ~~award~~ winning**
