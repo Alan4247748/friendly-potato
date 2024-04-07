@@ -13,6 +13,7 @@ const config = {
     {
       src: "https://plausible.io/js/script.js",
       "data-domain": "damurphy.com",
+      src: "https://poopup.co/js/script.js","data-domain=": "damurphy.com", 
     },
   ],
   organizationName: 'Alan4247748',
