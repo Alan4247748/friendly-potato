@@ -11,6 +11,9 @@ How to Build a Lego Castle 🏰? Buy it, read the instructions, and use the bric
 ![infrastructure as code](/img/Iac.png)
 <!--truncate-->
 
+
+<div id="elevenlabs-audionative-widget" data-height="90" data-width="100%" data-frameborder="no" data-scrolling="no" data-publicuserid="1ea4904a1504980e57bc4333086a81b3a138c442c37817d36d84f5c859f5bb9a" data-playerurl="https://elevenlabs.io/player/index.html" data-small="True" data-textcolor="rgba(0, 0, 0, 1.0)" data-backgroundcolor="rgba(255, 255, 255, 1.0)" >Loading the <a href="https://elevenlabs.io/text-to-speech" target="_blank" rel="noopener">Elevenlabs Text to Speech</a> AudioNative Player...</div><script src="https://elevenlabs.io/player/audioNativeHelper.js" type="text/javascript"></script>
+
 Just as you would follow a set of instructions to build a Lego castle, Infra-as-Code (IaC) follows a similar pattern. Software engineers write instructions that tell computers how to set up and run different parts of a technology system 🈯. This includes setting up servers, creating databases, API design, and data pipelines to connect different systems 🔁.
 
 ## Origins of IaC

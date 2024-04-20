@@ -11,6 +11,9 @@ tags: [Aerospike, DataDog]
 
 <!--truncate-->
 
+
+<div id="elevenlabs-audionative-widget" data-height="90" data-width="100%" data-frameborder="no" data-scrolling="no" data-publicuserid="1ea4904a1504980e57bc4333086a81b3a138c442c37817d36d84f5c859f5bb9a" data-playerurl="https://elevenlabs.io/player/index.html" data-small="True" data-textcolor="rgba(0, 0, 0, 1.0)" data-backgroundcolor="rgba(255, 255, 255, 1.0)" >Loading the <a href="https://elevenlabs.io/text-to-speech" target="_blank" rel="noopener">Elevenlabs Text to Speech</a> AudioNative Player...</div><script src="https://elevenlabs.io/player/audioNativeHelper.js" type="text/javascript"></script>
+
 ## Aerospike 
 
 Aerospike uses a Hybrid Memory Storage (HMS) architecture design that stores frequently accessed data in Flash memory and less frequently accessed data in solid-state drives (SSDs). The HMS design optimizes read and write performance allowing you to handle [namespaces] with different storage engines. This results in minimal hardware requirements lowering costs and improving data performance.

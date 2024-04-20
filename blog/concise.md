@@ -6,7 +6,7 @@ tags: [Philosophy, Taste, essay]
 
 ---
 
-***WARNING essay is under progress and dev***
+***WARNING essay is under progress***
 
 ## Abstract 
 
@@ -14,6 +14,10 @@ The idea was prompted by the following thread:
 
 ![X thread](/img/concise.png)
 <!--truncate-->
+
+
+
+<div id="elevenlabs-audionative-widget" data-height="90" data-width="100%" data-frameborder="no" data-scrolling="no" data-publicuserid="1ea4904a1504980e57bc4333086a81b3a138c442c37817d36d84f5c859f5bb9a" data-playerurl="https://elevenlabs.io/player/index.html" data-small="True" data-textcolor="rgba(0, 0, 0, 1.0)" data-backgroundcolor="rgba(255, 255, 255, 1.0)" >Loading the <a href="https://elevenlabs.io/text-to-speech" target="_blank" rel="noopener">Elevenlabs Text to Speech</a> AudioNative Player...</div><script src="https://elevenlabs.io/player/audioNativeHelper.js" type="text/javascript"></script>
 
 ## The Art of Brevity 
 

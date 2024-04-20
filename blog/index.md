@@ -10,6 +10,9 @@ The pioneers of A.I. have been many, including John McCarthy, Douglas C. Engelba
 <!--truncate-->
 ![AI generated graphic](/img/AI.png)
 
+
+<div id="elevenlabs-audionative-widget" data-height="90" data-width="100%" data-frameborder="no" data-scrolling="no" data-publicuserid="1ea4904a1504980e57bc4333086a81b3a138c442c37817d36d84f5c859f5bb9a" data-playerurl="https://elevenlabs.io/player/index.html" data-small="True" data-textcolor="rgba(0, 0, 0, 1.0)" data-backgroundcolor="rgba(255, 255, 255, 1.0)" >Loading the <a href="https://elevenlabs.io/text-to-speech" target="_blank" rel="noopener">Elevenlabs Text to Speech</a> AudioNative Player...</div><script src="https://elevenlabs.io/player/audioNativeHelper.js" type="text/javascript"></script>
+
 ## /Augmenting Memory/
 
 Humans developed language by using (small mouth noises) and attaching meaning to them. These symbols were held in collective memory and passed down generation to generation. Language, I would argue, is our greatest **Tech**. It plays a crucial role in all human processes. Through language, we express our thoughts, share knowledge, and document wisdom. Symbols can take various forms, including spoken words, written text, and internal mental representations.

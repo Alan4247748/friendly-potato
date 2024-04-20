@@ -1,6 +1,6 @@
 # Tools & Process
 
-[Docusaurus 2], for the boiler plate.
+[Docusaurus 2], for the boiler-plate.
 From my local push to git repo which triggers a build in Netlify. 
 Basic CI/CD.
 
@@ -12,7 +12,7 @@ To show, I can handle the (deving') of a documentation site.
 
 # Errors 
 
-If you try in-page linking from a .md file to a .js file you get a tersor-plugin error ![Error](http://github.com/facebook/docusaurus/discussions/6219)
+If you try in-page linking from a .md file to a .js file you get a tersor-plugin error ![Error](http://github.com/facebook/docusaurus/discussions/6219) — still not fixed May 2024. 
 
 # Status 
 

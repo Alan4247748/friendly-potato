@@ -13,6 +13,9 @@ This is an excuse to be a nerd and to sketch out a modern database written in Co
 ![Common Lisp](/img/lisp.png)
 <!--truncate-->
 
+
+<div id="elevenlabs-audionative-widget" data-height="90" data-width="100%" data-frameborder="no" data-scrolling="no" data-publicuserid="1ea4904a1504980e57bc4333086a81b3a138c442c37817d36d84f5c859f5bb9a" data-playerurl="https://elevenlabs.io/player/index.html" data-small="True" data-textcolor="rgba(0, 0, 0, 1.0)" data-backgroundcolor="rgba(255, 255, 255, 1.0)" >Loading the <a href="https://elevenlabs.io/text-to-speech" target="_blank" rel="noopener">Elevenlabs Text to Speech</a> AudioNative Player...</div><script src="https://elevenlabs.io/player/audioNativeHelper.js" type="text/javascript"></script>
+
 It needs to be easy to operate. Store both .csv files and rich media. A pipeline that batch processes weekly data analytics into a .pdf file. Also, it needs to have basic backups and redundancies. To do this, I fork [L Source](https://github.com/brendanberg/L) to begin dev. 
 
 ## Introduction
